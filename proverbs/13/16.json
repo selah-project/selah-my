@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "တွက်ဆင်ခြင််တတ်သော လျော်ကန်သူ အားလုံးတို့သည် အသိဉာဏ်ဖြင့် ဆောင်ရွက်ကြ၏၊ ဆ愚蠢်မသူကား အဓိဋ္ဌာန်ပြု၍ ပျံ့နှံ့စေသည်။",
+  "tokens": [
+    {
+      "surface": "καλ",
+      "gloss": ""
+    },
+    {
+      "surface": "ערום",
+      "gloss": ""
+    },
+    {
+      "surface": "יעשה",
+      "gloss": ""
+    },
+    {
+      "surface": "בדעת",
+      "gloss": ""
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": ""
+    },
+    {
+      "surface": "իפրש",
+      "gloss": ""
+    },
+    {
+      "surface": "אולת",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T15:04:36.023122490Z",
+  "model": "glm-5.3"
+}

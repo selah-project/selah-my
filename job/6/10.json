@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 6:10",
+  "book": "job",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ငါ့အား သေလျှင် ငါ့အတွက် ဝမ်းနည်းမှု ဖြစ်လိမ့်မည်",
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": ""
+    },
+    {
+      "surface": "אלוה",
+      "gloss": ""
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": ""
+    },
+    {
+      "surface": "יתר",
+      "gloss": ""
+    },
+    {
+      "surface": "ידו",
+      "gloss": ""
+    },
+    {
+      "surface": "ויבצעני",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T15:19:25.856951317Z",
+  "model": "glm-5.3"
+}

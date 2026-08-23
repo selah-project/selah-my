@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "မနက်ဖန်၌ ဒါဝိဒ်က ယောအာဘထံ စာတစ်စောင် ရေး၍ ဥရိယာ၏ လက်ဖြင့် စေလွှတ်၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "မနက်ဖန်၌"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "ရေး၍"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိဒ်"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "စာ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ယောအာဘ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "စေလွှတ်၏"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "လက်ဖြင့်"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ဥရိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T10:20:54.719091756Z",
+  "model": "glm-5.3"
+}

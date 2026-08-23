@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဂဇ်ဇမ်၏သားများ၊ ဥဇ္ဇာ၏သားများ၊ ပါဆေးခ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ဂဇ်ဇမ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ဥဇ္ဇာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ပါဆေးခ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:39.600384269Z",
+  "model": "glm-5.3"
+}

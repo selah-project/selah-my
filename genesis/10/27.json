@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "⟨את⟩ ဟာဒေါရမ်၊ ⟨את⟩ ဥဇάλနှင့် ⟨את⟩ ဒိက်လာဟ်တို့ကို ⟨သူ⟩⟨ဖန်ဆင်း၏⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဟာဒေါရမ်"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ဟာဒေါရမ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဥဇάλ"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ဥဇάλ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဒိက်လာဟ်"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ဒိက်လာဟ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:25:57.139352542Z",
+  "model": "glm-5.3"
+}

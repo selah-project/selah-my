@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ဗက်ဗက္ကာရ်၊ ဟေရေရှ်၊ ဂလလ်၊ မိခ၏သား မတ်နာယာ၊ ဇီခရီ၏သား၊ အာသပ်၏သား ⟨ဖြစ်၏⟩။",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ဗက်ဗက္ကာရ်"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ဟေရေရှ်"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ဂလလ်"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "မတ်နာယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…၏သား"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "မိခ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…၏သား"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ဇီခရီ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…၏သား"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "အာသပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:24.852009297Z",
+  "model": "glm-5.3"
+}

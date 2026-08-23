@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဗာနို၏သားများ — ခြောက်ရာ့လေးဆယ်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ဗာနို၏"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:36.245545258Z",
+  "model": "glm-5.3"
+}

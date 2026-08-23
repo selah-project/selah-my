@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၏။ ဆိုရန်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:29:25.849132703Z",
+  "model": "glm-5.3"
+}

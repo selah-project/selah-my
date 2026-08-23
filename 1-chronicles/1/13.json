@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ခေနာအန်သည် ⟨את⟩ ဇိဒုန်မြစ်ကို ၎င်း၏သားဦး၊ နှင့် ⟨את⟩ ဟက်တ်ကို ဖွားမြင်သည်။",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ခေနာအန်"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ဖွားမြင်သည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇိဒုန်"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ဇိဒုန်"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "၎င်း၏သားဦး"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဟက်တ်"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ဟက်တ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:30.533083432Z",
+  "model": "glm-5.3"
+}

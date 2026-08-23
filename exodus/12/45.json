@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "နေထိုင်သူ ⟨the⟩ ငှားရမ်းခံသူသည် ၎င်းကို မစားရ။",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "နေထိုင်သူ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ငှားရမ်းခံသူ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "စားရ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "၎င်းကို"
+    }
+  ],
+  "timestamp": "2026-08-23T07:41:11.896435264Z",
+  "model": "glm-5.3"
+}

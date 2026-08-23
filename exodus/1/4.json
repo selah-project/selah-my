@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဒါန်၊ နဖ္ထာလိ၊ ဂါဒ်၊ အာရှာ။",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ဒါန်"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "နဖ္ထာလိ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂါဒ်"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "အာရှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:33:20.751542434Z",
+  "model": "glm-5.3"
+}

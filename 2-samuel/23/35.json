@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ဟက်ဇေရို ⟨the⟩ ကာမေလိုက်သား၊ ပအာရိုင် ⟨the⟩ အာရဗိုက်သား၊",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ဟက်ဇေရို"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "⟨the⟩ ကာမေလိုက်သား"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ပအာရိုင်"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "⟨the⟩ အာရဗိုက်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T10:34:50.370975258Z",
+  "model": "glm-5.3"
+}

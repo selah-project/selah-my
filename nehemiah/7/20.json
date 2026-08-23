@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အဒိန်၏သားများ — ခြောက်ရာ့ငါးဆယ်နှင့်ငါးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "အဒိန်"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "နှင့်ငါး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.256558818Z",
+  "model": "glm-5.3"
+}

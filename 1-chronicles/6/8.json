@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဧလ်ကာနာ၊ ၎င်း၏သား၊ ဧဗ်ယာသပ်၊ ၎င်း၏သား၊ နှင့် အဿိရ်၊ ၎င်း၏သား။",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ဧလ်ကာနာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "နှင့် ဧဗ်ယာသပ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "နှင့် အဿိရ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:38.035865272Z",
+  "model": "glm-5.3"
+}

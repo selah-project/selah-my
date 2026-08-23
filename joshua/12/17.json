@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "တပ်ပူအာခ် ၏ ဘုရင် တစ်ပါး၊ ခေဖေရ် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "တပ်ပူအာခ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "ခေဖေရ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:33.978449762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ခေဟတ်၏ သားများ — အံရာမ်၊ ယဇ်ဟာရ်၊ ဟေဗရွန် နှင့် ဥဇီအဲလ်။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ခေဟတ်၏"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "အံရာမ်"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ယဇ်ဟာရ်"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ဟေဗရွန်"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ဥဇီအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:07.014412660Z",
+  "model": "glm-5.3"
+}

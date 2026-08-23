@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အာမဇ္ဇာဟု ⟨၎是他的⟩ သား၊ အာဇရာဟု ⟨၎是他的⟩ သား၊ ယောထာမ် ⟨၎是他的⟩ သားဖြစ်သည်။",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "အာမဇ္ဇာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "အာဇရာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "ယောထာမ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:20.309236303Z",
+  "model": "glm-5.3"
+}

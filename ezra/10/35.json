@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဗေနာယာ၊ ဗေဒေယာ၊ ကေလူဟိုင်။",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "ဗေနာယာ"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ဗေဒေယာ"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "ကေလူဟိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:26:03.276138821Z",
+  "model": "glm-5.3"
+}

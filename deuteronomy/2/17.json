@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ယာဝေသည် ငါ့အား မိန့်တော်မူသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူသည်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့အား"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မိန့်တော်မူသည်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:54:55.298984088Z",
+  "model": "glm-5.3"
+}

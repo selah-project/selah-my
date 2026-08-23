@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "မိတ်ကာမှ ယာဆောင်း၍ ခတ်စ်မောနာ၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ယာဆောင်း၍"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "မိတ်ကာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "ခတ်စ်မောနာ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:41.040799717Z",
+  "model": "glm-5.3"
+}

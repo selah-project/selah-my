@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ယာရောဗ်အမ်မင်း၏ ⟨အသက်⟩ တစ်ဆယ့ရှစ်နှစ်၌ အာဗိယာသည် ယေဟုဒါပေါ်၌ ⟨မင်းပြု၏⟩။",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "…၌ (နှစ်)"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ရှစ်"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "တစ်ဆယ့ (တစ်ဆယ်)"
+    },
+    {
+      "surface": "למלᚴ",
+      "gloss": "မင်း၏",
+      "comment": "surface corrected below"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ယာရောဗ်အမ်"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ငြိမ်းချမ်းသည် — အစားထိုးအောက်တွင်"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "အာဗိယာ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ယေဟုဒါ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:18:09.270469181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 35,
+  "translation": "ရာခေလ၏ သားတို့မှာ — ယောဆပ်နှင့် ဗိန်ယမိန်တို့တည်း။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားတို့မှာ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ရာခေလ၏"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ယောဆပ်"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ဗိန်ယမိန်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:22:35.309457092Z",
+  "model": "glm-5.3"
+}

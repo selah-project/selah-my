@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ဧလီရှာမာ၊ ဗေအလ်ယာဒါ၊ ဧလီဖာလက်တို့လည်းဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ဧလီရှာမာ"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ဗေအလ်ယာဒါ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ဧလီဖာဖာလက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:48:14.057323028Z",
+  "model": "glm-5.3"
+}

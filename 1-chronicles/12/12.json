@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အတ္တိသည် ⟨ဆဋ္ဌမ⟩၊ အဲလိအဲလ်သည် ⟨သတ္တမ⟩။",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "အတ္တိ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ဆဋ္ဌမ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "အဲလိအဲလ်"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "သတ္တမ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:59.830976910Z",
+  "model": "glm-5.3"
+}

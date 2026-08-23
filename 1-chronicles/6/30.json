@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဟာရှဗ်ယာ၏သား၊ အာမဇ်ယာ၏သား၊ ဟိလ်ကိယာ၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ဟာရှဗ်ယာ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "အာမဇ်ယာ၏"
+    },
+    {
+      "surface": "বं",
+      "gloss": ""
+    },
+    {
+      "surface": "מלוך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:15.990725030Z",
+  "model": "glm-5.3"
+}

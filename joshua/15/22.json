@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ကီနာ၊ ဒီမောနာ၊ အဒ်အဒာ။",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "ကီနာ"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ဒီမောနာ"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "အဒ်အဒာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:24.734980676Z",
+  "model": "glm-5.3"
+}

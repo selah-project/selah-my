@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ခမ်၏သားများမှာ ကုရှ၊ မိဇ်ရိမ်၊ ပုတ်၊ ခါနမ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ခမ်"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "ကုရှ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "မိဇ်ရိမ်"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ပုတ်"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "ခါနမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:45.095202508Z",
+  "model": "glm-5.3"
+}

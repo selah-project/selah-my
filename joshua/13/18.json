@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ယာလ်ဇာ၊ ခေဒေမုတ်၊ မေဖာအက်တို့လည်း ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ယာလ်ဇာ"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "ခေဒေမုတ်"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "မေဖာအက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:34.854290964Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "နှင့် ဂေရာ၊ နှင့် ရှေဖုဖန်၊ နှင့် ဟုရမ်။",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "နှင့် ဂေရာ"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "နှင့် ရှေဖုဖန်"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "နှင့် ဟုရမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:49.079118733Z",
+  "model": "glm-5.3"
+}

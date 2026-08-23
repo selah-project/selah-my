@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဟာရိမ်၏သားများ — သုံးရာ နှစ်ဆယ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ဟာရိမ်"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "နှစ်ဆယ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:28.467310951Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "စင်ကြယ်သော ငှက်အပေါင်းတို့ကို စားနိုင်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "အပေါင်းတို့ကို"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ငှက်"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "စင်ကြယ်သော"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "စားနိုင်ကြ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T09:02:38.281471613Z",
+  "model": "glm-5.3"
+}

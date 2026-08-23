@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "2-samuel 23:34",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "အေလိဖေလက် အာခပ်စဗိုင် — မာအခတ်သား — ၏ သား၊ အေလိအာမ် အာခီသောဖေလ် ⟨the⟩ ဂိလောနိုက်သား၏ သား၊",
+  "tokens": [
+    {
+      "surface": "אליפלט",
+      "gloss": "အေလိဖေလက်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אחסבי",
+      "gloss": "အာခပ်စဗိုင်"
+    },
+    {
+      "surface": "ဘן",
+      "gloss": "သား",
+      "note": "duplicate-surface correction applied"
+    },
+    {
+      "surface": "המעכתי",
+      "gloss": "မာအခတ်သား"
+    },
+    {
+      "surface": "אליעם",
+      "gloss": "အေလိအာမ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "အာခီသောဖေလ်"
+    },
+    {
+      "surface": "הגלני",
+      "gloss": "⟨the⟩ ဂိလောနိုက်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T10:34:50.370835354Z",
+  "model": "glm-5.3"
+}

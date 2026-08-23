@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "လူ့အသက်များအနက် တစ်သောင်းခြောက်ထောင်။",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "အသက်များအနက်"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "လူ့"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်ဆယ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်သောင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T17:38:13.926900622Z",
+  "model": "glm-5.3"
+}

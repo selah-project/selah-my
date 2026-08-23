@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 35,
+  "translation": "ယောရှိယာဟူ ဘုင်ပြုသည်၏ တစ်ဆယ့်ရှစ်နှစ်၌ ဤ ပသခ ပြုလုပ်ခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ရှစ်၌"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "တစ်ဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ဘုင်ပြုသည်၏"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ယောရှိယာဟူ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ပြုလုပ်ခဲ့၏"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ပသခ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ဤ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:23:31.330276904Z",
+  "model": "glm-5.3"
+}

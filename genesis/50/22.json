@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 50:22",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 50,
+  "translation": "ဂျိုးဇefသည် ⟨he⟩ မိဇ်ရာimb၌ ⟨he⟩ မိမိဖခင်၏အိမ်နှင့်အတူ နေထိုင်၏။ ဂျိုးဇefသည် နှစ်တစ်ရာဆယ်စီး အသက်ရှင်၏။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "နေထိုင်၏"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ဂျိုးဇef"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "မိဇ်ရာimb၌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "သူသည်"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "အိမ်နှင့်အတူ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "မိမိဖခင်၏"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်၏"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ဂျိုးဇef"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ဆယ်စီး"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:29:19.127097236Z",
+  "model": "glm-5.3"
+}

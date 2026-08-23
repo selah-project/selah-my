@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "မိစာ်သူ မောင်းမကို အသက်မထားရှိစေနှင့်။",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "မိစာ်သူ မောင်းမ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "အသက်ထားရှိစေနှင့်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:48:25.607866016Z",
+  "model": "glm-5.3"
+}

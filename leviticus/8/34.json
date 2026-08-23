@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ယနေ့ပြုခဲ့သည်အတိုင်း ယာဝေသည် သင်တို့အတွက် ကဲခြင်းငှါ ပြုစေခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "အတိုင်း"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ပြုခဲ့သည်"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "၌"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ပြုစေခဲ့၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "ပြုျဖစ်ေစ"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "ကဲခြင်းငှါ"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "သင်တို့အတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:07:57.882949226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ရှမ္မာဣ၏သားမှာ မအုန်ဖြစ်၏။ မအုန်သည် ⟨Beth-Tzur⟩ ၏ဖခင်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ရှမ္မာဣ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "မအုန်"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "မအုန်"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ဖခင်"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဘိတ်-ဇူရ်"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ဘိတ်-ဇူရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:26.279741895Z",
+  "model": "glm-5.3"
+}

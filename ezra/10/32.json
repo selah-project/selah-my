@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဗင်္ဂျာမင်၊ မာလုခ်၊ ရှေမာရိယာ။",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ဗင်္ဂျာမင်"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "မာလုခ်"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ရှေမာရိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:25:56.130277632Z",
+  "model": "glm-5.3"
+}

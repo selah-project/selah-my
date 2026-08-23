@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "ထိုအခါ ယာဝေသည် မိုရှေအား မိန့်တော်မူ၏၊ အလိုသို့ —",
+  "tokens": [
+    {
+      "surface": "וידবר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאမר",
+      "gloss": "အလိုသို့"
+    }
+  ],
+  "timestamp": "2026-08-23T07:53:53.159233408Z",
+  "model": "glm-5.3"
+}

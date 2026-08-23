@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "ဇိက်လာဂ်၊ ဗက်-ဟမာရ်ခဗဗော့သ်၊ ဟာဇာရ်-ဆူဆာ၊",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ဇိက်လာဂ်"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ဗက်-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "ဟမာရ်ခဗဗော့သ်"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ဟာဇာရ်-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "ဆူဆာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:44.335557581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဗိဂ်ဝိုင်၏သားများ — နှစ်ထောင်၊ ခြောက်ဆယ်နှင့်ခုနစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ဗိဂ်ဝိုင်"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "နှစ်ထောင်"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ခြောက်ဆယ်"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "နှင့်ခုနစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.256432752Z",
+  "model": "glm-5.3"
+}

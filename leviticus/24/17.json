@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "လူတစ်ဦးသည် လူသား၏ နေဖက်ရှ် တစ်ခုကို ရိုက်နှက်လျှင် သေဖို့ သေစေရမည်။",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "လူတစ်ဦးသည်"
+    },
+    {
+      "surface": "כי",
+      "gloss": "လျှင်"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ရိုက်နှက်"
+    },
+    {
+      "surface": "כל",
+      "gloss": "တစ်ခုကို"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "နေဖက်ရှ်"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "လူသား၏"
+    },
+    {
+      "surface": "מות",
+      "gloss": "သေဖို့"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "သေစေရမည်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:21:03.805308509Z",
+  "model": "glm-5.3"
+}

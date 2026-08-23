@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "အဗ်ရာဟမ်၏သားများမှာ — ယိတ်စဟာက်နှင့် ယိရှ်မေအလ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ယိတ်စဟာက်"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "နှင့် ယိရှ်မေအလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:25.656295370Z",
+  "model": "glm-5.3"
+}

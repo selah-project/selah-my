@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မakhnဒဗာင်၊ ရှာရှိင်၊ ရှာရိုင်၊",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "မခ်နဒ်ဗာင်"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ရှာရှိ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ရှာရိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:25:30.596116973Z",
+  "model": "glm-5.3"
+}

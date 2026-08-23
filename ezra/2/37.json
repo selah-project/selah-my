@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အင်္မာ၏သားများ — တစ်ထောင့်ငါးဆယ့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "အင်္မာ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:55.835578989Z",
+  "model": "glm-5.3"
+}

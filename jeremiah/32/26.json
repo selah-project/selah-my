@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 32,
+  "translation": "ယာဝေ၏ ⟨အမှု⟩ ယေရမိထံ လာ၍ မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ယေရမိ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မိန့်တော်မူ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T12:26:29.275778093Z",
+  "model": "glm-5.3"
+}

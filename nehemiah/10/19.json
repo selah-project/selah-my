@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဟောဒိယာ၊ ခရှုမ်၊ ဗက်ဆိုင်။",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ဟောဒိယာ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ခရှုမ်"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "ဗက်ဆိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:40.961843415Z",
+  "model": "glm-5.3"
+}

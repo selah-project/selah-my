@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ခေတ်၏သားများသည် အဗ်ရာဟမ်ကို ⟨את⟩ ဖြေကြ၍ သူ့အား ဆိုသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "ဖြေကြ၏"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ခေတ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အဗ်ရာဟမ်"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုသည်မှာ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ့အား"
+    }
+  ],
+  "timestamp": "2026-08-23T07:11:58.832040844Z",
+  "model": "glm-5.3"
+}

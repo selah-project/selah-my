@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "အေလုန်၊ ထိမ်နာတ်၊ အက်ခရုန်တို့လည်း ပါဝင်၏။",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "အေလုန်"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "ထိမ်နာတ်"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "အက်ခရုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:29:56.110085430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဂိဗ္ဗာရ်၏သားများ — ကိုးဆယ်နှင့် ငါးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ဂိဗ္ဗာရ်"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ကိုးဆယ်"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ငါးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:51.837605767Z",
+  "model": "glm-5.3"
+}

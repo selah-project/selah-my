@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "တတိယသည် ဟာရိမ်အတွက်၊ စတုတ္ထသည် ဆောရိမ်အတွက်ဖြစ်သည်။",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ဟာရိမ်အတွက်"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "တတိယ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ဆောရိမ်အတွက်"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "စတုတ္ထ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:55:02.544174662Z",
+  "model": "glm-5.3"
+}

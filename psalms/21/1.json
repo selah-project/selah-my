@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "ဂီတစီမံသူအား — ဒါဝိဒ် ၏ မဇ္ဇမော်။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ဂီတစီမံသူအား"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "မဇ္ဇမော်"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:08:10.964194633Z",
+  "model": "glm-5.3"
+}

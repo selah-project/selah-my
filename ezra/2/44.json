@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ခေရော့စ်၏သားများ၊ သိအာ၏သားများ၊ ဖဒုန်၏သားများ။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "ခေရော့စ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "သိအာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ဖဒုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:22:11.201153977Z",
+  "model": "glm-5.3"
+}

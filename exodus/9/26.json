@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ဣသရေလ်သားများနေထိုင်ရာ ဂိုရှင်ပြည်၌သာ ပျားသလဲမရှိ။",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "သာ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ပြည်၌"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "ဂိုရှင်"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ထိုနေရာ၌"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ရှိ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ပျားသလဲ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:39:55.152527351Z",
+  "model": "glm-5.3"
+}

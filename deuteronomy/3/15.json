@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "မခိရ်အား ⟨את⟩ ဂိလ်အောဒ်ကို ငါပေးတော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "မခိရ်အား"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ငါပေးတော်မူ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဂိလ်အောဒ်"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ဂိလ်အောဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:55:33.138303271Z",
+  "model": "glm-5.3"
+}

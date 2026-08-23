@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "အဗ်ရာဟမ်သည် ⟨பின்னும்⟩ မိန်းမတစ်ယောက်ကို ယူ၍ အမည်မှာ ကေတုရာဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ထပ်၍"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ယူ၍"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "မိန်းမ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "အမည်မှာ"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "ကေတုရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:15:16.717276065Z",
+  "model": "glm-5.3"
+}

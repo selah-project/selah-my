@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "သူ၏သားသည် ထို့နောက် ဇူရ်နှင့် ကိရှ်နှင့် ဘာအလ်နှင့် နာဒပ်တို့သည် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "အကြီးဆုံး"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "အဗ်ဒုန်"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ဇူရ်"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ကိရှ်"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ဘာအလ်"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "နာဒပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:38.148956453Z",
+  "model": "glm-5.3"
+}

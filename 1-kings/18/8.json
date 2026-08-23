@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "He said to him — I am ⟨he⟩; go, say to your lord — behold, Elijah ⟨is here⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "said"
+    },
+    {
+      "surface": "לו",
+      "gloss": "to him"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I am"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "say"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "to your lord"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "behold"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    }
+  ],
+  "timestamp": "2026-08-23T10:53:43.894367749Z",
+  "model": "glm-5.3"
+}

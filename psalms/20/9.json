@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "အချင်းတို့သည် ဒူးထိုးကျိုးပြိုကျကုန်၏၊ ငါတို့မူကား ထကြွရပ်တည်ကြသတည်း။",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "အချင်းတို့သည်"
+    },
+    {
+      "surface": "ကြေ",
+      "gloss": ""
+    },
+    {
+      "surface": "ခါ",
+      "gloss": ""
+    },
+    {
+      "surface": "ကောင်း",
+      "gloss": ""
+    },
+    {
+      "surface": "ကား",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T14:05:59.991959087Z",
+  "model": "glm-5.3"
+}

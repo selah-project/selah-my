@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 13:21",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "在那里旷野的走兽必躺卧，它们的房屋必满了哀号的兽类；鸵鸟的女儿们必住在那里，野山羊必在那里跳跃。",
+  "tokens": [
+    {
+      "surface": "ורבצו",
+      "gloss": "必躺卧"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那里"
+    },
+    {
+      "surface": "ציים",
+      "gloss": "旷野的走兽"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "必满了"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "它们的房屋"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "哀号的兽类"
+    },
+    {
+      "surface": "ושכנו",
+      "gloss": "必住"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那里"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "女儿们"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "鸵鸟"
+    },
+    {
+      "surface": "ושעירים",
+      "gloss": "野山羊"
+    },
+    {
+      "surface": "ירקדו",
+      "gloss": "必跳跃"
+    },
+    {
+      "surface": "שם",
+      "gloss": "在那里"
+    }
+  ],
+  "timestamp": "2026-08-23T11:27:40.339940632Z",
+  "model": "glm-5.3"
+}

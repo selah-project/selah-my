@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "အ enslaver ကို အ enslaver အ enslaver အ enslaver အ enslaver ⟨את⟩ အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver ။ အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver ။",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "အ enslaver ကို"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အ enslaver အ enslaver"
+    },
+    {
+      "surface": "בן",
+      "gloss": "အ enslaver"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "အ enslaver အ enslaver"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "အ enslaver အ enslaver အ enslaver"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "အ enslaver အ enslaver အ enslaver"
+    },
+    {
+      "surface": "כי",
+      "gloss": "အ enslaver အ enslaver"
+    },
+    {
+      "surface": "ζράκ",
+      "gloss": "အ enslaver အ enslaver"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "အ enslaver"
+    }
+  ],
+  "timestamp": "2026-08-23T07:11:25.244065554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ဗိလအမ်သည် ဗာလက်နှင့်အတူ သွား၍ ကိရိတ်-ဟုသွတ်သို့ သူတို့ ရောက်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "သွား၍"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ဗိလအမ်သည်"
+    },
+    {
+      "surface": "עם",
+      "gloss": "…နှင့်အတူ"
+    },
+    {
+      "surface": "בলק",
+      "gloss": "ဗာလက်"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ရောက်ကြ၏"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ကိရိတ်"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ဟုသွတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:44:31.036194580Z",
+  "model": "glm-5.3"
+}

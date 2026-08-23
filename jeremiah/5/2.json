@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "သူတို့သည် 'ယာဝေ အသက်ရှင်၏' ဟု ဆိုငြားလည်း မုသားအား ကျိန်ဆိုကြ၏။",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ငြားလည်း"
+    },
+    {
+      "surface": "חי",
+      "gloss": "အသက်ရှင်၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ဆိုကြ"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "မှန်စွာ"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "မုသားအား"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "ကျိန်ဆိုကြ"
+    }
+  ],
+  "timestamp": "2026-08-23T12:07:08.766040690Z",
+  "model": "glm-5.3"
+}

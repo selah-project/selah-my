@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "နေတီနီများ — ဆီဟာ၏သားများ၊ ဟာဆုဖာ၏သားများ၊ တဗ္ဗာဩ်၏သားများ။",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "နေတီနီများ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ဆီဟာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ဟာဆုဖာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "တဗ္ဗာဩ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:59.624944961Z",
+  "model": "glm-5.3"
+}

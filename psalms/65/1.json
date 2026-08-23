@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 65,
+  "translation": "အတီးပြုသူအထံသို့ · ဒါဝိဒ်၏ မော်မှုံ · သီချင်း",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "အတီးပြုသူအထံသို့"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "မော်မှုံ"
+    },
+    {
+      "surface": "လדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "သီချင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T14:24:04.944828941Z",
+  "model": "glm-5.3"
+}

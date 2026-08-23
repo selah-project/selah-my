@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "မိုက်သူသည် ⟨את⟩ မိမိလက်များကို ဖက်ဆုပ်ထား၍ ⟨את⟩ မိမိအသားကို စားသည်။",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "မိုက်သူ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ဖက်ဆုပ်ထား၍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မိမိလက်များကို"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "မိမိလက်များ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "စားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မိမိအသားကို"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "မိမိအသား"
+    }
+  ],
+  "timestamp": "2026-08-23T15:55:32.926333068Z",
+  "model": "glm-5.3"
+}

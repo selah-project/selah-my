@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ဇီဖ်၊ တေလက်မ်၊ ဗေအလော့တ်။",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ဇီဖ်"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "တေလက်မ်"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ဗေအလော့တ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:24.735215225Z",
+  "model": "glm-5.3"
+}

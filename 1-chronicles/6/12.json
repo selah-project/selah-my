@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဧလိအာဗ် - သူ၏သား၊ ယေရောခမ် - သူ၏သား၊ ဧလကာနာလည်း - သူ၏သားဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "ဧလိအာဗ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ယေရောခမ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ဧလကာနာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:35.080991108Z",
+  "model": "glm-5.3"
+}

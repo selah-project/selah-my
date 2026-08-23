@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 34:20",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ရှIMon သားတို့၏ မျိုးမှ အMihud သား ရှMuel ဖြစ်သတည်း။",
+  "tokens": [
+    {
+      "surface": "ವillã",
+      "gloss": ""
+    },
+    {
+      "surface": "ಬ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T08:52:27.866066927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ရုပ်တုများမှာ လုံးဝ ပျောက်ကုန်လိမ့်မည်။",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ရုပ်တုများမှာ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "လုံးဝ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ပျောက်ကုန်လိမ့်မည်"
+    }
+  ],
+  "timestamp": "2026-08-23T11:20:54.069327971Z",
+  "model": "glm-5.3"
+}

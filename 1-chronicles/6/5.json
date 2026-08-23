@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဂါရ်ရှုမ်၏ ⟨သားများမှာ⟩ — လိဗ်နိ၊ ၎င်း၏သား၊ ယာခတ်၊ ၎င်း၏သား၊ ဇိမ်မာ၊ ၎င်း၏သား။",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "ဂါရ်ရှုမ်၏"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "လိဗ်နိ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ယာခတ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ဇိမ်မာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:38.035359764Z",
+  "model": "glm-5.3"
+}

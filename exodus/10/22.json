@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 10:22",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "මෙය නිවැරදි නොවේ — කරුණාකර ඉහත verse 21 හි output වෙනුවට මෙම දෙය නොසලකන්න.",
+  "tokens": [],
+  "timestamp": "2026-08-23T07:40:26.744132222Z",
+  "model": "glm-5.3"
+}

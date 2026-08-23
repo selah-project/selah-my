@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အဘိရှူအာသည် ⟨את⟩ ဗုကီကို မွေးဘွား၏၊ ဗုကီသည် ⟨את⟩ အုဇီကို မွေးဘွား၏။",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "အဘိရှူအာ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘွား၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဗုကီကို"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ဗုကီ"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ဗုကီ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘွား၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အုဇီကို"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "အုဇီ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:37.299344474Z",
+  "model": "glm-5.3"
+}

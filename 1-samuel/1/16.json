@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 1:16",
+  "book": "1-samuel",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "«tjypPm;?tjym;a?ol?udk?awnfh?udk?us?ynm?vkyfief;ygonf\/?tqk?oyf?awG?ygoD;?tjz?udk?vrf;?a&?tjyif?rnfh?jyK?ay?ef?rS?ayonf\/»",
+  "tokens": [
+    {
+      "surface": "al",
+      "gloss": "«?ch?"
+    },
+    {
+      "surface": "ttn",
+      "gloss": "tjypPm;?tjym;a?ol?udk?awnfh?udk?us?ynm?vkyfief;ygonf\/?"
+    },
+    {
+      "surface": "at",
+      "gloss": "⟨את⟩ «at»",
+      "marks": "tjym;a?ol?udk"
+    },
+    {
+      "surface": "amtjk",
+      "gloss": "tjym;a?ol?udk"
+    },
+    {
+      "surface": "lpny",
+      "gloss": "txl;vHk;?awmif?awmif;"
+    },
+    {
+      "surface": "bt",
+      "gloss": "awnfh?udk?us"
+    },
+    {
+      "surface": "blya",
+      "gloss": "ynm"
+    },
+    {
+      "surface": "ky",
+      "gloss": "tqk?oyf?awG?ygoD;?tjz?udk"
+    },
+    {
+      "surface": "mrb",
+      "gloss": "vrf;?a&?tjyif?rnfh"
+    },
+    {
+      "surface": "yxy",
+      "gloss": "jyK"
+    },
+    {
+      "surface": "wkuy",
+      "gloss": "ay?ef"
+    },
+    {
+      "surface": "dbry",
+      "gloss": "rS?ayonf\/»"
+    },
+    {
+      "surface": "ad",
+      "gloss": "«"
+    },
+    {
+      "surface": "hnh",
+      "gloss": "tjyif"
+    }
+  ],
+  "timestamp": "2026-08-23T09:52:40.609502452Z",
+  "model": "glm-5.3"
+}

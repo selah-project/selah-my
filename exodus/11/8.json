@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 11:8",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "And all these your servants will come down to me and bow down to me, saying, 'Go out, you and all the people who are at your feet; and after that I will go out.' And he went out from the presence of Pharaoh in the heat of anger.",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "and-they-will-come-down"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "your servants"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "these"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "והשתחוו",
+      "gloss": "and-bow-down"
+    },
+    {
+      "surface": "לי",
+      "gloss": "to me"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "saying"
+    },
+    {
+      "surface": "צא",
+      "gloss": "go out"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "you (thou)"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and-all"
+    },
+    {
+      "surface": "העם",
+      "gloss": "the people"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "ברגליך",
+      "gloss": "are-at-your-feet"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "and-after"
+    },
+    {
+      "surface": "כן",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "I-will-go-out"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and-he-went-out"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "from-the-presence-of"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "in-the-heat-of"
+    },
+    {
+      "surface": "אף",
+      "gloss": "anger (nose)"
+    }
+  ],
+  "timestamp": "2026-08-23T07:40:50.112073596Z",
+  "model": "glm-5.3"
+}

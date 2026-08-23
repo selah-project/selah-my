@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 18:7",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "As Obadyahu was on the way, behold — Elijah ⟨came⟩ to meet him. He recognized him, fell on his face, and said — is it you, my lord Elijah?",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "it came to pass"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "on the way"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "and behold"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "to meet him"
+    },
+    {
+      "surface": "ויכרהו",
+      "gloss": "he recognized him"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "fell"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "his face"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and said"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "is it you"
+    },
+    {
+      "surface": "זה",
+      "gloss": "this one"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "my lord"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Elijah"
+    }
+  ],
+  "timestamp": "2026-08-23T10:53:43.894257053Z",
+  "model": "glm-5.3"
+}

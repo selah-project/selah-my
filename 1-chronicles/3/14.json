@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အာမုန် သူ၏သား၊ ယောရှိယာဟု သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "အာမုန်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ယောရှိယာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:00.158914988Z",
+  "model": "glm-5.3"
+}

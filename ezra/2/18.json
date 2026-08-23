@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ယောရာ၏သားများ — တစ်ရာနှင့် တစ်ဆယ့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ယောရာ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:51.837403301Z",
+  "model": "glm-5.3"
+}

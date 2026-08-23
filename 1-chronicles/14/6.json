@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "နောဂါ၊ နေဖက်၊ ယာဖိယာတို့လည်းဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "နောဂါ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "နေဖက်"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ယာဖိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:48:14.057211009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ဟာဇေရာသမှ ထွက်ခွာသွား၍ ရစ်မာ၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွား၍"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "ဟာဇေရာသမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "ဗျူဟာ",
+      "gloss": "",
+      "notes": []
+    },
+    {
+      "surface": "ပျက်",
+      "gloss": "",
+      "notes": []
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:54.833463433Z",
+  "model": "glm-5.3"
+}

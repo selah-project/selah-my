@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ယာဝေ သည် မိုရှေ ထံသို့ မိန့်တော်မူ၏ — ဤသို့ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့"
+    }
+  ],
+  "timestamp": "2026-08-23T08:04:50.879708713Z",
+  "model": "glm-5.3"
+}

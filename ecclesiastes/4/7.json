@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ကျွန်ုပ် ပြန်လှည့်၍ နေ၏အောက်၌ ⟨ရှေသည်⟩ သော ဗလာဒှနကို မြင်ပြီ။",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ပြန်လှည့်၍"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ကျွန်ုပ်"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "မြင်ပြီ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ဗလာဒှန"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အောက်၌"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "နေ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:55:32.926764646Z",
+  "model": "glm-5.3"
+}

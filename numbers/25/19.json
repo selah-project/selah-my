@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "ရောဂါဘေးအပြီးတွင် ဤသို့ဖြစ်ပျက်ခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်ပျက်ခဲ့၏"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "အပြီးတွင်"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ရောဂါဘေး"
+    }
+  ],
+  "timestamp": "2026-08-23T08:44:21.828978750Z",
+  "model": "glm-5.3"
+}

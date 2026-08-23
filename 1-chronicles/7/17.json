@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အူလမ်၏သားများမှာ ဗေဒန်ဖြစ်၏။ ဤသူတို့သည် ဂိလောဒ၏သားများ၊ မာခိရ်၏သား၊ မနာမေ၏သား ဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "အူလမ်"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "ဗေဒန်"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ဤသူတို့"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ဂိလောဒ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "မာခိရ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "မနာမေ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:20.271017697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဖာရှ်ခူရ်၏သားများ — တစ်ထောင် နှစ်ရာ လေးဆယ် ခုနစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ဖာရှ်ခူရ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "နှစ်ရာ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ခုနစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:31.453440107Z",
+  "model": "glm-5.3"
+}

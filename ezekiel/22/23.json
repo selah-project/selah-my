@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ယာဝေ၏နှုတ်ကပတ်တော်သည် ငါဆီသို့ လာသည်၊ ပြောဆိုလေသည် —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေသည်"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုလေသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:01:01.948829512Z",
+  "model": "glm-5.3"
+}

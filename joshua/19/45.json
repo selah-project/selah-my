@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "ရှင်းရှင်း — ဒေါဏ၊ ဘင်ရေ-ဘရက်၊ ဂတ်-ရင်မန်",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ဒေါဏ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ဘင်ရေ-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ဘရက်"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ဂတ်-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ရင်မန်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:30:54.637103789Z",
+  "model": "glm-5.3"
+}

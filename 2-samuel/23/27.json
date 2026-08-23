@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "အဗိဧဇရ် ⟨the⟩ အနာတောသိုသား၊ မေဗုန္နိုင် ⟨the⟩ ဟုရှာသိုသား၊",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "အဗိဧဇရ်"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "⟨the⟩ အနာတောသိုသား"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "မေဗုန္နိုင်"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "⟨the⟩ ဟုရှာသိုသား"
+    }
+  ],
+  "timestamp": "2026-08-23T17:47:38.295239123Z",
+  "model": "glm-5.3"
+}

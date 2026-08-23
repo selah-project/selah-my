@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "မက္ကေဒါ ၏ ဘုရင် တစ်ပါး၊ ဗက်-အေလ် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "မלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "မက္ကေဒါ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက်-အေလ် (အိမ်)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(အေလ်)"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:15.189445314Z",
+  "model": "glm-5.3"
+}

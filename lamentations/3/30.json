@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ရိုက်သူအား ပခုံးသားကို ပေးစေသည် — ကဲ့ရဲ့ရှုတ်ချခြင်းဖြင့် ဝစေသည်။",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ပေးစေသည်"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ရိုက်သူအား"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ပခုံးသားကို"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ဝစေသည်"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ကဲ့ရဲ့ရှုတ်ချခြင်းဖြင့်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:13:16.221601123Z",
+  "model": "glm-5.3"
+}

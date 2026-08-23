@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ခေလအမှာ ဇေရက်၊ ယဇ်ခါရ်၊ ဧက်နန်တို့ ⟨are⟩ သားများဖြစ်ကြသည်။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ခေလအ"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ဇေရက်"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ယဇ်ခါရ်"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ဧက်နန်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:22.820284087Z",
+  "model": "glm-5.3"
+}

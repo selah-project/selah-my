@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 10:39",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ရှေလေမ်ယာ၊ နာတန်၊ အဒါယာ၊",
+  "tokens": [
+    {
+      "surface": "ושלמיה",
+      "gloss": "ရှေလေမ်ယာ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "နာတန်"
+    },
+    {
+      "surface": "ועדיה",
+      "gloss": "အဒါယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:25:30.596008020Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ဣသရေလ၌ ဘရ်-ခေရဲမ် အရာအားလုံးသည် သင်၏ဖြစ်စေရာ၏။",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ဘရ်-ခေရဲမ်"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ဣသရေလ၌"
+    },
+    {
+      "surface": "לך",
+      "gloss": "သင်၏"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ဖြစ်စေရာ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:39:55.863603605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဤသို့လည်း — နေကိုပင် မမြင်၊ မသိခဲ့ပါ။ ယင်းသည် ထိုသူထက် သက်သာခြင်း ရှိ၏။",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ဤသို့လည်း"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "နေ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "မြင်"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မသိ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "သိ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "သက်သာခြင်း"
+    },
+    {
+      "surface": "လזה",
+      "gloss": "ယင်းသည်"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ထိုသူထက်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:57:54.284283860Z",
+  "model": "glm-5.3"
+}

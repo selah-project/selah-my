@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 2:14",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ထိုအခါ ဒန်နီယလ်သည် ဗာဗုလုန်ပညာရှင်များကို သတ်ရန် ထွက်သွားသော ဘုရင်၏ ⟨အချက်အချာကိုင်⟩ ထောက်ပ renown ခေါင်းဆောင် အရိ-ရှုဏ အား ပဋိညာဉ်နှင့် ဉာဏ်ပြောဆို၏။",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ထိုအခါ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ဒန်နီယလ်"
+    },
+    {
+      "surface": "התיב",
+      "gloss": "ပြန်ကြား၏"
+    },
+    {
+      "surface": "עטא",
+      "gloss": "သွန်သင်ချက်နှင့်"
+    },
+    {
+      "surface": "וטעם",
+      "gloss": "ဉာဏ်ဖြင့်"
+    },
+    {
+      "surface": "לאריוך",
+      "gloss": "အာရိ-ရှုဏ အား"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ခေါင်းဆောင်"
+    },
+    {
+      "surface": "טבחיא",
+      "gloss": "ပ_FS_name-guardထောက်ပ renownခေါင်းဆောင်"
+    },
+    {
+      "surface": "די",
+      "gloss": "<que>"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "<rei>"
+    },
+    {
+      "surface": "די",
+      "gloss": "<que2>"
+    },
+    {
+      "surface": "נפק",
+      "gloss": "<sai>"
+    },
+    {
+      "surface": "לקטלה",
+      "gloss": "<sha>"
+    },
+    {
+      "surface": "לחכימי",
+      "gloss": "<china-men>"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "<palpa>"
+    }
+  ],
+  "timestamp": "2026-08-23T16:06:43.571003159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 9:8",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "And I shall encamp as a guard for my house, from him who passes by and from him who returns; and a taskmaster shall not pass over them again; for now I have seen with my eyes.",
+  "tokens": [
+    {
+      "surface": "וחניתי",
+      "gloss": "and I shall encamp"
+    },
+    {
+      "surface": "לביתי",
+      "gloss": "for my house"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "as a guard"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "from him who passes by"
+    },
+    {
+      "surface": "ומשב",
+      "gloss": "and from him who returns"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "he shall pass"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "over them"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "again"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "a taskmaster"
+    },
+    {
+      "surface": "כי",
+      "gloss": "for"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "now"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "I have seen"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "with my eyes"
+    }
+  ],
+  "timestamp": "2026-08-23T18:05:32.812061312Z",
+  "model": "glm-5.3"
+}

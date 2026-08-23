@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ကေနန်၏ နေ့ရက်အားလုံးသည် နှစ်တစ်ဆယ်နှင့် ကိုးရာသော နှစ် ⟨is⟩ ဖြစ်၏၊ ထို့နောက် ⟨he⟩ သေလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ် ⟨is⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "နေ့ရက်များ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ကေနန်၏"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်ဆယ်"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "နှင့်ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "သေလေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:19.576567247Z",
+  "model": "glm-5.3"
+}

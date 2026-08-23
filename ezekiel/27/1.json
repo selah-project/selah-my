@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 27:1",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "ယာဝေ၏နှုတ်ကပတ်တော်သည် ငါ့ဆီသို့ လာ၍ ပြောဆို၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုခြင်းငှါ"
+    }
+  ],
+  "timestamp": "2026-08-23T13:06:09.850822205Z",
+  "model": "glm-5.3"
+}

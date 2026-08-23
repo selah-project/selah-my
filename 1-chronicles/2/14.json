@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "နေတနေလသည် စတုတ္ထ၊ ရဒ္ဒိုင်သည် ပဉ္စမ။",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "နေတနေလ"
+    },
+    {
+      "surface": "ဟရဗိအီ",
+      "gloss": "စတုတ္ထ"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ရဒ္ဒိုင်"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ပဉ္စမ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:28.701390880Z",
+  "model": "glm-5.3"
+}

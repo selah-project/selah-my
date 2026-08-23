@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ရစ်မာမှ ထွက်ခွာသွား၍ ရမ်မောင်-ပေရက်၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွား၍"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "ရစ်မာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "ရမ်မောင်-၌"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ပေရက်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:54.833597656Z",
+  "model": "glm-5.3"
+}

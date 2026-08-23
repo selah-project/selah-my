@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အဇ်ဂတ်၏သားများ — နှစ်ထောင့်သုံးရာ့နှစ်ဆယ်နှင့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "အဇ်ဂတ်"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "နှစ်ထောင်"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှင့်နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.256094092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဘေth-ဧလ်နှင့် ဟာအိမြို့သားများ — တစ်ရာ နှစ်ဆယ် သုံးယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "မြို့သားများ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဘေth"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ဧလ်"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "နှင့် ဟာအိ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "နှင့် သုံး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:47.837439556Z",
+  "model": "glm-5.3"
+}

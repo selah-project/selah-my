@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ညတန်ခိုးဖြစ်လေ၏၊ မနက်ခင်းဖြစ်လေ၏ — စတုတ္ထနေ့ဖြစ်သတည်း။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ညတန်ခိုး"
+    },
+    {
+      "surface": "ဝիဟီ",
+      "gloss": ""
+    },
+    {
+      "surface": "בקר",
+      "gloss": "မနက်ခင်း"
+    },
+    {
+      "surface": "יום",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "စတုတ္ထ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:02.250910302Z",
+  "model": "glm-5.3"
+}

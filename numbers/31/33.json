@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "သိုးများကား ခုနှစ်သောင်းနှစ်ထောင် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ကျွဲနွားများ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ခုနှစ်ဆယ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ထောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:50:24.877484557Z",
+  "model": "glm-5.3"
+}

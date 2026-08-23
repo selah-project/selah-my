@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 24:44",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "INVALID",
+  "tokens": [
+    {
+      "surface": "INVALID",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T07:14:11.751994418Z",
+  "model": "glm-5.3"
+}

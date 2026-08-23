@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "မိုဇာသည် ⟨את⟩ ဗီနာကို မွေးသည်။ ရေဖိယာသည် ⟨his son⟩ သူ၏သား၊ အဲလအာရှာသည် ⟨his son⟩ သူ၏သား၊ အာဇေလ်သည် ⟨his son⟩ သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "မိုဇာ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဗီနာ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ဗီနာ"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "ရေဖိယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "အဲလအာရှာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "အာဇေလ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:52.129473074Z",
+  "model": "glm-5.3"
+}

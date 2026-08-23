@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 2:8",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဤအရာများအနက်မှ ပြုလုပ်သော မင်ခါကို ယာဝေထံ ယူလာပြီး၊ ယဇ်ပုရောဟိတ်ထံ  ၎င်းကို ချဉ်းကပ်စေ၍ ဗေဒihar altar၊ ပူအား၊",
+  "tokens": [
+    {
+      "surface": "error",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T08:02:12.150861818Z",
+  "model": "glm-5.3"
+}

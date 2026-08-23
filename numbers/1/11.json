@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဗင်္ျာမိန်အား — အဗိဒန်၊ ဂိဒောနိ၏သား။",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ဗင်္ျာမိန်အား"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "အဗိဒန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ဂိဒောနိ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:24:31.138817679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ခါဒိဒ်၊ တစေဘောအိမ်၊ နေဗာလ္လာတ်။",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ခါဒိဒ်"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "တစေဘောအိမ်"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "နေဗာလ္လာတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:51.922125560Z",
+  "model": "glm-5.3"
+}

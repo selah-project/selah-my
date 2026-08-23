@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "မေခေရသိုက်သား ခေဖေရ်၊ ပေလိုနိုက်သား အာခိယာ၊",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ခေဖေရ်"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "မေခေရသိုက်သား"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "အာခိယာ"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ပေလိုနိုက်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:39.880011096Z",
+  "model": "glm-5.3"
+}

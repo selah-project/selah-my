@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 23:1",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ယာဝေ၏ ⟨ကတိကဝတ်⟩ စကားသည် ငါ့ဆီသို့ ရောက်လာ၍ ⟨ိပြောသည်⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လာ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "စကား"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ိပြောသည်⟩"
+    }
+  ],
+  "timestamp": "2026-08-23T13:02:58.728044385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဟာရောရိသား ရှမ်မတ်၊ ပေလုနိသား ခေလက်၊",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ရှမ်မတ်"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ဟာရောရိသား"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ခေလက်"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ပေလုနိသား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:21.483059436Z",
+  "model": "glm-5.3"
+}

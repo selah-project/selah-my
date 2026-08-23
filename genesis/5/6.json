@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ရှေသည် နှစ်တစ်ရာ့ငါးဆယ်အသက်ရှင်ပြီး ⟨את⟩ ဧနော့ရှ်ကို မွေးဖွားလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်လေ၏"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ရှေ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "နှင့်တစ်ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "မွေးဖွားလေ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဧနော့ရှ်ကို"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ဧနော့ရှ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:18.770288006Z",
+  "model": "glm-5.3"
+}

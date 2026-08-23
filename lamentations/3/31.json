@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အကြောင်းမူကား အဒေါနိုင်သည် ⟨את⟩ နှစ်စဉ်နှစ်နောင် စွန့်ပစ်တော်မမူ။",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "အကြောင်းမူကား"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "စွန့်ပစ်တော်မမူ"
+    },
+    {
+      "surface": "לעול்‌ם",
+      "gloss": "နှစ်စဉ်နှစ်နောင်"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "အဒေါနိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:13:09.394572332Z",
+  "model": "glm-5.3"
+}

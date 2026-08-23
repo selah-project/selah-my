@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ဆစ်ကလာဂ်၊ မဒ်မန္နာ၊ ဆန်ဆန္နာ၊",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "ဆစ်ကလာဂ်"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "မဒ်မန္နာ"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "ဆန်ဆန္နာ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:40:05.939157775Z",
+  "model": "glm-5.3"
+}

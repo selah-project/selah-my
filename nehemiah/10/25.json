@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဟာလိုဟက်ရှ်၊ ပိလ်ဟာ၊ ရှိုဘက်။",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "ဟာလိုဟက်ရှ်"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "ပိလ်ဟာ"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "ရှိုဘက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.857497493Z",
+  "model": "glm-5.3"
+}

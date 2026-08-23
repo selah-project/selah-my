@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အဒိန်၏သားများ — လေးရာ ငါးဆယ်လေးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "အဒိန်"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "လေး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "နှင့်လေး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:15.662698829Z",
+  "model": "glm-5.3"
+}

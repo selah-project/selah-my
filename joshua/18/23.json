@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "အာဗီမ်၊ ပါရာ၊ အော့ဖရာ၊",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "အာဗီမ်"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ပါရာ"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "အော့ဖရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:42.259331010Z",
+  "model": "glm-5.3"
+}

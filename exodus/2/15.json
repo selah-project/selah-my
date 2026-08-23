@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 2:15",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "test",
+  "tokens": [],
+  "timestamp": "2026-08-23T07:36:27.070404143Z",
+  "model": "glm-5.3"
+}

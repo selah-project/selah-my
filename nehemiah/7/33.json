@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အခြားနေဗောမြို့သားများ — ငါးဆယ့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "နေဗော"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "အခြား"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ့်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:28.467002099Z",
+  "model": "glm-5.3"
+}

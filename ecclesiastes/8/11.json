@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "কারণ মন্দ কাজের বিরুদ্ধে দ্রুত রায় কার্যকর হয় না, তাই তাদের মধ্যে মানুষের সন্তানদের মন মন্দ করতে পূর্ণ হয়।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "কারণ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "নাই"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "কার্যকর হয়"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "রায়"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "কাজের"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "দ্রুত"
+    },
+    {
+      "surface": "על",
+      "gloss": "উপর"
+    },
+    {
+      "surface": "כן",
+      "gloss": "তাই"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "পূর্ণ হয়"
+    },
+    {
+      "surface": "לב",
+      "gloss": "মন"
+    },
+    {
+      "surface": "בני",
+      "gloss": "সন্তানদের"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "মানুষের"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "তাদের মধ্যে"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "করতে"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:59:09.109388703Z",
+  "model": "glm-5.3"
+}

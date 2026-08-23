@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "နှင့် ယာဝေ၏ နှုတ်ကပတ်တော်သည် ငါ့ထံ ရောက်လာ၏ — ဤသို့ ⟨ပြောဆိုရန်⟩။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "နှင့် ဖြစ်၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ထံ"
+    },
+    {
+      "surface": "လאမရ်",
+      "gloss": "ပြောဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T12:03:37.019374866Z",
+  "model": "glm-5.3"
+}

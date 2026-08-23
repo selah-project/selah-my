@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "daniel 2:23",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "父祖たちの神よ、あなたに私は感謝し賛美します。あなたが私に知恵と力を与え、今あなたに私たちが求めた事を私に知らせてくださったからです。あなたは王の夢のことを私たちに知らせてくださったからです。",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "父祖たちの神よ"
+    },
+    {
+      "surface": "אבהתי",
+      "gloss": "父祖たちの"
+    },
+    {
+      "surface": "מהודא",
+      "gloss": "感謝し"
+    },
+    {
+      "surface": "ומשבח",
+      "gloss": "賛美します"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "私は"
+    },
+    {
+      "surface": "די",
+      "gloss": "だから"
+    },
+    {
+      "surface": "חכמתא",
+      "gloss": "知恵を"
+    },
+    {
+      "surface": "וגבורתא",
+      "gloss": "力を"
+    },
+    {
+      "surface": "יהבת",
+      "gloss": "与えたもうた"
+    },
+    {
+      "surface": "לי",
+      "gloss": "私に"
+    },
+    {
+      "surface": "וכען",
+      "gloss": "今"
+    },
+    {
+      "surface": "הודעתני",
+      "gloss": "知らせてくださった"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜ことを"
+    },
+    {
+      "surface": "בעינא",
+      "gloss": "求めた"
+    },
+    {
+      "surface": "מנך",
+      "gloss": "あなたに"
+    },
+    {
+      "surface": "די",
+      "gloss": "なぜなら"
+    },
+    {
+      "surface": "מלת",
+      "gloss": "こと(夢)を"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王の"
+    },
+    {
+      "surface": "הודעתנא",
+      "gloss": "私たちに知らせた"
+    }
+  ],
+  "timestamp": "2026-08-23T16:05:43.345341434Z",
+  "model": "glm-5.3"
+}

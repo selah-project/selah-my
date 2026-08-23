@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ဧလျုန်၏ နှုတ်ထက်မှ မကောင်းမှုများသည မထွက်သလော — ကောင်းမှုလည်း ⟨ထိုသို့ပင်⟩။",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "နှုတ်ထက်မှ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ဧလျုန်၏"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ထွက်သလော"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "မကောင်းမှုများ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ကောင်းမှု"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:43.563785975Z",
+  "model": "glm-5.3"
+}

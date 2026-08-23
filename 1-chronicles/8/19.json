@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ယာကိမ်၊ ဇိခ်ရိ၊ ဇဗဒိုင် <…>",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "ယာကိမ်"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ဇိခ်ရိ"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "ဇဗဒိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:49.711448134Z",
+  "model": "glm-5.3"
+}

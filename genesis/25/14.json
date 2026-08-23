@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "မိရှမာ၊ ဒူမာ၊ မာစ်ဆာတို့လည်း ဖြစ်ကုန်၏။",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "မိရှမာ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ဒူမာ"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "မာစ်ဆာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:14:16.846353865Z",
+  "model": "glm-5.3"
+}

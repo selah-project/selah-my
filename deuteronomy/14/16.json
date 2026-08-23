@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "⟨את⟩ ဇီးကွက်သေး၊ နှင့် ⟨את⟩ ဇီးကွက်ကြီး၊ နှင့် ဇီးကွက်ဖြူ။",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇီးကွက်သေး"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "ဇီးကွက်သေး"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဇီးကွက်ကြီး"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ဇီးကွက်ကြီး"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ဇီးကွက်ဖြူ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:02:53.557377894Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "အေလ်တေခ်၊ ဂိဗ်ထုန်၊ ဗာအာလာတ်တို့လည်း ပါဝင်၏။",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "အေလ်တေခ်"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "ဂိဗ်ထုန်"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "ဗာအာလာတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:29:56.110203021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "အကြီးအမှူး ကေနာဇ်၊ အကြီးအမှူး တေမန်၊ အကြီးအမှူး မိဗ်ဇာရ်။",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ကေနာဇ်"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "တေမန်"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "မိဗ်ဇာရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:24.047759648Z",
+  "model": "glm-5.3"
+}

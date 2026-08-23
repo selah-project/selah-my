@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "လူတစ်ဦးသည် ⟨את⟩ မိမိခမော့၏ မိန်းမကို မယူရ။ မိမိခမော့၏ အဝတ်စကိုလည်း မဖွင့်ရ။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ယူရ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "လူတစ်ဦးသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မိမိခမော့၏ မိန်းမကို"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "မိန်းမ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "မိမိခမော့၏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "လည်း မ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ဖွင့်ရ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "အဝတ်စ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "မိမိခမော့၏"
+    }
+  ],
+  "timestamp": "2026-08-23T17:39:02.187969093Z",
+  "model": "glm-5.3"
+}

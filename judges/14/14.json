@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 14:14",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ဤနေရာတွင် အသေးစိတ်ဖြည့်စွက်ရန် အချက်အလက် လိုအပ်နေပါသည်။",
+  "tokens": [
+    {
+      "surface": "מהאכל",
+      "gloss": "စားသူထံမှ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:46:23.563954556Z",
+  "model": "glm-5.3"
+}

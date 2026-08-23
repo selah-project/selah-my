@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 12:18",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အဖက် ၏ ဘုရင် တစ်ပါး၊ လရှရောန် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "אפק",
+      "gloss": "အဖက်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "לשרון",
+      "gloss": "လရှရောန်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:33.978661867Z",
+  "model": "glm-5.3"
+}

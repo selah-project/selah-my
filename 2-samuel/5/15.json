@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 5:15",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဤဗာရ်၊ အဲလိရှူအာ၊ နက်ဖက်၊ ယာဖိယာတို့ ၊",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ဤဗာရ်"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "အဲလိရှူအာ"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "နက်ဖက်"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "ယာဖိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T10:17:33.553714596Z",
+  "model": "glm-5.3"
+}

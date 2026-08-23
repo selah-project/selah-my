@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ဣဒျာဘေလ၊ ဣဒျာဘေလ၊ ဣဒျာဘေလ။",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "အမာရာယာ"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "မာလုခ်"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ဟတ္တုရှ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:09.163186595Z",
+  "model": "glm-5.3"
+}

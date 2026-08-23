@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "တိရ်ဇာ ၏ ဘုရင် တစ်ပါး — ဘုရင်အားလုံး သုံးဆယ့်တစ်ပါး ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "တိရ်ဇာ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "သုံးဆယ့်"
+    },
+    {
+      "surface": "ו אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:18.851034206Z",
+  "model": "glm-5.3"
+}

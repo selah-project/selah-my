@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "လိဗ်နာမှ ထွက်ခွာသွားကြ၍ ရိဿာ၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွားကြ၍"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "လိဗ်နာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "ရိဿာ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:50.937714349Z",
+  "model": "glm-5.3"
+}

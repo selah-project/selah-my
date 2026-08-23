@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ကောင်းသောအမည်သည် ⟨the⟩ ကောင်းသောဆီထက် သာလွန်၏၊ ထို့အတူ ⟨the⟩ သေခြင်းနေ့သည် ⟨the⟩ မွေးဖွားခြင်းနေ့ထက် သာလွန်၏။",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ကောင်းသော"
+    },
+    {
+      "surface": "שם",
+      "gloss": "အမည်"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "ဆီထက်"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ကောင်းသောဆီ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "နှင့်နေ့"
+    },
+    {
+      "surface": "המות",
+      "gloss": "သေခြင်း၏"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ထက်နေ့"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "မွေးဖွားခြင်း၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:56:56.062937108Z",
+  "model": "glm-5.3"
+}

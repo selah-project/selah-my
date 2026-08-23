@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "အာဗြဟမ်က «ငါသည် သစ္စာဆိုပါမည်» ဟု ဆိုလေသတည်း။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆိုလေ၏"
+    },
+    {
+      "surface": "အာဗြဟမ်",
+      "gloss": "အာဗြဟမ်သည်"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ငါသည်"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "သစ္စာဆိုပါမည်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:11:24.143228986Z",
+  "model": "glm-5.3"
+}

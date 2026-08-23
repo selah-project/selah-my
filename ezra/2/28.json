@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဗေith-ဧလ် နှင့် ⟨את⟩ ဟအအိ လူများ — နှစ်ရာနှင့် နှစ်ဆယ့်သုံးယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "လူများ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗေith"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ဧလ်"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "နှင့် ဟအအိ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "နှစ်ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "နှင့် သုံး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:16.312333313Z",
+  "model": "glm-5.3"
+}

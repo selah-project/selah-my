@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "မိုရှေသည် ဖာရောအထံမှ ထွက်၍ ယာဝေအား ဆုတောင်းလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ထွက်၍"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေသည်"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "အထံမှ"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ဖာရော"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "ဆုတောင်းလေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အထံသို့"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေအား"
+    }
+  ],
+  "timestamp": "2026-08-23T07:40:19.776329311Z",
+  "model": "glm-5.3"
+}

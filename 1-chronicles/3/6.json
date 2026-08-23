@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "၎င်းတို့နောက်တွင် ဣဗ်ဟာရ်၊ ဧလိရှမာန်၊ ဧလိဖလက်တို့လည်း ရှိကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ဣဗ်ဟာရ်"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ဧလိရှမာန်"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ဧလိဖလက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:05.842268195Z",
+  "model": "glm-5.3"
+}

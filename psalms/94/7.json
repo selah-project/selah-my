@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 94,
+  "translation": "၎င်းတို့က ယာ မမြင်၊ ယာကောဗ်၏ ဧလောဟိမ်သည်လည်း နားမလည်ဟု ဆိုကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "၎င်းတို့က ဆိုကြ၏"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "မမြင်"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ယာ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "လည်း မ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "နားမလည်"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "၏ ဧလောဟိမ်သည်"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ယာကောဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T14:36:09.342591330Z",
+  "model": "glm-5.3"
+}

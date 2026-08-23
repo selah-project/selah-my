@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "မစင်ကိုးသော အရာ မည်သည့်အရာကိုမျှ မစားနှင့်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ…နှင့်"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "မစား"
+    },
+    {
+      "surface": "כל",
+      "gloss": "မည်သည့်အရာကိုမျှ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "မစင်ကိုးသော အရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:02:49.673246801Z",
+  "model": "glm-5.3"
+}

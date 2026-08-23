@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဗက်စလုသ်၏သားများ၊ မေခီဒါ၏သားများ၊ ခါရှါ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "ဗက်စလုသ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "မေခီဒါ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "ခါရှါ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:59.001669156Z",
+  "model": "glm-5.3"
+}

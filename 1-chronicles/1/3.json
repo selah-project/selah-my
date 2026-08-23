@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 1:3",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဟာနောခ်၊ မေထူရှေလခ်၊ လာမက်။",
+  "tokens": [
+    {
+      "surface": "חנוך",
+      "gloss": "ဟာနောခ်"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "မေထူရှေလခ်"
+    },
+    {
+      "surface": "למך",
+      "gloss": "လာမက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:21.193836089Z",
+  "model": "glm-5.3"
+}

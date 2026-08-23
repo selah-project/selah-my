@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဟာဘကူက် ပရောဖက်သည် မြင်တော်မူသော ⟨the⟩ ထမ်းဆောင်ရန်စကား။",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ထမ်းဆောင်ရန်စကား"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨which⟩"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "မြင်တော်မူသော"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ဟာဘကူက်"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ပရောဖက်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:45:46.005935473Z",
+  "model": "glm-5.3"
+}

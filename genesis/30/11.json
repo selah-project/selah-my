@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "и লিয়াহ বললেন, সৌভাগ্য! তখন তিনি তাঁর নাম ⟨את⟩ গদ ডাকলেন।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "বললেন"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "লিয়াহ"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "সৌভাগ্য"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ডাকলেন"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "তাঁর নাম"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "তাঁর নাম"
+    },
+    {
+      "surface": "גד",
+      "gloss": "গদ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:16:21.440655596Z",
+  "model": "glm-5.3"
+}

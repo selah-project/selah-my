@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဒါဝိဒ်သည် ခံတပ်၌ နေထိုင်၏။ ထိုကြောင့် ၎င်းအား ဒါဝိဒ်မြို့ဟု ခေါ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "နေထိုင်၏"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ဒါဝိဒ်"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ခံတပ်၌"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ထို"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ခေါ်ကြ၏"
+    },
+    {
+      "surface": "לו",
+      "gloss": "၎င်းအား"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "မြို့"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ဒါဝိဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:38.335157228Z",
+  "model": "glm-5.3"
+}

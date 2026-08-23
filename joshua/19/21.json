@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "ရေမက်၊ ဧင်ဂန်နိမ်၊ ဧင်ဟဒ္ဒါနှင့် ဘိက်-ဖတ်စက်။",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "ရေမက်"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ဧင်"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ဂန်နိမ်"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ဧင်"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ဟဒ္ဒါ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ဘိက်-"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "ဖတ်စက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:30:02.581388891Z",
+  "model": "glm-5.3"
+}

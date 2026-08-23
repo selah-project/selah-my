@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ဗက်ထ်-ဟာ-အာရာဗာ၊ ဇေမရာရိမ်၊ ဗက်ထ်-အဲလ်၊",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ဗက်ထ်"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ဟာ-အာရာဗာ"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ဇေမရာရိမ်"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ဗက်ထ်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:42.259200825Z",
+  "model": "glm-5.3"
+}

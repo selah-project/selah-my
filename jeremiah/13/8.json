@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ယာဝေ၏ နှုတ်ကပတ်တော်သည် အကျွန်ုပ်ထံ ရောက်လာ၍ ပြောဆိုလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "အကျွန်ုပ်ထံ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုလေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T12:13:49.616367846Z",
+  "model": "glm-5.3"
+}

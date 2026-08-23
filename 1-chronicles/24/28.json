@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "မာဟလိမှ — ဧလာအာဇာ; သူ၌သားများမရှိ။",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "မာဟလိမှ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ဧလာအာဇာ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ခံယူ၍ မရှိ⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ၌"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "သားများ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:26.790215Z",
+  "model": "glm-5.3"
+}

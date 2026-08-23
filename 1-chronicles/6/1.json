@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "လေဝိ၏သားများမှာ ဂေရेझုန်၊ ခေဟတ် နှင့် မေရာရိတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ဂေရဲ့ရှုန်"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ခေဟတ်"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "နှင့် မေရာရိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:37.196786686Z",
+  "model": "glm-5.3"
+}

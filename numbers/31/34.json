@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "မြင်းများကား ခြောက်သောင်းတစ်ထောင် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "မြင်းများ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ခြောက်ဆယ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ထောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:50:24.877783633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ရှာလုံသည် ⟨את⟩ ဟိလကိယာကို မွေးဘိစဉ် ဟိလကိယာသည် ⟨את⟩ အဇာရိယကို မွေးဘိ၏။",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "ရှာလုံ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘိစဉ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဟိလကိယာ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ဟိလကိယာ"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "ဟိလကိယာ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘိ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အဇာရိယ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "အဇာရိယ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:01.400425288Z",
+  "model": "glm-5.3"
+}

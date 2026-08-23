@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 39,
+  "translation": "နှင့် ⟨the⟩ တန်း ⟨သည်⟩ ⟨the⟩ ဒုတိယ — နုဖက်ခ်၊ နီလာ၊ နှင့် ယာဟာလုမ်။",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "နှင့် တန်း"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ဒုတိယ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "နုဖက်ခ်"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "နီလာ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "နှင့် ယာဟာလုမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:01:10.965310175Z",
+  "model": "glm-5.3"
+}

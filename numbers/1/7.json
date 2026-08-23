@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ယေဟူဒါအား — နာခ်ရှုန်၊ အမ္မိနဒဗ်၏သား။",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ယေဟူဒါအား"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "နာခ်ရှုန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "အမ္မိနဒဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:23:33.394905392Z",
+  "model": "glm-5.3"
+}

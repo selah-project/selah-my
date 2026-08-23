@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အတ္တိသည် ⟨את⟩ နာတန်ကို မွေးဘ၊ နာတန်သည် ⟨את⟩ ဇာဗတ်ကို မွေးဘ၏။",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "အတ္တိ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "မွေးဘ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "နာတန်"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "နာတန်"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "နှင့် နာတန်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇာဗတ်"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ဇာဗတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:31.413200239Z",
+  "model": "glm-5.3"
+}

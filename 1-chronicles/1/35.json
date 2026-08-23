@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဧသော၏သားများမှာ ဧလိဖဇ်၊ ရောূအေလ်၊ ယောက်ရှ်၊ ယာလာမ်နှင့် ကောရခ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသော"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ဧလိဖဇ်"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ရောूအေလ်"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ယောက်ရှ်"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ယာလာမ်"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ကောရခ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:56.749300388Z",
+  "model": "glm-5.3"
+}

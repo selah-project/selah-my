@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ရေဖာအား ⟨သူ၏⟩သား၊ ရေရှေဖအား၊ တေလအား ⟨သူ၏⟩သား၊ တာအာန်အား ⟨သူ၏⟩သား။",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "ရေဖာအား"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨သူ၏⟩သား"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "ရေရှေဖအား"
+    },
+    {
+      "surface": " videotelח",
+      "gloss": "တေလအား"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨သူ၏⟩သား"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "တာအာန်အား"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨သူ၏⟩သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:09.881488253Z",
+  "model": "glm-5.3"
+}

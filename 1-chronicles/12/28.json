@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အာရုန်၏အကြီးအကဲ ယောယာဒ နှင့်အတူ သုံးထောင်နှင့်ခုနစ်ရာ ရှိ၏။",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "နှင့် ယောယာဒ"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "အကြီးအကဲ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "အာရုန်၏"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "နှင့်အတူ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ထောင်"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "နှင့်ခုနစ်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:50:08.588184753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 28,
+  "translation": "ရွှေပန်းထိုးအခံများကိုလည်း သင်သည် ပြုလုပ်ရမည်။",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ပြုလုပ်ရမည်"
+    },
+    {
+      "surface": "משဗצת",
+      "gloss": "ပန်းထိုးအခံများ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ရွှေ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:52:15.304692519Z",
+  "model": "glm-5.3"
+}

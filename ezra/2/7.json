@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အေလမ်၏သားများ — တစ်ထောင် နှစ်ရာ ငါးဆယ်လေးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "အေလမ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "နှစ်ရာ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "လေးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:23.151918618Z",
+  "model": "glm-5.3"
+}

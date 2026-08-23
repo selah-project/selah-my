@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 41,
+  "translation": "ပြည်သည် စပါးပေါသည့်ခုနစ်နှစ်၌ ပေါများစွာ သီးနှံထွက်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "ထုတ်လုပ်၏\/သီးနှံပေး၏"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ပြည်"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ခုနစ်"
+    },
+    {
+      "surface": "שני",
+      "gloss": "နှစ်များ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ပေါများသည့်"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": " fistful\/ handfulများစွာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:28:37.507534104Z",
+  "model": "glm-5.3"
+}

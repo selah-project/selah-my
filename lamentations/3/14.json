@@ -1,0 +1,36 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ငါသည် ငါ၏တစ်ပြည်လုံးသော လူတို့အဖို့ ရယ်စရာဖြစ်ပြီး၊ တစ်နေ့လုံး ၎င်းတို့၏တေးဂီတ ဖြစ်ရ၏။",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ငါဖြစ်ပြီး"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ရယ်စရာ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "အားလုံးအဖို့"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ငါ၏လူ"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "၎င်းတို့၏တေးဂီတ"
+    },
+    {
+      "surface": "ኪል፣… ✗ wait"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:53.627184846Z",
+  "model": "glm-5.3"
+}

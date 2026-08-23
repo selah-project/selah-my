@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဤနေ့ ၌ သင်တို့သည် ⟨the⟩ အာဗိဗ်လ၌ ထွက်ကြသည်။",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ဤနေ့ ၌"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "သင်တို့သည်"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ထွက်ကြသည်"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "လ၌"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "အာဗိဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:43:12.501397256Z",
+  "model": "glm-5.3"
+}

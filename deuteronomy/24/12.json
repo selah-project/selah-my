@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "ထိုသူသည် ဆင်းရဲသားဖြစ်လျှင် သူ၏အငြိမ့်စောင်းကို မှီ၍ မအိပ်နှင့်။",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "…ဖြစ်လျှင်"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ထိုသူ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ဆင်းရဲသား"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "…ဖြစ်လျှင်"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "အိပ်"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "သူ၏အငြိမ့်စောင်းကို မှီ၍"
+    }
+  ],
+  "timestamp": "2026-08-23T09:09:29.124338190Z",
+  "model": "glm-5.3"
+}

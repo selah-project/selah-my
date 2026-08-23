@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဗာန်ယာ၊ မေရေမော့၊ အဲလ်ယာရှိဗ်။",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ဗာန်ယာ"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "မေရေမော့"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "အဲလ်ယာရှိဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:26:03.276229959Z",
+  "model": "glm-5.3"
+}

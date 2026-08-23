@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ရှာအူလ် သေလျှင် ဘာအလ်-ခါနန် ခေါင်းဆောင် အက်ဘော၏သားက ၎င်းအစား မင်းမြှောင်၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေလျှင်"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ရှာအူလ်"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "မင်းမြှောင်၏"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "၎င်းအစား"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ဘာအလ်"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "-ခါနန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "အက်ဘော"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:45.197792368Z",
+  "model": "glm-5.3"
+}

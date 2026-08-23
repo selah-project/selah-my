@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အခြားဧလာမ်၏သားများ — တစ်ထောင် နှစ်ရာ ငါးဆယ့်လေးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ဧလာမ်"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "အခြား"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "နှစ်ရာ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ့်"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "လေးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:28.467188322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ရှိမာအ ⟨၎င်း၏⟩ သား၊ ဟဂ္ဂိယာ ⟨၎င်း၏⟩ သား၊ အာဆာယာ ⟨၎င်း၏⟩ သား။",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "ရှိမာအ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏ သား"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ဟဂ္ဂိယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏ သား"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "အာဆာယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏ သား"
+    }
+  ],
+  "timestamp": "2026-08-23T18:17:03.933372642Z",
+  "model": "glm-5.3"
+}

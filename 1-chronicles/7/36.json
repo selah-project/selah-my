@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဇောဖက်၏သားများမှာ သုအက်၊ ခရ်နက်ဖရ်၊ ရှုအာလ်၊ ဗေရိ၊ ယိမ်ရာတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ဇောဖက်"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "သုအက်"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ခရ်နက်ဖရ်"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ရှုအာလ်"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "ဗေရိ"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ယိမ်ရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:37.286805810Z",
+  "model": "glm-5.3"
+}

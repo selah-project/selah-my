@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဧလိယေနု၊ ဇိလေသ္မု၊ ဧလိယေလ် <…>",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ဧလိယေနု"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ဇိလေသ္မု"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ဧလိယေလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:49.711565553Z",
+  "model": "glm-5.3"
+}

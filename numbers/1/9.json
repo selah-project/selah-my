@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဇဗူလုန်အား — ဧလိအဗ်၊ ခေလုန်၏သား။",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ဇဗူလုန်အား"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ဧလိအဗ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ခေလုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:24:31.138361415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 2:53",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "<value not translated>",
+  "tokens": [
+    {
+      "surface": "ומשפחות",
+      "gloss": "တို့၏ မျိုးနွယ်များကလည်း"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ကိရျာတ်-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ယျာအာရိမ်၏"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ယိတ္တရိုများ"
+    },
+    {
+      "surface": "והפותי",
+      "gloss": "ဖူတိီများ"
+    },
+    {
+      "surface": "והשמתי",
+      "gloss": "ရှုမတ်တိီများ"
+    },
+    {
+      "surface": "והמשרעי",
+      "gloss": "မိရှြရာတိီများ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ဤသူတို့ထဲမှ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ထွက်ဆင်းလာသည်များမှာ"
+    },
+    {
+      "surface": "ဇာ့ရ်အာ့တ်များ",
+      "gloss": ""
+    },
+    {
+      "surface": "כ்ں်िဒ်အ်းလ်များ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:04.425996926Z",
+  "model": "glm-5.3"
+}

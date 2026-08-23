@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ချစ်သူအိမ်နီးချင်းအကြောင်း မမှန်သက်သေလည်း မဆိုနှင့်။",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "လည်း မ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ဖြေဆိုနှင့်"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "သင်၏အိမ်နီးချင်းအကြောင်း"
+    },
+    {
+      "surface": "עד",
+      "gloss": "သက်သေ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "မမှန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:56:02.247821819Z",
+  "model": "glm-5.3"
+}

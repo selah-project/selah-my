@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဗာနိ၊ ဗင်နုအိ၊ ရှိမ်အိ၊",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ဗာနိ"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "ဗင်နုအိ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ရှိမ်အိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:25:30.595884488Z",
+  "model": "glm-5.3"
+}

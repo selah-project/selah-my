@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဇတ္တူ၏သားများ — ကိုးရာ လေးဆယ်ငါးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ဇတ္တူ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ငါးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:23.152014004Z",
+  "model": "glm-5.3"
+}

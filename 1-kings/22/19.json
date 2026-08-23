@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 22:19",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ထိုအခါ ၎င်းက «ထို့ကြောင့် ယာဝေ၏ < masculine singular>: Rama (ĕmĕṣ) (Aram.) နားဆင်လော့။ ငါသည် ယာဝေ < masculine singular>: Rama (ĕmĕṣ) (Aram.) ကို ⟨את⟩ ပလ္လင်တော်၌ စံနေတော်မူသည်ကိုမြင်ခဲ့၏ ၊ ကောင်းကင်တပ်သားအပousers လုံးသည် ⟨ masc.>: Rama (ĕmĕṣ) (Aram.) ၏ လက်ယာဘက်၌၎ ၊ လက်ဝဲဘက်၌၎ ၎င်း၏ < masc. pl. article (rare, poet.)> အထက်၌ ရပ်တည်ကြသည်။»",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "ထို့ကြောင့်"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "နားဆင်လော့"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "< masc. sing. noun> ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ < masculine singular>: Rama (ĕmĕṣ) (Aram.)"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ငါမြင်ခဲ့၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ယာဝေ < masc. sing. Yhwh (proper name)> ကို"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ < masc. sing. Yhwh (proper name)>"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "စံနေတော်မူသည်"
+    },
+    {
+      "surface": "על",
+      "gloss": "< expl. particle> ၌"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "ပလ္လင်တော်"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "လုံးသည်"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "တပ်သားအပousers လုံး"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "< expl. particle> ကောင်းကင်"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ရပ်တည်ကြ၏"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "< expl.> အထက်၌ ၎င်း၏ < masc. sing. article> အား (Aram. + Hebr. mixed)"
+    },
+    {
+      "surface": "מימינו",
+      "gloss": "< expl.> လက်ယာဘက် ၎င်း၏ < masc. pl. (contr. form)>"
+    },
+    {
+      "surface": "ומשמאלו",
+      "gloss": "< expl.> လက်ဝဲဘက် ၎င်း၏ < masc. pl. (contr. form)>"
+    }
+  ],
+  "timestamp": "2026-08-23T17:50:35.706744825Z",
+  "model": "glm-5.3"
+}

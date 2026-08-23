@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ဇာလ်မုန် ⟨the⟩ အဟောဟိသား၊ မဟရိုင် ⟨the⟩ နေတိုဖသိုသား၊",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ဇာလ်မုန်"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "⟨the⟩ အဟောဟိသား"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "မဟရိုင်"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "⟨the⟩ နေတိုဖသိုသား"
+    }
+  ],
+  "timestamp": "2026-08-23T17:47:38.295436308Z",
+  "model": "glm-5.3"
+}

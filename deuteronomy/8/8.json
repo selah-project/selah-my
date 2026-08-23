@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဂျုံနှင့် မုယော၊ စပျစ်ခြံနှင့် ဒယ်အိုးသီး၊ သလဲသီးတို့ရှိသော ပြည် — ဆီသီးနှင့် ပျားရည်ရှိသော ပြည်။",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ပြည်"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ဂျုံ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "မုယော"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "စပျစ်ခြံ"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ဒယ်အိုးသီး"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "သလဲသီး"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ပြည်"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ဆီသီး"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ဆီ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ပျားရည်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:59:39.712563835Z",
+  "model": "glm-5.3"
+}

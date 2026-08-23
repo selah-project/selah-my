@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ထို့နောက် ဣဘဇန် သေလျက် ဗေသလှေမ်၌ မြှုပ်နှံခြင်းခံရ၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေလျက်"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ဣဘဇန်"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "မြှုပ်နှံခြင်းခံရ၏"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "၌"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ဗေသလှေမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:44:25.313610719Z",
+  "model": "glm-5.3"
+}

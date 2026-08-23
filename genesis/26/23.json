@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "တက်၏ ထိုအရပ်မှ ⟨ထံသို့⟩ ဗေအရ်-ရှေဗာ။",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "တက်၏"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ထိုအရပ်မှ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ဗေအရ်"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ရှေဗာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:15:28.518765128Z",
+  "model": "glm-5.3"
+}

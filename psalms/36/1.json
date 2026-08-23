@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "အသုခုမြှင့်သူအား — ယာဝေ၏ကျွန် ဒါဝိဒ်၏〈ဒါဝိဒ်အား〉",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "အသုခုမြှင့်သူအား"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "၏ကျွန်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်အား"
+    }
+  ],
+  "timestamp": "2026-08-23T14:12:38.747335466Z",
+  "model": "glm-5.3"
+}

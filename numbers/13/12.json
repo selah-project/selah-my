@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဒန်အမျိုးအနွယ်အနက်မှ အမ္မိဧလ်၊ ဂမ္မလိ၏သား။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အမျိုးအနွယ်အနက်မှ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ဒန်"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "အမ္မိဧလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ဂမ္မလိ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:13.914014493Z",
+  "model": "glm-5.3"
+}

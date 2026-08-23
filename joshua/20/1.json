@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "ယာဝေသည် ယောရှူအာထံ မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ယောရှူ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုလို၍"
+    }
+  ],
+  "timestamp": "2026-08-23T09:31:35.821453046Z",
+  "model": "glm-5.3"
+}

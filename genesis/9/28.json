@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "မြစ်ကြီးလွန်ပြီးနောက် နောအခ်သည် သုံးရာငါးဆယ်နှစ် အသက်ရှင်ခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်ခဲ့၏"
+    },
+    {
+      "surface": "נח",
+      "gloss": "နောအခ်သည်"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "နောက်"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "မြစ်ကြီးလွန်ပြီး"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "မאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "וחমשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:25:44.920816722Z",
+  "model": "glm-5.3"
+}

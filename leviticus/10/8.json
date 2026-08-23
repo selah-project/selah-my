@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ယာဝေသည် အာရုန်ကို မိန့်တော်မူ၍ ဤသို့ဆို၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ကို"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "အာရုန်"
+    },
+    {
+      "surface": "לאμר",
+      "gloss": "ဤသို့ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:08:26.542231198Z",
+  "model": "glm-5.3"
+}

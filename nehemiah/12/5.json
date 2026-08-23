@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "မိယမိန်၊ မာအဒိယာ၊ ဗိလ်ဂါ။",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "မိယမိန်"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "မာအဒိယာ"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "ဗိလ်ဂါ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:00.647498932Z",
+  "model": "glm-5.3"
+}

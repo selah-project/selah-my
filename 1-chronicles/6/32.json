@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "မာခ္လီ၏သား၊ မူရှီ၏သား၊ မာရာရီ၏သား၊ လေဝိ၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "မာခ္လီ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "မူရှီ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "မာရာရီ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:15.990938327Z",
+  "model": "glm-5.3"
+}

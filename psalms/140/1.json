@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 140,
+  "translation": "ဂီတအကြီးအကဲအား — ဒါဝိဒ်၏ ဂီတသီချင်း။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ဂီတအကြီးအကဲအား"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ဂီတသီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:53:31.968749536Z",
+  "model": "glm-5.3"
+}

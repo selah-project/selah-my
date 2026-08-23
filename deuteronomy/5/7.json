@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ငါ၏မျက်နှာရှေ့၌ သင်၌ အခြားသော ဘုရားများ ⟨ရှိမည်မဟုတ်⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ..."
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ရှိလိမ့်မည်"
+    },
+    {
+      "surface": "לך",
+      "gloss": "သင်၌"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ဘုရားများ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "အခြားသော"
+    },
+    {
+      "surface": "על",
+      "gloss": "...ရှေ့၌"
+    },
+    {
+      "surface": "פני",
+      "gloss": "မျက်နှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:56:12.166162392Z",
+  "model": "glm-5.3"
+}

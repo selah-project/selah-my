@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဂိဗ်အုန်သားများ — 九十五။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ဂိဗ်အုန်"
+    },
+    {
+      "surface": "תשעိם",
+      "gloss": "九十五"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "九十五"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.038059619Z",
+  "model": "glm-5.3"
+}

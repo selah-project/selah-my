@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 9:22",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "When Yehoram saw ⟨את⟩ Yehu, he said: 'Is it peace, Yehu?' And he said: 'What peace? — while the adulteries of Jezebel your mother and her many sorceries abound.'",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "it came to pass"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "when he saw"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehu"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and he said"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "is it peace"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and he said"
+    },
+    {
+      "surface": "מה",
+      "gloss": "what"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "peace"
+    },
+    {
+      "surface": "עד",
+      "gloss": "while"
+    },
+    {
+      "surface": "זנוני",
+      "gloss": "adulteries"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Jezebel"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "your mother"
+    },
+    {
+      "surface": "וכשפיה",
+      "gloss": "and her sorceries"
+    },
+    {
+      "surface": "הרבים",
+      "gloss": "the many"
+    }
+  ],
+  "timestamp": "2026-08-23T11:05:40.327806153Z",
+  "model": "glm-5.3"
+}

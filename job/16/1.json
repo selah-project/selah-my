@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 16,
+  "translation": "အီယောဘ်က ဖြေဆိုပြီး ဤသို့ ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆိုပြီး"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အီယောဘ်က"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:27:08.956412507Z",
+  "model": "glm-5.3"
+}

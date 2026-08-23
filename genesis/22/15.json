@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ယာဝေ၏ကိုယ်စာလှယ်သည် ကောင်းကင်မှ ဒုတိယအကြိမ် အဗ်ရာဟမ်ထံ ခေါ်၍",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ခေါ်၍"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ကိုယ်စာလှယ်သည်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ဒုတိယအကြိမ်"
+    },
+    {
+      "surface": "מן",
+      "gloss": "မှ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ကောင်းကင်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:12:41.462504464Z",
+  "model": "glm-5.3"
+}

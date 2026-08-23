@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "ယာဝေသည် မိုရှေအား ဤသို့ မိန့်တော်မူ၏ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့မိန့်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:22:00.850861792Z",
+  "model": "glm-5.3"
+}

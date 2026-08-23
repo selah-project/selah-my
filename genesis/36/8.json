@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "ထိုသို့ဖြင့် ဧသောသည် သေအိရ်တောင်၌ နေထိုင်လေ၏။ ဧသောသည် ဧဒောမဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "နေထိုင်လေ၏"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသောသည်"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "တောင်၌"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "သေအိရ်"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသောသည်"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "၎င်းသည်"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ဧဒောမ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:22:03.985053760Z",
+  "model": "glm-5.3"
+}

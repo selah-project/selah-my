@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "အာရှေရ၏သမီး၏အမည်မှာ သေရချဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "အမည်"
+    },
+    {
+      "surface": "בת",
+      "gloss": "သမီး"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "အာရှေရ"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "သေရချ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:35:22.158886373Z",
+  "model": "glm-5.3"
+}

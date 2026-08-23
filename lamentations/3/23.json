@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "၎တို့သည် မနက်တိုင်း အသစ်ဖြစ်၏ — ကြီးမားသည် သင်၏သစ္စာမှု။",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "အသစ်ဖြစ်၏"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "မနက်တိုင်း"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ကြီးမားသည်"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "သင်၏သစ္စာမှု"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:46.303356416Z",
+  "model": "glm-5.3"
+}

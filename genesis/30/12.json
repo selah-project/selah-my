@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "અને લેઆહની દાસી ઝિલ્પાએ યાકોબને ⟨एक⟩ બીજો પુત્ર જન્મ આપ્યો.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "જન્મ આપ્યો"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "ઝિલ્પાએ"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "દાસી"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "લેઆહની"
+    },
+    {
+      "surface": "בן",
+      "gloss": "પુત્ર"
+    },
+    {
+      "surface": "שני",
+      "gloss": "બીજો"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "યાકોબને"
+    }
+  ],
+  "timestamp": "2026-08-23T07:16:21.440754419Z",
+  "model": "glm-5.3"
+}

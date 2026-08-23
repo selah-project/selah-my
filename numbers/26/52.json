@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "ယာဝေသည် မိုရှေဆီ ၍ ⟨to⟩ ဤသို့မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ဆီ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့"
+    }
+  ],
+  "timestamp": "2026-08-23T08:47:11.693885463Z",
+  "model": "glm-5.3"
+}

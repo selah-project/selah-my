@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ယေဒိအဲလ် — ရှိမ်ရိ၏သား — နှင့် ယိုဟာ သူ၏ညာကို သတ္တိဇာတ်သား၊",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "ယေဒိအဲလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ရှိမ်ရိ"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "နှင့် ယိုဟာ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "သူ၏ညာ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "သတ္တိဇာတ်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:24.400038057Z",
+  "model": "glm-5.3"
+}

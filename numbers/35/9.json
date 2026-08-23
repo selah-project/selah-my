@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 35,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၏၊ ဆိုသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုသည်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:53:01.898495178Z",
+  "model": "glm-5.3"
+}

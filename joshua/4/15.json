@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ယာဝေသည် ယောရှမှာအား ဤသို့မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ယောရှမှာ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:19:12.889642232Z",
+  "model": "glm-5.3"
+}

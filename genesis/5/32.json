@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "နောချသည် ငါးရာနှစ်သား ဖြစ်၍ ⟨את⟩ သေမ်၊ ⟨את⟩ ခမ်နှင့် ⟨את⟩ ယာဖက်တို့ကို မွေးဖွား၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်၍"
+    },
+    {
+      "surface": "נח",
+      "gloss": "နောချ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "မွေးဖွား၏"
+    },
+    {
+      "surface": "נח",
+      "gloss": "နောချ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "သေမ်ကို"
+    },
+    {
+      "surface": "שם",
+      "gloss": "သေမ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ခမ်ကို"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ခမ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ယာဖက်ကို"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ယာဖက်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:03:35.899987621Z",
+  "model": "glm-5.3"
+}

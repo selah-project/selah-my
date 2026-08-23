@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "အကြီးအမှူး ကေနဇ်၊ အကြီးအမှူး တေမန်၊ အကြီးအမှူး မိဗဇာရ်။",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "ကေနဇ်"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "တေမန်"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "အကြီးအမှူး"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "မိဗဇာရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:21:25.679801457Z",
+  "model": "glm-5.3"
+}

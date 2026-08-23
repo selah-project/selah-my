@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "ကိုရခေ၏သားများမှာမူ မသေကုန်ပါ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့် သားများ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ကိုရခေ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "သေကုန်ပါ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:46:22.022719688Z",
+  "model": "glm-5.3"
+}

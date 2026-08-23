@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဆေရုဂ်၊ နာခောရ်၊ တေရခ်။",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "ဆေရုဂ်"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "နာခောရ်"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "တေရခ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:25.656069709Z",
+  "model": "glm-5.3"
+}

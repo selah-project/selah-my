@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဘက်ဗူးခ်၏သားများ၊ ခါကူဖာ၏သားများ၊ ခါရခူရ်၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "ဘက်ဗူးခ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "ခါကူဖာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "ခါရခူရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:59.001437575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၍ ဤသို့ဆိုသည် —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ဆိုသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:19:17.551390913Z",
+  "model": "glm-5.3"
+}

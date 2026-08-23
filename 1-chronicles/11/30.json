@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "မဟာရိုင် ⟨the⟩ နေတိုဖာသိုသား၊ ခေလဒ် ဗာအာနာ၏သား ⟨the⟩ နေတိုဖာသိုသား။",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "မဟာရိုင်"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "နေတိုဖာသိုသား"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ခေလဒ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ဗာအာနာ၏"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "နေတိုဖာသိုသား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:07.403675767Z",
+  "model": "glm-5.3"
+}

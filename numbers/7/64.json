@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဆိတ်အုပ်မှ ဆိတ်ထီးတစ်ကောင်၊ အပြစ်ယဇ်အဖြစ်။",
+  "tokens": [
+    {
+      "surface": "שעிந",
+      "gloss": "ဆိတ်ထီး"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ဆိတ်အုပ်မှ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ကောင်"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "အပြစ်ယဇ်အဖြစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:32:08.368366024Z",
+  "model": "glm-5.3"
+}

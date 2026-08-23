@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 2:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ကာမိ၏သား — အာကာ; ဣသရေလကို မတည်ငြိမ်စေသူ၊ ⟨את⟩ ဘရိတ်အရာ၌ သစ္စာဖောက်သူ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့် …၏သား"
+    },
+    {
+      "surface": "כרמי",
+      "gloss": "ကာမိ"
+    },
+    {
+      "surface": "עכר",
+      "gloss": "အာကာ"
+    },
+    {
+      "surface": "עוכר",
+      "gloss": "မတည်ငြိမ်စေသူ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…သူ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "သစ္စာဖောက်သူ"
+    },
+    {
+      "surface": "בחרם",
+      "gloss": "ဘရိတ်အရာ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:00.377027386Z",
+  "model": "glm-5.3"
+}

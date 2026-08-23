@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ယိဇ်ဟာရ်၏သားများကား ရှေ့ဆုံးသောသူ ရှေလိုမိသ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ယိဇ်ဟာရ်"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "ရှေလိုမိသ်"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ရှေ့ဆုံးသောသူ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:53.021929006Z",
+  "model": "glm-5.3"
+}

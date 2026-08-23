@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 4:4",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "(ဤမှတ်ချက်တွင် စနစ်တကျ ဘာသာပြန်ချက်ကို ရေးသားပါမည်) — ဣဗ်ရာဟမ်၏ ဣဿရေလအမျိုးသားများ",
+  "tokens": [
+    {
+      "surface": "ודבורה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשה",
+      "gloss": ""
+    },
+    {
+      "surface": "נביאה",
+      "gloss": ""
+    },
+    {
+      "surface": "אשת",
+      "gloss": ""
+    },
+    {
+      "surface": "לפידות",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "שפטה",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဣဿရေလ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": ""
+    },
+    {
+      "surface": "בעת",
+      "gloss": ""
+    },
+    {
+      "surface": "ההיא",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T09:38:54.059124791Z",
+  "model": "glm-5.3"
+}

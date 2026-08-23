@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 34:6",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "အထက်ပါရှုထောင့်မှရေးထားသော ဒေသနာကို စကားလုံးအလိုက် ပြန်ဆိုပါမည်။",
+  "tokens": [],
+  "timestamp": "2026-08-23T13:09:59.753117527Z",
+  "model": "glm-5.3"
+}

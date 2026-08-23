@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "မိမိအလုပ်၌ ပျင်းရိသူသည်လည်း ဖျက်ဆီးသူ၏ ညီအစ်ကို ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "လည်း"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "ပျင်းရိသူ"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "မိမိအလုပ်၌"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ညီအစ်ကို"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "၏"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ဖျက်ဆီးသူ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:07:43.698898628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ကေရုဗ်များကို ⟨את⟩ ရွှေဖြင့် သားယံ၏။",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "သားယံ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ကေရုဗ်များကို"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "ကေရုဗ်များ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ရွှေ"
+    }
+  ],
+  "timestamp": "2026-08-23T10:42:12.860700514Z",
+  "model": "glm-5.3"
+}

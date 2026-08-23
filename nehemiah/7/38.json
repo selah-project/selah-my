@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဆေနာအဟ်၏ သားများ — သုံးထောင်၊ ကိုးရာ ⟨နှင့်⟩ သုံးဆယ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ဆေနာအဟ်"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ထောင်"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "နှင့် သုံးဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:56.454470861Z",
+  "model": "glm-5.3"
+}

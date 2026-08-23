@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ရေုဘေန်၊ ရှိမောန်၊ လေဝိ၊ ယော်ဟူဒါ။",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ရေုဘေန်"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ရှိမောန်"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ယော်ဟူဒါ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:33:20.751358724Z",
+  "model": "glm-5.3"
+}

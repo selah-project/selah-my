@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "Burmese rendering required: And Peleg lived after he begat Reu nine years and two hundred years, and begat sons and daughters.",
+  "tokens": [
+    {
+      "surface": "ViewItem",
+      "gloss": "ရှင်သန်၏"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ပေလက်"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ပြီးနောက်"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ဖွားမြင်သောအခါ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ရေအူ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ရေအူ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်များ"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "နှင့် နှစ်ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ဖွားမြင်၏"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "နှင့် သမီးများ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:52.515760410Z",
+  "model": "glm-5.3"
+}

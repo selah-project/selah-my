@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 50,
+  "translation": "စစ်ပွဲ၏ အသံ — မြေပေါ်၌၊ ထို့ပြင် ကြီးမားသော စဉ်းပန်းမှု။",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "အသံ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "စစ်ပွဲ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "မြေပေါ်၌"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ထို့ပြင် စဉ်းပန်းမှု"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ကြီးမားသော"
+    }
+  ],
+  "timestamp": "2026-08-23T12:39:30.500770456Z",
+  "model": "glm-5.3"
+}

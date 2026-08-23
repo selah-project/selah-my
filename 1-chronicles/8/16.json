@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "မိခါဧလ်၊ ယိရ်ပာ၊ ယောဟ — ဤသူတို့သည် ဗေရိယာ၏သားများ ဖြစ်ကြသည်။",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "မိခါဧလ်"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ယိရ်ပာ"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ယောဟ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ဗေရိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:44.803947016Z",
+  "model": "glm-5.3"
+}

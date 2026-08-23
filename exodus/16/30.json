@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 16,
+  "translation": "ထိုသို့ လူထုသည် သတ္တမနေ့၌ အနားယူကြ၏။",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "အနားယူကြ၏"
+    },
+    {
+      "surface": "העם",
+      "gloss": "လူထုသည်"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "သတ္တမနေ့၌"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "သတ္တမ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:45:11.070527078Z",
+  "model": "glm-5.3"
+}

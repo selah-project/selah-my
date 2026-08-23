@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 48:7",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 48,
+  "translation": "And I, in my coming from Paddan, Rachel died upon me in the land of Canaan on the way, while yet a stretch of land remained to come to Ephrath, and I buried her there on the way to Ephrath — it is Beth-Lechem.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ငါမူ"
+    },
+    {
+      "surface": "בבאי",
+      "gloss": "ငါ့ရောက်လာစဉ်"
+    },
+    {
+      "surface": "מפדן",
+      "gloss": "ပဒ္ဒါန်မှ"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "သေဆုံးသည်"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ငံ့၌"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ရာခေလ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ပြည်၌"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "ကောင်းမှန်း"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "လမ်း途中"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "ဣနားထားစဉ်"
+    },
+    {
+      "surface": "כברת",
+      "gloss": "တစ်သတ်မျတ်"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "မြေအကွာအဝေး"
+    },
+    {
+      "surface": "לבא",
+      "gloss": "ရောက်ရန်"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ဧဖရတ်သို့"
+    },
+    {
+      "surface": "ואקברה",
+      "gloss": "ငါမြှုပ်နှံ၏"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ထိုနေရာ၌"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "လမ်း途中"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "ဧဖရတ်၏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "အတွေ့"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက်သ်"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "လက်ခেမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:28:39.625135496Z",
+  "model": "glm-5.3"
+}

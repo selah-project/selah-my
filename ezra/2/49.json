@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အုဇ္ဇာ၏သားများ၊ ဖာဆော၏သားများ၊ ဗေဆာ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "အုဇ္ဇာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ဖာဆော"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "ဗေဆာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:22:03.513209608Z",
+  "model": "glm-5.3"
+}

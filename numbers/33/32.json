@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 33:32",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ဗေနေ-ယာကန်မှ ယာဆောင်း၍ ဟော-ဟဂ္ဂိဂ်ဒါဒ်၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ယာဆောင်း၍"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ဗေနေ-မှ"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ယာကန်"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "ဟော-၌"
+    },
+    {
+      "surface": "הגדגד",
+      "gloss": "ဟဂ္ဂိဂ်ဒါဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:41.041309835Z",
+  "model": "glm-5.3"
+}

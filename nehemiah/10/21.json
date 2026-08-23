@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မဂ်ပိအာရှ်၊ မေရှုလ္လမ်၊ ခေဇိရ်။",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "မဂ်ပိအာရှ်"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "မေရှုလ္လမ်"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ခေဇိရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.175929647Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "တေးသွားဦးစီးသူအား — ဒါဝိဒ်၏ မဇ္ဇမော်။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "တေးသွားဦးစီးသူအား"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "မဇ္ဇမော်"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T18:05:49.535916764Z",
+  "model": "glm-5.3"
+}

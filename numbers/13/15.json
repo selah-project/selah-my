@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဂဒ်အိမ်တော်စုမှ မခီ၏သား ဂေအုအေလ်။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အိမ်တော်စုမှ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂဒ်"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ဂေအုအေလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "မခီ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:20.468862117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဟာရိမ်၏သားများ — တစ်ထောင့်ဆယ့်ခုနစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ဟာရိမ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ဆယ့်ခုနစ်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:55.835925548Z",
+  "model": "glm-5.3"
+}

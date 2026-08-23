@@ -1,0 +1,153 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 78:20",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 78,
+  "translation": "ကမ်းလှမ်းလော့ — သူသည် ကျောက်စားကို ရိုက်တော်မူသောအခါ ရေသည် တိမ်းစောင်း၍ ထွက်လာသည်၊ ချောင်းများသည် လွှမ်းလေ၏၊ သူသည် အမှုနှင့်အမှု လည်း ပေးနိုင်ပါမူ — လူအများအတွက် ကိုယ်လက်ကို ပြင်ဆင်ပါမူ — ဟု ဆိုကြ၏။",
+  "tokens": [
+    {
+      "surface": "အလွန်",
+      "gloss": "ကမ်းလှမ်းလော့"
+    },
+    {
+      "surface": "ဆန်း",
+      "gloss": ""
+    },
+    {
+      "surface": "ပြာ",
+      "gloss": ""
+    },
+    {
+      "surface": "ခံစား",
+      "gloss": ""
+    },
+    {
+      "surface": "ခြင်း",
+      "gloss": ""
+    },
+    {
+      "surface": "ခဲ့",
+      "gloss": ""
+    },
+    {
+      "surface": "အား",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖြင့်",
+      "gloss": ""
+    },
+    {
+      "surface": "အဆုံး",
+      "gloss": ""
+    },
+    {
+      "surface": "မှာ",
+      "gloss": ""
+    },
+    {
+      "surface": "မဟုတ်",
+      "gloss": ""
+    },
+    {
+      "surface": "နိုင်",
+      "gloss": ""
+    },
+    {
+      "surface": "ခဲ့",
+      "gloss": ""
+    },
+    {
+      "surface": "ဟု",
+      "gloss": ""
+    },
+    {
+      "surface": "အမြဲ",
+      "gloss": ""
+    },
+    {
+      "surface": "ရှိ",
+      "gloss": ""
+    },
+    {
+      "surface": "စေ",
+      "gloss": ""
+    },
+    {
+      "surface": "သော",
+      "gloss": ""
+    },
+    {
+      "surface": "စိတ်",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖြင့်",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖြတ်",
+      "gloss": ""
+    },
+    {
+      "surface": "တော်",
+      "gloss": ""
+    },
+    {
+      "surface": "မူ",
+      "gloss": ""
+    },
+    {
+      "surface": "၏",
+      "gloss": ""
+    },
+    {
+      "surface": "သတင်း",
+      "gloss": ""
+    },
+    {
+      "surface": "စကား",
+      "gloss": ""
+    },
+    {
+      "surface": "ကောင်း",
+      "gloss": ""
+    },
+    {
+      "surface": "များ",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖြန့်",
+      "gloss": ""
+    },
+    {
+      "surface": "ချိ",
+      "gloss": ""
+    },
+    {
+      "surface": "တော်",
+      "gloss": ""
+    },
+    {
+      "surface": "မူ",
+      "gloss": ""
+    },
+    {
+      "surface": "မည်",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖြစ်",
+      "gloss": ""
+    },
+    {
+      "surface": "သည်",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T18:08:54.170703278Z",
+  "model": "glm-5.3"
+}

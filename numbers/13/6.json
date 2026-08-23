@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ယေဟုဒါအသျားအနွယ်တော်မှ ယေဖုန္နေ၏သား ခါလေဗ်။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အသျားအနွယ်တော်မှ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ယေဟုဒါ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ခါလေဗ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ယေဖုန္နေ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:17.595600841Z",
+  "model": "glm-5.3"
+}

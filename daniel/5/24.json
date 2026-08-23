@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ထိုအခါ ထိုသူ့ရှေ့မှ လက်ဝါးကို စေလွှတ်၍ ဤစာကို ရေးထိုး၏။",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ထိုအခါ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ထံမှ"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ရှေ့မှ"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "စေလွှတ်သည်"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "လက်ဝါး"
+    },
+    {
+      "surface": "די",
+      "gloss": "ကြောင်း"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "လက်"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "စာ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ရေးထိုးသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:10:07.916299206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ထို့ပြင် ⟨את⟩ ဟာဒိုရမ်ကို၊ ⟨את⟩ ဥဇလ်ကို၊ ⟨את⟩ ဒိကလာကို ⟨ဖန်ဆင်း၏⟩။",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဟာဒိုရမ်"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ဟာဒိုရမ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဥဇလ်"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ဥဇလ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဒိကလာ"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ဒိကလာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:35.054549074Z",
+  "model": "glm-5.3"
+}

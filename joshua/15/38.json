@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ဒီလေအန်၊ ⟨the⟩ မိဇ်ပေး၊ ယောက်သီအဲလ်၊",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "နှင့် ဒီလေအန်"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "နှင့် ⟨the⟩ မိဇ်ပေး"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "နှင့် ယောက်သီအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:39.677417554Z",
+  "model": "glm-5.3"
+}

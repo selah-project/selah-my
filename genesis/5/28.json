@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "လာမက်သည် ရှစ်ဆယ်နှစ်နှစ်နှင့် တစ်ရာနှစ် အသက်ရှင်၍ သားတစ်ယောက်ကို မွေးဖွား၏။",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်၍"
+    },
+    {
+      "surface": "למך",
+      "gloss": "လာမက်"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ရှစ်ဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "မွေးဖွား၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    }
+  ],
+  "timestamp": "2026-08-23T07:03:15.756873424Z",
+  "model": "glm-5.3"
+}

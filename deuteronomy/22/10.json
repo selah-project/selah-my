@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "နွားနှင့် မြည်းကို တွဲဖက်၍ မတူးပါနှင့်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "တူး"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "နွားဖြင့်"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "နှင့်မြည်းဖြင့်"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "တစ်ပြိုင်တည်း"
+    }
+  ],
+  "timestamp": "2026-08-23T09:06:23.806289231Z",
+  "model": "glm-5.3"
+}

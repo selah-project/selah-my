@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "လူများ၏ အကြီးအကဲများ — ဖရောရှ်၊ ဖခတ်-မောအာဗ်၊ အေလာမ်၊ ဇတ္တူ၊ ဗာနိုင်၊",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "အကြီးအကဲများ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "လူများ၏"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ဖရောရှ်"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ဖခတ်"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "မောအာဗ်"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "အေလာမ်"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ဇတ္တူ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ဗာနိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:15:35.378056508Z",
+  "model": "glm-5.3"
+}

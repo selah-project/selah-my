@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဟူရ်သည် ⟨את⟩ အူရီကို ဘွားကျွမ်း၏။ အူရီသည် ⟨את⟩ ဘေဇာလေအဲလ်ကို ဘွားကျွမ်း၏။",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ဟူရ်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဘွားကျွမ်း၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အူရီ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "အူရီ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "အူရီ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဘွားကျွမ်း၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဘေဇာလေအဲလ်"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ဘေဇာလေအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:56.692734577Z",
+  "model": "glm-5.3"
+}

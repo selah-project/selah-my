@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ယောရာမ် ⟨၎是他的⟩ သား၊ အာခဇ္ဇာဟု ⟨၎是他的⟩ သား၊ ယောအာရှ ⟨၎是他的⟩ သားဖြစ်သည်။",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "ယောရာမ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "အာခဇ္ဇာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ယောအာရှ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:20.309136248Z",
+  "model": "glm-5.3"
+}

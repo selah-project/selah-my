@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "အေလကနာ၏သား၊ ယေရောဟမ်၏သား၊ အေလိအေလ်၏သား၊ တိုအာခ်၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "အေလကနာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ယေရောဟမ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "အေလိအေလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "တိုအာခ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:35.753340468Z",
+  "model": "glm-5.3"
+}

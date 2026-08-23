@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "Burmese rendering required: And Reu lived two and thirty years, and begat Serug.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ရှင်သန်၏"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ရေအူ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "နှင့် သုံးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולဒ်",
+      "gloss": "ဖွားမြင်၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဆေရုဂ်"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "ဆေရုဂ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:52.515895465Z",
+  "model": "glm-5.3"
+}

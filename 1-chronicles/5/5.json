@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "မိခါ သူ၏သား၊ ရေအာယာ သူ၏သား၊ ဗာအာလ် သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "မိခါ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ရေအာယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ဗာအာလ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:45.863201791Z",
+  "model": "glm-5.3"
+}

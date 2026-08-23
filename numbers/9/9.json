@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ယာဝေသည် မိုရှေအထံ မိန့်တော်မူသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုသည်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:33:47.771566933Z",
+  "model": "glm-5.3"
+}

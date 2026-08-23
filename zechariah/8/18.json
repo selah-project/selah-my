@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "zechariah 8:18",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "စစ်တို့၏ ယာဝေ၏ နှုတ်ကပတ်တော်သည် ငါ့ဆီသို့ လာသဖြင့် ဆိုသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေသော်"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "စစ်တို့၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုသည်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T13:53:53.019943142Z",
+  "model": "glm-5.3"
+}

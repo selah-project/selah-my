@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အနာတိုသ် လူများ — ရာတစ်ဆယ်နှင့် ရှစ်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "လူများ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "အနာတိုသ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "တစ်ဆယ်"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "နှင့် ရှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:18:58.386868620Z",
+  "model": "glm-5.3"
+}

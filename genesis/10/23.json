@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "အာရာမ်၏သားများကား — ဦးဇ်၊ ဟုလ်၊ ဂက်သာရ်၊ မာရှ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "အာရာမ်"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ဦးဇ်"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ဟုလ်"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ဂက်သာရ်"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "မာရှ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:31.484391986Z",
+  "model": "glm-5.3"
+}

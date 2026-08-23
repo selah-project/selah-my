@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ထိုလူတို့၏ အမည်များကား — ယော်ဒAH မျိုးမှ ယေဖUCe သား ခလB ဖြစ်သတည်း။",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "နှင့် ဤ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "အမည်များ"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "လူတို့၏"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "မျိုးမှ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ယော်ဒ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ခလ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ယေဖ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:52:27.865965208Z",
+  "model": "glm-5.3"
+}

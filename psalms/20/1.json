@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "တေးထိုးသူအတွက် — ဒါဝိဒ်၏ ဂီတသီချင်း။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "တေးထိုးသူအတွက်"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ဂီတသီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:07:25.665194783Z",
+  "model": "glm-5.3"
+}

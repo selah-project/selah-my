@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 23:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "အီယိုဗ်သည် ဖြေဆို၍ ဤသို့ မိန့်မြန်း၏။",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆို၍"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အီယိုဗ်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "မိန့်မြန်း၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:30:56.407306927Z",
+  "model": "glm-5.3"
+}

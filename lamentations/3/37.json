@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "မည်သူသည ပြောဆို၍ ⟨၎င်း⟩ ဖြစ်လာရဘိသနည်း — အဒေါနိုင်သည မှာကြာတော်မမူဘဲ။",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "မည်သူ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ပြောဆို၍"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ဖြစ်လာရဘိသနည်း"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "အဒေါနိုင်"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "မှာကြာတော်မမူဘဲ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:43.563570934Z",
+  "model": "glm-5.3"
+}

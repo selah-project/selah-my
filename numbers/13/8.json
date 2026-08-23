@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဧဖရိမ်အသျားအနွယ်တော်မှ နုန်၏သား ဟောရှေအ။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အသျားအနွယ်တော်မှ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ဧဖရိမ်"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ဟောရှေအ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "נון",
+      "gloss": "နုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:17.595814509Z",
+  "model": "glm-5.3"
+}

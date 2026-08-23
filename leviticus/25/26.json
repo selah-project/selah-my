@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 25:26",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "တစ်ယောက်ယောက်သောသူသည် ဆွေမျိုးလည်ပြန်သူ မရှိဘဲ၊ မိမိလက်တောင်းအလာဘ်နှင့် လည်ပြန်ရန် လိုအပ်သမျှ တွေ့ရှိလျှင်၊",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "တစ်ယောက်ယောက်သောသူသည်"
+    },
+    {
+      "surface": "כי",
+      "gloss": "<span style=\"color:#555\">(အကြောင်း)<\/span>"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မရှိဘဲ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "<span style=\"color:#555\">(ရှိမည်)<\/span>"
+    },
+    {
+      "surface": "לו",
+      "gloss": "<span style=\"color:#555\">(၎င်းအတွက်)<\/span>"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ဆွေမျိုးလည်ပြန်သူ"
+    },
+    {
+      "surface": "והשיגה",
+      "gloss": "<span style=\"color:#555\">(ဆိုက်)<\/span>"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "မိမိလက်တောင်းအလာဘ်"
+    },
+    {
+      "surface": "ומצא",
+      "gloss": "တွေ့ရှိလျှင်"
+    },
+    {
+      "surface": "כדי",
+      "gloss": "လိုအပ်သမျှ"
+    },
+    {
+      "surface": "גאלתו",
+      "gloss": "၎င်း၏လည်ပြန်ရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:23:15.996175240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "သီချင်းတို့အနက် သီချင်း — ရှလောမောအားဆိုင်သောအရာ။",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "တို့အနက် သီချင်း"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "အားဆိုင်သောအရာ"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ရှလောမော"
+    }
+  ],
+  "timestamp": "2026-08-23T15:42:58.916283104Z",
+  "model": "glm-5.3"
+}

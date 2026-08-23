@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 136:9",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 136,
+  "translation": "⟨အလယ်၌⟩ ⟨တော်မူသော⟩ ⟨أואမင်း⟩",
+  "tokens": [],
+  "timestamp": "2026-08-23T18:09:51.005543094Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 10:23",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ပေလတ်ယာ၊ ခါနန်၊ အနာယာ။",
+  "tokens": [
+    {
+      "surface": "פלטיה",
+      "gloss": "ပေလတ်ယာ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ခါနန်"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "အနာယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.176254581Z",
+  "model": "glm-5.3"
+}

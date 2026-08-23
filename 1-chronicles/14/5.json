@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ဣဗ်ဟာရ်၊ ဧလီရှူအာ၊ ဧလ်ပါလက်တို့လည်းဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ဣဗ်ဟာရ်"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "ဧလီရှူအာ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "ဧလ်ပါလက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:48:14.057014575Z",
+  "model": "glm-5.3"
+}

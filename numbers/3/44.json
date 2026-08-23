@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 3:44",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၍ ဤသို့ဆို၏ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:27:21.015729322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,110 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 22:30",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "እንዲህ ይላል ያህቮሄ፦ ይህን ሰው ውጪ-ልጅ፥ በዕለቱ የማይበረታ ሰው ተይዘው ጻፉ፤ ምክንያቱም ከዘሩ አንድ ሰውም በዳዊት ዙፋን ላይ ተቀምጦ ደግሞ በይሁዳ የሚገዛ አይኾንም።",
+  "tokens": [
+    {
+      "surface": "ኮህ",
+      "gloss": "እንዲህ"
+    },
+    {
+      "surface": "ኣማር",
+      "gloss": "ይላል"
+    },
+    {
+      "surface": "ያህቮሄ",
+      "gloss": "ያህቮሄ"
+    },
+    {
+      "surface": "ክተቩ",
+      "gloss": "ጻፉ"
+    },
+    {
+      "surface": "ኣት",
+      "gloss": "⟨את⟩ ⟨ኣት⟩",
+      "marks": "ይህን ሰው"
+    },
+    {
+      "surface": "ሄኣይሽ",
+      "gloss": "ሰውን"
+    },
+    {
+      "surface": "ሄዘህ",
+      "gloss": "ይህን"
+    },
+    {
+      "surface": "ዐሪሪ",
+      "gloss": "ውጪ-ልጅ"
+    },
+    {
+      "surface": "ጌበር",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ሎ",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ይጸላሕ",
+      "gloss": "ያበረታም"
+    },
+    {
+      "surface": "በይማዩ",
+      "gloss": "በዕለቱ"
+    },
+    {
+      "surface": "ኪ",
+      "gloss": "ምክንያቱም"
+    },
+    {
+      "surface": "ሎ",
+      "gloss": "አል"
+    },
+    {
+      "surface": "ይጸላሕ",
+      "gloss": "ያበረታምም"
+    },
+    {
+      "surface": "ሚዘርዐ",
+      "gloss": "ከዘሩ"
+    },
+    {
+      "surface": "ኣይሽ",
+      "gloss": "ሰው"
+    },
+    {
+      "surface": "ዮሰብ",
+      "gloss": "ተቀምጦ"
+    },
+    {
+      "surface": "ዐል",
+      "gloss": "ላይ"
+    },
+    {
+      "surface": "ክሰኣ",
+      "gloss": "ዙፋን"
+    },
+    {
+      "surface": "ዳዊድ",
+      "gloss": "ዳዊት"
+    },
+    {
+      "surface": "ውሞሰል",
+      "gloss": "የሚገዛ"
+    },
+    {
+      "surface": "ዐውድ",
+      "gloss": "ደግሞ"
+    },
+    {
+      "surface": "በይሁዳ",
+      "gloss": "በይሁዳ"
+    }
+  ],
+  "timestamp": "2026-08-23T12:15:32.099623279Z",
+  "model": "glm-5.3"
+}

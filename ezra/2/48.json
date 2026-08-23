@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ရက်ဆိန်၏သားများ၊ နေကုဒါ၏သားများ၊ ဂဇာမ်၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ရက်ဆိန်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "နေကုဒါ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ဂဇာမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:22:01.246207372Z",
+  "model": "glm-5.3"
+}

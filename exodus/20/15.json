@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "ခိုးမည်မဟုတ်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မည်မဟုတ်"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ခိုး"
+    }
+  ],
+  "timestamp": "2026-08-23T07:44:14.527537680Z",
+  "model": "glm-5.3"
+}

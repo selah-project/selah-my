@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "မိရှမာ နှင့် ဒူမာ၊ မဿာ၊ ဟာဒတ် နှင့် တေမာ။",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "မိရှမာ"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "နှင့် ဒူမာ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "မဿာ"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ဟာဒတ်"
+    },
+    {
+      "surface": "ויתא",
+      "gloss": "နှင့် တေမာ",
+      "surfaceAlt": "ותימא"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:33.352832795Z",
+  "model": "glm-5.3"
+}

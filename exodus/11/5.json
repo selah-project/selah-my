@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 11:5",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "and every firstborn in the land of Mitsrayim will die — from the firstborn of Pharaoh, who sits upon his throne, as far as the firstborn of the maidservant, who is behind the millstones — and every firstborn of beasts.",
+  "tokens": [
+    {
+      "surface": "ומת",
+      "gloss": "and-will-die"
+    },
+    {
+      "surface": "כל",
+      "gloss": "every"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "in the land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "מבכור",
+      "gloss": "from the firstborn of"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Pharaoh"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "who sits"
+    },
+    {
+      "surface": "על",
+      "gloss": "upon"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "his throne"
+    },
+    {
+      "surface": "עד",
+      "gloss": "as far as"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "the firstborn of"
+    },
+    {
+      "surface": "השפחה",
+      "gloss": "the maidservant"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "behind"
+    },
+    {
+      "surface": "הרחים",
+      "gloss": "the millstones"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "and every"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "firstborn"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "of beasts"
+    }
+  ],
+  "timestamp": "2026-08-23T07:40:50.111230504Z",
+  "model": "glm-5.3"
+}

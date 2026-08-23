@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "အကြောင်းမူကား ဤပညတ်တော် — ငါသည် ယနေ့ ⟨သင်အား⟩ ပညတ်သော — ⟨သည်⟩ သင့်မှ မဆန်းကြယ်၊ ဝေးကွာသည်လည်း မဟုတ်။",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "အကြောင်းမူကား"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ဤပညတ်တော်"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ငါသည်"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ပညတ်သော"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ယနေ့"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ဆန်းကြယ်"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨သည်⟩"
+    },
+    {
+      "surface": "မמך",
+      "gloss": "သင့်မှ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "လည်း မ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ဝေးကွာ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "မဟုတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:39:16.187048034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ကေရော့၏သားများ၊ ဆီအာ၏သားများ၊ ပဒေါန်၏သားများ။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "ကေရော့"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "ဆီအာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ပဒေါန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:59.625073031Z",
+  "model": "glm-5.3"
+}

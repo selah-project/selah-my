@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "သူသည် ⟨את⟩ ကျောက်ကပ်များ၌ ⟨את⟩ မြားအိတ်၏သားများကို ဝင်စေ၏။",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "ဝင်စေ၏"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ကျောက်ကပ်များ၌"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "မြားအိတ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:53.626937622Z",
+  "model": "glm-5.3"
+}

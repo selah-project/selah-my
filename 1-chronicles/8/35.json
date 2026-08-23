@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "မိကာ၏သားများမှာ ပိသုန်၊ မေလက်၊ တာအေရာနှင့် အာခက်တို့ ဖြစ်ကုန်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ပိသုန်"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "မေလက်"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "တာအေရာ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "အာခက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:07.686876663Z",
+  "model": "glm-5.3"
+}

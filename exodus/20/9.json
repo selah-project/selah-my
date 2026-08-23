@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "ခြောက်ရက် သင်သည် အလုပ်လုပ်၍ သင်၏အမှုအားလုံးကို ပြုလော့။",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ရက်"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "အလုပ်လုပ်၍"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ပြုလော့"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "သင်၏အမှု"
+    }
+  ],
+  "timestamp": "2026-08-23T07:46:38.557803917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 119:34",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 119,
+  "translation": "Give me understanding, and I keep the Torah, and I observe it with all my heart.",
+  "tokens": [
+    {
+      "surface": "הבינני",
+      "gloss": "Give me understanding"
+    },
+    {
+      "surface": "ואצרה",
+      "gloss": "and I keep"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "the Torah"
+    },
+    {
+      "surface": "ואשמרנה",
+      "gloss": "and I observe it"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "with all"
+    },
+    {
+      "surface": "לב",
+      "gloss": "my heart"
+    }
+  ],
+  "timestamp": "2026-08-23T14:46:20.781878855Z",
+  "model": "glm-5.3"
+}

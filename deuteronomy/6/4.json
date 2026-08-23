@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "နားထောင်လော့၊ အို ဣသရေလ — ယာဝေ ငါတို့၏ ဧလောဟိမ် — ယာဝေ ⟨is⟩ တစ်ပါးတည်း။",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "နားထောင်လော့"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ငါတို့၏ ဧလောဟိမ်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါးတည်း"
+    }
+  ],
+  "timestamp": "2026-08-23T08:58:38.913886482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "မေ-ဟ-ယရ်ကုန်၊ ရက်ကုန်၊ ယဖောအောက်ခြေမှ ⟨the⟩ နယ်နိမိတ်နှင့်အတူ",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "မေ-ဟ-"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "ယရ်ကုန်"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "ရက်ကုန်"
+    },
+    {
+      "surface": "עם",
+      "gloss": "နှင့်အတူ"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "⟨the⟩ နယ်နိမိတ်"
+    },
+    {
+      "surface": "မוײ",
+      "gloss": "အောက်ခြေမှ"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "ယဖော"
+    }
+  ],
+  "timestamp": "2026-08-23T09:30:54.637318780Z",
+  "model": "glm-5.3"
+}

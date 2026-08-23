@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 37,
+  "translation": "မင်းကြီး ဟိဇကိယာuposထံမှ အမှုတို့သည် ယေရှာယာuposထံသို့ ရောက်လာကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ရောက်လာကြ၏"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "အမှုတို့သည်"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "မင်းကြီး"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ဟိဇကိယာupos"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ယေရှာယာupos"
+    }
+  ],
+  "timestamp": "2026-08-23T11:43:22.311185817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ምድር ሆይ፥ ምድር ሆይ፥ ምድር ሆይ፥ የኛም ቃልን ስማ።",
+  "tokens": [
+    {
+      "surface": "አረጸ",
+      "gloss": "ምድር ሆይ"
+    },
+    {
+      "surface": "አረጸ",
+      "gloss": "ምድር ሆይ"
+    },
+    {
+      "surface": "አረጸ",
+      "gloss": "ምድር ሆይ"
+    },
+    {
+      "surface": "ሰሚዒ",
+      "gloss": "ስማ"
+    },
+    {
+      "surface": "ደባር",
+      "gloss": "ቃልን"
+    },
+    {
+      "surface": "ያህቮሄ",
+      "gloss": "የኛም"
+    }
+  ],
+  "timestamp": "2026-08-23T12:15:32.099297521Z",
+  "model": "glm-5.3"
+}

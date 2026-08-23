@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ရှီလိုနိုင်းများထဲမှ — အာဆာယာ ⟨the⟩ အကြီးဆုံးသားနှင့် ၎င်း၏သားများ။",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ထဲမှ"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "ရှီလိုနိုင်းများ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "အာဆာယာ"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "အကြီးဆုံးသား"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "၎င်း၏သားများ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:50.844861194Z",
+  "model": "glm-5.3"
+}

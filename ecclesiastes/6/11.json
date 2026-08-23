@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "စကားလုံးများစွာရှိ၍ ဟေဗေလကို တိုးပွားစေသဖြင့် လူသားအား အဘယ်အမြတ် ရှိသနည်း။",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "အကြောင်းမှာ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ရှိ၍"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "စကားလုံးများ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "များစွာ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "တိုးပွားစေသ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ဟေဗေလကို"
+    },
+    {
+      "surface": "מה",
+      "gloss": "အဘယ်"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "အမြတ်"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "လူသားအား"
+    }
+  ],
+  "timestamp": "2026-08-23T15:57:40.971277439Z",
+  "model": "glm-5.3"
+}

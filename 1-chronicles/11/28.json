@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "တေခောအသား အိခ်ကက်၏သား အီရာ၊ အာနာတောသား အာဘိဧဇရ်၊",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "အီရာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "အိခ်ကက်"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "တေခောအသား"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "အာဘိဧဇရ်"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "အာနာတောသား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:21.483158199Z",
+  "model": "glm-5.3"
+}

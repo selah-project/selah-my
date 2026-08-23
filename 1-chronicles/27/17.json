@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "လေဝီအား ဟာရှဗ်ယာ‌ဟော် ကေမွာအဲလ်၏သား; အာရွန်အား ဇာဒေါက်။",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "လေဝီအား"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ဟာရှဗ်ယာ‌ဟော်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "ကေမွာအဲလ်"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "အာရွန်အား"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ဇာဒေါက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:57:03.747738297Z",
+  "model": "glm-5.3"
+}

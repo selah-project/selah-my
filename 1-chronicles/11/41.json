@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဥရိယာ ခေတ္တိလူ၊ ဇာဗတ် အခ်လိုင်၏သား၊",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ဥရိယာ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ခေတ္တိလူ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ဇာဗတ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "အခ်လိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:05.315111575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "မောဆေရော့မှ ယာဆောင်း၍ ဗေနေ-ယာကန်၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ယာဆောင်း၍"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "မောဆေရော့မှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "ဗေနေ-၌"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ယာကန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:41.041170753Z",
+  "model": "glm-5.3"
+}

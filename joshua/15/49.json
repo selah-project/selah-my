@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ဒန္နာနှင့် ကိရျာသ-ဆန္နာ — ⟨၎င်းသည်⟩ဒေဗိရ်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ဒန္နာနှင့်"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ကိရျာသ-"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "ဆန္နာ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨၎င်းသည်⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ဒေဗိရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:25.228519099Z",
+  "model": "glm-5.3"
+}

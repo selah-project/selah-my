@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 12:15",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "လိဗ်နာ ၏ ဘုရင် တစ်ပါး၊ အဒူလာမ် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "လိဗ်နာ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "အဒူလာမ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:15.189336792Z",
+  "model": "glm-5.3"
+}

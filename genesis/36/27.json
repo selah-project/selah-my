@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "တို့သည် အေဇာရ်၏သားများဖြစ်ကြ၏ — ဗိလ်ဟန်၊ ဇာအာဗန်၊ အာကန်။",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "တို့သည်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "အေဇာရ်"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ဗိလ်ဟန်"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ဇာအာဗန်"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "အာကန်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:28:26.018311576Z",
+  "model": "glm-5.3"
+}

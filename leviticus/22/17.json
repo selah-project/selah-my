@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၍ ⟨ဟု⟩ ဆို၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ဟု⟩ ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:18:12.955342076Z",
+  "model": "glm-5.3"
+}

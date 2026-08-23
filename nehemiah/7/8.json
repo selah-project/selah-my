@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဖာရောရ်ရှ်၏ သားများ — လေးသောင်းတစ်ရာ ခုနစ်ဆယ် နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ဖာရောရ်ရှ်၏"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "နှစ်သောင်း"
+    },
+    {
+      "surface": "မאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ခုနစ်ဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:41.962562718Z",
+  "model": "glm-5.3"
+}

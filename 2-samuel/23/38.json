@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ဣရအာ ⟨the⟩ ဣသရိလူမျိုး၊ ဂါရက်ဗ် ⟨the⟩ ဣသရိလူမျိုး။",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ဣရအာ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ဣသရိလူမျိုး"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ဂါရက်ဗ်"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ဣသရိလူမျိုး"
+    }
+  ],
+  "timestamp": "2026-08-23T10:34:41.520427355Z",
+  "model": "glm-5.3"
+}

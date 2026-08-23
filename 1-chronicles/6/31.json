@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "အာမဇီ၏သား၊ ဗာနီ၏သား၊ ရှေမာရ်၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "အာမဇီ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ဗာနီ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ရှေမာရ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:15.990835777Z",
+  "model": "glm-5.3"
+}

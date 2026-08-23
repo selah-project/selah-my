@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ထို့ပြင် ⟨את⟩ အေဗယ်ကို၊ ⟨את⟩ အဗိမေအလ်ကို၊ ⟨את⟩ ရှေဗာကို ⟨ဖန်ဆင်း၏⟩။",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အေဗယ်"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "အေဗယ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အဗိမေအလ်"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "အဗိမေအလ်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ရှေဗာ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ရှေဗာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:35.054785065Z",
+  "model": "glm-5.3"
+}

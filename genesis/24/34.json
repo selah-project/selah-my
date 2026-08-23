@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "ထိုအခါ သူက အကျွန်ုပ်သည် အဗ်ရာဟမ်၏ကျွန်ဖြစ်ပါသည်ဟု ⟨ဆို၏⟩။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ကျွန်"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်၏"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "အကျွန်ုပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:13:50.664157985Z",
+  "model": "glm-5.3"
+}

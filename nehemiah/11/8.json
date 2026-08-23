@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "၎င်းနောက် ဂဗ္ဗါယ်၊ ဆလ္လာယ်တို့မှာ ကိုးရာနှစ်ဆယ်ရှစ်ယောက်ရှိ၏။",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "၎င်းနောက်"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ဂဗ္ဗါယ်"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ဆလ္လာယ်"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ရှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:38.673085394Z",
+  "model": "glm-5.3"
+}

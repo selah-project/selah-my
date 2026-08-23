@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ယာဝေ၏နှုတ်ကပတ်တော်သည် အမိတ္တိ၏သား ယောնาထံသို့ လာသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ထံသို့"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "ယောန"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "အမိတ္တိ"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "ဆိုသည်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T13:41:21.818400092Z",
+  "model": "glm-5.3"
+}

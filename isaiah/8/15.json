@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 8:15",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ထိုအရာတို့၌ များစွာသောသူတို့သည် ခြေလျင်းကြလိမ့်မည်၊ ကျဆင်းကြလိမ့်မည်၊ ကွဲရှroken ဘုံအရောင်းကြလိမ့်မည်၊",
+  "tokens": [
+    {
+      "surface": "וכשלו",
+      "gloss": ""
+    },
+    {
+      "surface": "בם",
+      "gloss": ""
+    },
+    {
+      "surface": "רבים",
+      "gloss": ""
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": ""
+    },
+    {
+      "surface": "ונשבरו",
+      "gloss": ""
+    },
+    {
+      "surface": "ונוקשו",
+      "gloss": ""
+    },
+    {
+      "surface": "ונלכדו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T11:25:49.697565239Z",
+  "model": "glm-5.3"
+}

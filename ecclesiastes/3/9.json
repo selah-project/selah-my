@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အလုပ်ကိုပြုသောသူသည် မိမိပင်ပန်းဆင်းရဲသောအရာ၌ အဘယ်အမြတ်ကို ရပါသနည်း။",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "အဘယ်"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "အမြတ်"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "အလုပ်ကိုပြုသောသူ"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ထဲ၌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "၎င်း"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ပင်ပန်းဆင်းရဲသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:54:50.062263057Z",
+  "model": "glm-5.3"
+}

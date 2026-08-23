@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 48,
+  "translation": "डर और गड्ढा और जाल तेरे ऊपर है, हे मियाब में बसने वाले, यहवेह की वाणी है।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "डर"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "और गड्ढा"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "और जाल"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तेरे ऊपर है"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "…में बसने वाले"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मियाब"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…की वाणी है"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेह"
+    }
+  ],
+  "timestamp": "2026-08-23T12:39:03.923159911Z",
+  "model": "glm-5.3"
+}

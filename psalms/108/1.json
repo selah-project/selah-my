@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 108,
+  "translation": "သီချင်း၊ ဇမိုးရ်၊ ဒါဝိဒ်အား။",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "မזמור",
+      "gloss": "ဇမိုးရ်"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်အား"
+    }
+  ],
+  "timestamp": "2026-08-23T14:44:02.487830754Z",
+  "model": "glm-5.3"
+}

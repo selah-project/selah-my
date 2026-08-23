@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ရေကkem်၊ ယိရ်ပေအဲလ်၊ တာရာလာ < tagging >",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "ရေကkem်"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "ယိရ်ပေအဲလ်"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "တာရာလာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:59.968086103Z",
+  "model": "glm-5.3"
+}

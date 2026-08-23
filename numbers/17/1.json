@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "ယာဝေသည် မိုရှေထံသို့ မိန့်တော်မူ၍ ပြောကြားတော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောကြားတော်မူ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:39:03.716608030Z",
+  "model": "glm-5.3"
+}

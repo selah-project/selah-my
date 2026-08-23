@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ှဇာရ်-ဂဒ္ဒါ၊ ှက်ရှမောန်၊ ဗက်ရ်-ပါလက်",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ှဇာရ်"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "ဂဒ္ဒါ"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "ှက်ရှမောန်"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ဗက်ရ်"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ပါလက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:57.352505413Z",
+  "model": "glm-5.3"
+}

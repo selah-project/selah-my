@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ထိုအခါ ယေရုရှာလိုင်မ်ထံ ကျွန်ုပ်ရောက်လာ၍ ⟨the⟩ နေရာ၌ နေ့သုံးနေ့ နေခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ကျွန်ုပ်ရောက်လာ၍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ယေရုရှာလိုင်မ်"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "နေခဲ့၏"
+    },
+    {
+      "surface": "שם",
+      "gloss": "နေရာ၌"
+    },
+    {
+      "surface": "យמים",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "သုံး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:30:07.325084741Z",
+  "model": "glm-5.3"
+}

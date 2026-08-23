@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "မီးသည် အမြဲမပြတ် ⟨the⟩ ယဇ်ပူဇော်ခုံပေါ်၌ လောင်ကျွမ်းရမည်၊ မငြိမ်းရ။",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "မီး"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "အမြဲမပြတ်"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "လောင်ကျွမ်းရမည်"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ယဇ်ပူဇော်ခုံ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ငြိမ်းရ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:04:31.457921826Z",
+  "model": "glm-5.3"
+}

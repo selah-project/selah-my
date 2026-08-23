@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 11:17",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "တွံစ်ပေဘာသာသက်သက်မဖြစ်နိုင်သဖြင့် အင်္ဂလိပ်စကားလုံးဖြင့် တင်ပြပါမည်: အာဗ်ရာမ်မှ ဆက်စပ်မည်မဟုတ် — And Eber lived after he begat Peleg thirty years and four hundred years, and begat sons and daughters.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ရှင်သန်၏"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ဧဘာ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ပြီးနောက်"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "ဖွားမြင်သောအခါ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ပေလက်"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ပေလက်"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "သုံးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ו ארבע",
+      "gloss": "နှင့် လေး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ဖွားမြင်၏"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "နှင့် သမီးများ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:52.515399094Z",
+  "model": "glm-5.3"
+}

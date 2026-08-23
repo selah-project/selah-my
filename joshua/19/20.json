@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "ရဗ္ဗိသ်၊ ကိဿိယောန်၊ အေဗက်တို့လည်း ဖြစ်သည်။",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ရဗ္ဗိသ်"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "ကိဿိယောန်"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "အေဗက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:29:59.711067657Z",
+  "model": "glm-5.3"
+}

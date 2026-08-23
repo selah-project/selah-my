@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ယောအယ်၊ အာသိယေလ၏သား ဆရာယာ၏သား ယောရှိဗိယာ၏သား ယေဟူတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ယောအယ်"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ယေဟူ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ယောရှိဗိယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ဆရာယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "အာသိယေလ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:22.861229636Z",
+  "model": "glm-5.3"
+}

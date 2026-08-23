@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယိဇ်ဟာရ်၏သား၊ ကေဟာသ်၏သား၊ လေဝိ၏သား၊ ယိစြရာအေလ်၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ယိဇ်ဟာရ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ကေဟာသ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ယိစြရာအေလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:56.183775032Z",
+  "model": "glm-5.3"
+}

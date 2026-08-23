@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အမှောင်ထဲ၌ ရှေးကာလသေသူများကဲ့သို့ ငါ့ကို နေစေတော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "အမှောင်ထဲ၌"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ငါ့ကို နေစေတော်မူ၏"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "သေသူများကဲ့သို့"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ရှေးကာလ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:49.496827178Z",
+  "model": "glm-5.3"
+}

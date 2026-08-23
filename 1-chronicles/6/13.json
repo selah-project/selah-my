@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ရှမူအေလ်၏သားများ — ထို ⟨the⟩ ပထမဦးသား ဝှရှ်နိည်၊ ထို့နောက် အဗျာ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့် …၏သားများ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ရှမူအေလ်"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ထို ⟨the⟩ ပထမဦးသား"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ဝှရှ်နိည်"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "ထို့နောက် အဗျာ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:47.531168649Z",
+  "model": "glm-5.3"
+}

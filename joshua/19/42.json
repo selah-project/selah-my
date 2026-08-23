@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "ရှအာလဗ္ဗိန်၊ အယ်ယာလုန်၊ ယိသ်လာတို့လည်း ပါဝင်၏။",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ရှအာလဗ္ဗိန်"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "အယ်ယာလုန်"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ယိသ်လာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:29:56.109974122Z",
+  "model": "glm-5.3"
+}

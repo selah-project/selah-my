@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 72,
+  "translation": "အဆုံးသတ်လေသည် — ဒါဝိဒ်၏၊ ယိဿိ၏သား၏ ဆုတောင်းချက်များ။",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "အဆုံးသတ်လေသည်"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "ဆုတောင်းချက်များ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိဒ်၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ယိဿိ"
+    }
+  ],
+  "timestamp": "2026-08-23T14:27:54.901130744Z",
+  "model": "glm-5.3"
+}

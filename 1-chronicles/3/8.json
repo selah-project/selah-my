@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ဧလိရှမာန်၊ ဧလိယဒာနှင့် ဧလိဖလက်တို့လည်း ရှိကြ၏ — ကိုးဦးတည်း။",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ဧလိရှမာန်"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ဧလိယဒာ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ဧလိဖလက်"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ကိုးဦးတည်း"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:05.842492654Z",
+  "model": "glm-5.3"
+}

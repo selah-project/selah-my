@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "hattush၊ shebanyah၊ malluk",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "hattush"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "shebanyah"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "malluk"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:57.168826495Z",
+  "model": "glm-5.3"
+}

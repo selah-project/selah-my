@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အသင်၎င်းကို မစားရ။ မြေကြီးပေါ်၌ ရေကဲ့သို့ သွန်းလောင်းရမည်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "အသင်၎င်းကို စားရ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "မြေကြီး"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "သွန်းလောင်းရမည်"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ရေကဲ့သို့"
+    }
+  ],
+  "timestamp": "2026-08-23T09:02:56.356912683Z",
+  "model": "glm-5.3"
+}

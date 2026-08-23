@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ယက်ဒာဣ၏သားများမှာ ရေဂက်မ်၊ ယောထမ်၊ ဂေရှန်၊ ပေလက်မ်၊ ဧဖနှင့် ရှအပ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "ယက်ဒာဣ"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "ရေဂက်မ်"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "ယောထမ်"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "ဂေရှန်"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "ပေလက်မ်"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "ဧဖ"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "ရှအပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:26.280180612Z",
+  "model": "glm-5.3"
+}

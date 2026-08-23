@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 8:16",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဣသရေလဘုရင် အာဟပ်၏သား ယောရံ၏ ပဉ္စမနှစ်၌ ယောရံသည် ဣသရေလဘုရင်၊ ယုဒသာဘုရင် ယောရှဖ intersects ဖြစ်သည့်အခါ ယောရံသည် ယောရှဖ intersects ၏သား ယောရံ ယုဒတို့၏ ဘုရင် ဖြစ်လာ၏။",
+  "tokens": [
+    {
+      "surface": "ובשנת",
+      "gloss": "ပဉ္စမနှစ်၌"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "ליורם",
+      "gloss": "ယောရံ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "အာဟပ်"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ယောရှဖ intersects"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ယုဒ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "နန်းတက်အုပ်ချုပ်သည်"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "ယောရံ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "ယောရှဖ intersects"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ယုဒ"
+    }
+  ],
+  "timestamp": "2026-08-23T11:07:14.625012112Z",
+  "model": "glm-5.3"
+}

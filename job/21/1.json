@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "အီယောဘမှ ဖြေဆို၍ ပြောဆိုသည်ဖြစ်၏ —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆို၍"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အီယောဘမှ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ပြောဆိုသည်ဖြစ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:29:52.388357989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "၎င်းတို့သည် ဧသော၏ မျိုးရိုးစဉ်ဆက် ဖြစ်သည် — သူသည် ဧဒုံဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "၎င်းတို့သည်"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "မျိုးရိုးစဉ်ဆက်"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသော၏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "သူသည်"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ဧဒုံ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:21:56.059612818Z",
+  "model": "glm-5.3"
+}

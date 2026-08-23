@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "နောခါလည်း ⟨၎င်းသည်⟩ စတုတ္ထသား၊ ရာဖာလည် ⟨၎င်းသည်⟩ ပဉ္စမသား။",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "နောခါ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "စတုတ္ထ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ရာဖာ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ပဉ္စမ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:11.967108202Z",
+  "model": "glm-5.3"
+}

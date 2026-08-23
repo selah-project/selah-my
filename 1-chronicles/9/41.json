@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "မိကာ၏သားများမှာ ပီသုန်၊ မလက်ခ်နှင့် တာရေအာ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ပီသုန်"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "မလက်ခ်"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "တာရေအာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:52.129053213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,121 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 2:24",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "それゆえダニエルは、王がバビロンの知者たちを滅ぼすために任命したアリオクのところへ行き、彼にこう言った。バビロンの知者たちを滅ぼしてはなりません。私を王の前に導いてください。そうすれば私は王にその解き明かしを示しましょう。",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "それゆえ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "〜に応じて"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "この事"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ダニエルは"
+    },
+    {
+      "surface": "על",
+      "gloss": "入った"
+    },
+    {
+      "surface": "על",
+      "gloss": "〜のところへ"
+    },
+    {
+      "surface": "אריוך",
+      "gloss": "アリオク"
+    },
+    {
+      "surface": "די",
+      "gloss": "〜である者"
+    },
+    {
+      "surface": "מני",
+      "gloss": "任命した"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王が"
+    },
+    {
+      "surface": "להובדה",
+      "gloss": "滅ぼすために"
+    },
+    {
+      "surface": "לחכימי",
+      "gloss": "知者たちを"
+    },
+    {
+      "surface": "בבল",
+      "gloss": "バビロンの"
+    },
+    {
+      "surface": "אזל",
+      "gloss": "行った"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "こう"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "言った"
+    },
+    {
+      "surface": "לה",
+      "gloss": "彼に"
+    },
+    {
+      "surface": "לחכימי",
+      "gloss": "知者たちを"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "バビロンの"
+    },
+    {
+      "surface": "אל",
+      "gloss": "〜してはならない"
+    },
+    {
+      "surface": "תהובד",
+      "gloss": "滅ぼす"
+    },
+    {
+      "surface": "העלני",
+      "gloss": "私を導いてください"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "前に"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "王の"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "解き明かしを"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "王に"
+    },
+    {
+      "surface": "אחוא",
+      "gloss": "示しましょう"
+    }
+  ],
+  "timestamp": "2026-08-23T16:05:43.345531066Z",
+  "model": "glm-5.3"
+}

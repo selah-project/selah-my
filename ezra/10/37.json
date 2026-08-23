@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မတန်ယာ၊ မတေနယ်၊ ယာအာဆာုူး၊",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "မတန်ယာ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "မတေနယ်"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ယာအာဆာုူး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:25:30.595665669Z",
+  "model": "glm-5.3"
+}

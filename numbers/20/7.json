@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "ယာဝေလည်း မိုရှေအား မိန့်တော်မူ၍ ဆိုသည်အရှိတိုင်း —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "လאמר",
+      "gloss": "ဆိုသည်အရှိတိုင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T08:41:00.083598024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဂဒ်အား အဲလ်ယာသက်ဖ်၊ ဒေအုဧလ်၏သား။",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ဂဒ်အား"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "အဲလ်ယာသက်ဖ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…၏သား"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ဒေအုဧလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:33:38.613845608Z",
+  "model": "glm-5.3"
+}

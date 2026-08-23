@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "⟨ရှိ၏⟩ ဆိုးယုတ်သောအရာတစ်ခုသည် နေရောင်အောက်၌ ငါသည်မြင်၏၊ ၎င်းသည် လူသားတို့အပေါ်၌ ကြီးမား၏။",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "⟨ရှိ၏⟩"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ဆိုးယုတ်သောအရာ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨၎င်းကို⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ငါသည်မြင်၏"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အောက်၌"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "နေ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ကြီးမား၏"
+    },
+    {
+      "surface": "היא",
+      "gloss": "၎င်းသည်"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်၌"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "လူသား"
+    }
+  ],
+  "timestamp": "2026-08-23T15:58:35.447230587Z",
+  "model": "glm-5.3"
+}

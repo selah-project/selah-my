@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ငါ ငြင်းချင်း၍ အော်ဟစ်သော်လည်း ငါ၏ဆုတောင်းချက်ကို ပိတ်ပင်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "လည်း…သော်လည်း"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…သော်"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ငြင်းချင်း၍"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "အော်ဟစ်"
+    },
+    {
+      "surface": "שתቝ",
+      "gloss": "ပိတ်ပင်တော်မူ၏"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "ငါ၏ဆုတောင်းချက်ကို"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:49.497057499Z",
+  "model": "glm-5.3"
+}

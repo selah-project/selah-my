@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "အိုင်ယုဘ်သည် ဖြေဆို၍ မိမိကိုယ်တိုင် ဤသို့ ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆို၍"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အိုင်ယုဘ်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T18:11:46.193370999Z",
+  "model": "glm-5.3"
+}

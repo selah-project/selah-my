@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "၎တို့သည် ဟာရာဒါမှ ထွက်ခွာ၍ မက်ဟေလောထ်၌ တပ်ချလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာ၍"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "ဟာရာဒါမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "တပ်ချလေ၏"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "မက်ဟေလောထ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:52:00.083141663Z",
+  "model": "glm-5.3"
+}

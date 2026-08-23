@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အဇ်မာဝက် ၏သားများ — လေးဆယ်နှင့် နှစ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "အဇ်မာဝက်"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှင့် နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:18:58.386997442Z",
+  "model": "glm-5.3"
+}

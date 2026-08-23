@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 38,
+  "translation": "ဒါဝိဒ်၏ သီချင်း၊ မှတ်မိစေရန်။",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "မှတ်မိစေရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T14:14:48.475055738Z",
+  "model": "glm-5.3"
+}

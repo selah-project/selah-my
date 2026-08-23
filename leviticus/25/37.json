@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "⟨את⟩ ငွေကို သူ့အား အတိုးဖြင့် မပေးလင့်၊ အမြတ်ဖြင့်လည်း ⟨את⟩ စားစရာကို မပေးလင့်။",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ငွေ"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "ငွေ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ပေးလင့်"
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ့အား"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "အတိုးဖြင့်"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "အမြတ်ဖြင့်လည်း"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ပေးလင့်"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "စားစရာကို"
+    }
+  ],
+  "timestamp": "2026-08-23T17:34:19.135439548Z",
+  "model": "glm-5.3"
+}

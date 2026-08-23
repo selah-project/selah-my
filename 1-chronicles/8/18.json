@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဤသ္မေရု၊ ယဇလိယ၊ ယောဘဘ်တို့သည် ဧလဖါလ်၏သားများ <…>",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ဤသ္မေရု"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ယဇလိယ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ယောဘဘ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ဧလဖါလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:49.711316116Z",
+  "model": "glm-5.3"
+}

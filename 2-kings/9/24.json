@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 9:24",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "And Yehu filled his hand with the bow, and struck ⟨את⟩ Yehoram between his arms; and the arrow came out from his heart, and he sank down in his chariot.",
+  "tokens": [
+    {
+      "surface": "ויהוא",
+      "gloss": "and Yehu"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "filled"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "his hand"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "with the bow"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "and struck"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Yehoram"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "זרעיו",
+      "gloss": "his arms"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "and came out"
+    },
+    {
+      "surface": "החצי",
+      "gloss": "the arrow"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "from his heart"
+    },
+    {
+      "surface": "ויכרע",
+      "gloss": "and sank down"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in his chariot"
+    }
+  ],
+  "timestamp": "2026-08-23T11:05:40.328126681Z",
+  "model": "glm-5.3"
+}

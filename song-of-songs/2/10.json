@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ချစ်သူသည် ဖြေဆို၍ ကျွန်ုပ်အား ပြောဆိုသည်ကား — ထလော့၊ အချစ်၊ အလှသူ၊ ထွက်သွားလော့။",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ဖြေဆို၏"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ချစ်သူ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ပြောဆို၏"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ကျွန်ုပ်အား"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ထလော့"
+    },
+    {
+      "surface": "לך",
+      "gloss": "လော့"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "အချစ်"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "အလှသူ"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "သွားလော့"
+    },
+    {
+      "surface": "လך",
+      "gloss": "လော့"
+    }
+  ],
+  "timestamp": "2026-08-23T15:42:07.606439707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "လူသတ်မှု မပြုနှင့်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "လူသတ်နှင့်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:56:02.247319907Z",
+  "model": "glm-5.3"
+}

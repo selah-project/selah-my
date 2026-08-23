@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ရှမ်ရောန်-မေရောန် ၏ ဘုရင် တစ်ပါး၊ အက်ရှာဖ် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ရှမ်ရောန်"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "မေရောန်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "အက်ရှာဖ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:33.978906165Z",
+  "model": "glm-5.3"
+}

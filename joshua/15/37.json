@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "တျေနန်၊ ဟာဒါသာ၊ မိဂ်ဒါလ်ဂါဒ်၊",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "တျေနန်"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "နှင့် ဟာဒါသာ"
+    },
+    {
+      "surface": "ומגדל גד",
+      "gloss": "နှင့် မိဂ်ဒါလ်ဂါဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:39.677227702Z",
+  "model": "glm-5.3"
+}

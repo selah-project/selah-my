@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ှဇာရ်-ရှုအာလ်၊ ဗီအာရ်-ရှေဗါ၊ ဗိဇိယော-သီးယာ",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ှဇာရ်"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ရှုအာလ်"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ဗီအာရ်"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ရှေဗါ"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "ဗိဇိယော-သီးယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:57.352626721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 89,
+  "translation": "သင်ကြားခန်းကဗျာ — အီတန် ၊ ⟨the⟩ အက်ဇရခိုက် ၏။",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "သင်ကြားခန်းကဗျာ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "အီတန်"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "အက်ဇရခိုက်"
+    }
+  ],
+  "timestamp": "2026-08-23T14:35:19.987881677Z",
+  "model": "glm-5.3"
+}

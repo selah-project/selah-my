@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 39,
+  "translation": "နှင့် ⟨the⟩ တန်း ⟨သည်⟩ ⟨the⟩ တတိယ — လက်ရှင်မ၊ ရှေဗူ၊ နှင့် အဟ်လာမာ။",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "နှင့် တန်း"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "တတိယ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "လက်ရှင်မ"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ရှေဗူ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "နှင့် အဟ်လာမာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:01:10.965443947Z",
+  "model": "glm-5.3"
+}

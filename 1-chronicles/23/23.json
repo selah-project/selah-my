@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "မူရှိ၏သားများ — မခ္လိ၊ ဧဒေရ်နှင့် ယေရမောသ် — သုံးဦးတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "မူရှိ၏"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "မခ္လိ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "နှင့်ဧဒေရ်"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "နှင့်ယေရမောသ်"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "သုံးဦး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:55:25.762980212Z",
+  "model": "glm-5.3"
+}

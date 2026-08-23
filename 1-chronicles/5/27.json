@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "လေဝိသားများ — ဂျာရွှန်၊ ခေဟတ် နှင့် မေရာရီ။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ဂျာရွှန်"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ခေဟတ်"
+    },
+    {
+      "surface": "وמררי",
+      "gloss": "မေရာရီ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:07.014302385Z",
+  "model": "glm-5.3"
+}

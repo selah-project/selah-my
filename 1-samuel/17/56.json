@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "ရှောင်မင်းက မေးမြန်းလော့ — ဤလူငယ်သည် အဘယ်သူ၏သားနည်း။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "မင်းက မေးမြန်းလော့"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ရှောင်မင်း"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "မေးမြန်းလော့"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "သင်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מי",
+      "gloss": "အဘယ်သူ၏"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "လူငယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:43:32.841328897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-kings 18:6",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "They divided ⟨among themselves⟩ the land ⟨את⟩ to pass through it. Ahab went one way by himself, and Obadyahu went one way by himself.",
+  "tokens": [
+    {
+      "surface": "ויחלקו",
+      "gloss": "they divided"
+    },
+    {
+      "surface": "להם",
+      "gloss": "for themselves"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "the land"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "the land"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "to pass through"
+    },
+    {
+      "surface": "בה",
+      "gloss": "it"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "went"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "on the way"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "by himself"
+    },
+    {
+      "surface": "ועבדיהו",
+      "gloss": "and Obadyahu"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "went"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "on the way"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "one"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "by himself"
+    }
+  ],
+  "timestamp": "2026-08-23T10:53:43.894115075Z",
+  "model": "glm-5.3"
+}

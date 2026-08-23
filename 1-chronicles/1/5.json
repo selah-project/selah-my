@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ယေဖေသ၏သားများမှာ ဂိုမေရ်၊ မာဂိုဂ်၊ မာဒိုင်၊ ယာဝမ်၊ တုဘάλ၊ မေရှက်၊ တိရသ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ယေဖေသ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ဂိုမေရ်"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "မာဂိုဂ်"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "မာဒိုင်"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ယာဝမ်"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "တုဘάλ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "မေရှက်"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "တိရသ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:45.094791745Z",
+  "model": "glm-5.3"
+}

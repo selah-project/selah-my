@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဟာနောခ်၏ ⟨the⟩ နေ့ရက်များ အားလုံးသည် နှစ်အသက် သုံးရာ ခြောက်ဆယ့်ငါးနှစ် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "κλ",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "နေ့ရက်များ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ဟာနောခ်၏"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "နှင့် ခြောက်ဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "နှင့် သုံး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:03:22.749733427Z",
+  "model": "glm-5.3"
+}

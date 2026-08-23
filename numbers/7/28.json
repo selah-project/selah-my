@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဆိတ်ပြိုသတိုးတစ်ကောင် — အပြစ်ယဇ်အဖြစ်။",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "သတိုး"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ဆိတ်ပြို"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ကောင်"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "အပြစ်ယဇ်အဖြစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:28:51.284524539Z",
+  "model": "glm-5.3"
+}

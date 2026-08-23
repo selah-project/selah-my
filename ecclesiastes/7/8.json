@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ကိစ္စ၏ အဆုံးသည် ၎င်း၏ အစထက် သာလှသည် — စိတ်ရှည်သူသည် စိတ်မာနထက် သာလှသည်။",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "သာလှသည်"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "အဆုံး"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ကိစ္စ၏"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "၎င်း၏ အစထက်"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "သာလှသည်"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "စိတ်ရှည်သူ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "…သောသူသည်"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "စိတ်မာနထက်"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "…သော"
+    }
+  ],
+  "timestamp": "2026-08-23T15:56:26.166257124Z",
+  "model": "glm-5.3"
+}

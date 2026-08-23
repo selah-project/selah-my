@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 16,
+  "translation": "တစ်အိုမာသည် ဧဖာ၏ ဆယ်ပုံတစ်ပုံ ⟨ဖြစ်၏⟩။",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "တစ်အိုမာ"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ဆယ်ပုံတစ်ပုံ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ဧဖာ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ဖြစ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T07:44:24.447988127Z",
+  "model": "glm-5.3"
+}

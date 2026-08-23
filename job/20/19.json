@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 20:19",
+  "book": "job",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "‌",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T15:29:21.499156451Z",
+  "model": "glm-5.3"
+}

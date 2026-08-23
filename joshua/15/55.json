@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "မာအုန်၊ ခာမေလ်၊ နှင့် ဇိပ်၊ နှင့် ယုတ္တာ",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "မာအုန်"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "ခာမေလ်"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "နှင့် ဇိပ်"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "နှင့် ယုတ္တာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:27.586118029Z",
+  "model": "glm-5.3"
+}

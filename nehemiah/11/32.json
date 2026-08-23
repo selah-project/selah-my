@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "အာနာတော့ ၊ နောဗ် ၊ အာနာန်ယာ (တို့၌၎င်း)။",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "အာနာတော့"
+    },
+    {
+      "surface": "נב",
+      "gloss": "နောဗ်"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "အာနာန်ယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:00.771266719Z",
+  "model": "glm-5.3"
+}

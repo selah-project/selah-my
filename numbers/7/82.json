@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဆိတ်ပြီးတစ်ကောင်၊ အပြစ်ပူဇော်ခြင်းအတွက်။",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ဆိတ်ပြီး"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ဆိတ်များ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ကောင်"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "အပြစ်ပူဇော်ခြင်းအတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:35:34.555119981Z",
+  "model": "glm-5.3"
+}

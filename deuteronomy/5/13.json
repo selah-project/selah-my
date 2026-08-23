@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဇတိ ခြောက်ရက် သင်သည် အလုပ်လုပ်၍ သင်၏အလုပ်အားလုံးကို ပြုရမည်။",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ဇတိများ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "သင်သည် အလုပ်လုပ်၍"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ပြုရမည်"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "သင်၏အလုပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:56:46.914421518Z",
+  "model": "glm-5.3"
+}

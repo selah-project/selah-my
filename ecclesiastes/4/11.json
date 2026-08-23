@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "နှစ်ဦးသည် အတူအိပ်လျှင် ၎င်းတို့အား အနွေးရှိ၏၊ တစ်ဦးအားကား မည်သို့ နွေးမည်နည်း။",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ထပ်မံ၍"
+    },
+    {
+      "surface": "אם",
+      "gloss": "လျှင်"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "အိပ်"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်ဦးသည်"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "အနွေးရှိ၏"
+    },
+    {
+      "surface": "လהය-හල්-බම",
+      "gloss": ""
+    },
+    {
+      "surface": "ජ-ජ-ජ",
+      "gloss": ""
+    },
+    {
+      "surface": "ජ",
+      "gloss": ""
+    },
+    {
+      "surface": "ජ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T15:53:59.738974350Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "ဘိလှာသည် ပင်ပန်း၍ ယာကောဗ်အား သားတစ်ယောက်ကို မွေးဖွား၏။",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "ပင်ပန်း၍"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ဘိလှာ"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "မွေးဖွား၏"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ယာကောဗ်အား"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    }
+  ],
+  "timestamp": "2026-08-23T07:17:40.912436007Z",
+  "model": "glm-5.3"
+}

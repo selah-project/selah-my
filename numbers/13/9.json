@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဗင်္ဂျမင်အမျိုးအနွယ်အနက်မှ ပါလ်တိ၊ ရာဖူ၏သား။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အမျိုးအနွယ်အနက်မှ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ဗင်္ဂျမင်"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ပါလ်တိ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ရာဖူ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:13.913559393Z",
+  "model": "glm-5.3"
+}

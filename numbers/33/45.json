@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "၎င်းတို့သည် အိ-ယိမ်မှ ခရီးသွားကြ၍ ဒိဗုန်-ဂဒ် ၌ တဲချနေကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ခရီးသွားကြ၏"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "အိ-ယိမ်မှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "တဲချနေကြ၏"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "ဒိဗုန်၌"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:48.044639529Z",
+  "model": "glm-5.3"
+}

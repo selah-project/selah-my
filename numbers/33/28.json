@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "၎တို့သည် တေရာထ်မှ ထွက်ခွာ၍ မိထ်ကာထ်၌ တပ်ချလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာ၍"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "တေရာထ်မှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "တပ်ချလေ၏"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "မိထ်ကာထ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:52:00.083610140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 78,
+  "translation": "ရန်သူ၏လက်တို့မှ ⟨את⟩ ထိုအရှင်၏လက်ကို ကယ်စွန့်သော နေ့ကို မမှတ်မိကြ။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "မှတ်မိကြ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ထိုအရှင်၏လက်"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ထိုအရှင်၏လက်"
+    },
+    {
+      "surface": "יום",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "အခါ"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "ကယ်စွန့်သည်"
+    },
+    {
+      "surface": "מני",
+      "gloss": "မှ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ရန်သူ"
+    }
+  ],
+  "timestamp": "2026-08-23T14:30:41.717484518Z",
+  "model": "glm-5.3"
+}

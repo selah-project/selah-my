@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ဟလ်ဟူလ်၊ ဗက်-တ်ဆူရ်၊ နှင့် ဂက်ဒေါရ်။",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ဟလ်ဟူလ်"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက်"
+    },
+    {
+      "surface": "צור",
+      "gloss": "တ်ဆူရ်"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "နှင့် ဂက်ဒေါရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:52.991444891Z",
+  "model": "glm-5.3"
+}

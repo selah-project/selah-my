@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "တို့သည် ဒိShaν၏သားများ — ဥဇ်၊ အာရန်။",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "တို့သည်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ဒီဆန်"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ဥဇ်"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "အာရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:28:26.018499975Z",
+  "model": "glm-5.3"
+}

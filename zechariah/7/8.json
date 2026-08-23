@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 7:8",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "တစ်ဖန် ဇခရိယထံသို့ ယာဝေ၏နှုတ်ကပတ်တော် ရောက်လာ၍ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "တစ်ဖန် ဖြစ်လာ၍"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "ဇခရိယ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဟူ၍"
+    }
+  ],
+  "timestamp": "2026-08-23T13:52:11.759626079Z",
+  "model": "glm-5.3"
+}

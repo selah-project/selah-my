@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ငွေကြိုးသည် မကွားမီ၊ ရွှေခွက်သည် မကျိုးမီ၊ ရေပန်းနားရှိ အိုးသည် မကျိုးမီ၊ တွင်းရှိ ဘီးသည် မကျိုးမီ၊",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "မ...မီ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨ထို⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ကွာ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ကြိုးသည်"
+    },
+    {
+      "surface": "ဟכסף",
+      "gloss": "ငွေ"
+    },
+    {
+      "surface": "ותרוץ",
+      "gloss": "မကျိုးမီ"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "ခွက်သည်"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ရွှေ"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "မကျိုးမီ"
+    },
+    {
+      "surface": "כד",
+      "gloss": "အိုးသည်"
+    },
+    {
+      "surface": "על",
+      "gloss": "နားရှိ"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ရေပန်း"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "မကျိုးမီ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ဘီးသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ရှိ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "တွင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T16:00:30.771186767Z",
+  "model": "glm-5.3"
+}

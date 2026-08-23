@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "မိုရှေသည် ထိုနေ့၌ ⟨את⟩ လူမျိုးတို့ကို ပညတ်၍ —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ပညတ်၍"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "လူမျိုးတို့ကို"
+    },
+    {
+      "surface": "העם",
+      "gloss": "လူမျိုးတို့"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "နေ့၌"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ထို"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဟု"
+    }
+  ],
+  "timestamp": "2026-08-23T09:10:23.525124563Z",
+  "model": "glm-5.3"
+}

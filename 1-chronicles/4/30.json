@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ဗေသုအေလ်အရပ်၌၎၊ ဟောမာအရပ်၌၎၊ ဇိက်လက်ဂ်အရပ်၌၎ နေကြ၏။",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ဗေသုအေလ်အရပ်၌"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ဟောမာအရပ်၌"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ဇိက်လက်ဂ်အရပ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:22.004306481Z",
+  "model": "glm-5.3"
+}

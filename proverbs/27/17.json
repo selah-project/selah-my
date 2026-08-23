@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "ရhardsသံဖြင့် ရhardsသည် ⟨ထက်သည်⟩၊ ထို့အတူ လူသည် မိတ်ဆွေ၏ မျက်နှာကို ⟨ထက်စေသည်⟩။",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ရhards"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "ရhardsဖြင့်"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ထက်သည်"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ထို့အတူ လူသည်"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ထက်စေသည်"
+    },
+    {
+      "surface": "פני",
+      "gloss": "မျက်နှာကို"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "မိတ်ဆွေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:14:06.708929258Z",
+  "model": "glm-5.3"
+}

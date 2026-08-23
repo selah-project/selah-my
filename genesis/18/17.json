@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ယာဝေမှာ၏ — ငါပြုမည့်အရာကို အဗ်ရာဟမ်အား ငိုယှက်ထားရမည်လော။",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "ယာဝေမှာ၏"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "မှာ၏"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "ငိုယှက်ထားရမည်လော"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ငါ"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "အဗ်ရာဟမ်အားမှ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "အရာကို"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ငါ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ပြုသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:08:41.871809229Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အောဇမ်သည် ဆဋ္ဌမ၊ ဒါဝိသည် သတ္တမ။",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "အောဇမ်"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ဆဋ္ဌမ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ဒါဝိ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "သတ္တမ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:28.701491005Z",
+  "model": "glm-5.3"
+}

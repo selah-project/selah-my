@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "မင်းပြုသောအခါ ယောအာရှသည် ခုနစ်နှစ်သား ⟨ဖြစ်၏⟩။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ခုနစ်"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်များ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ယောအာရှ"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "မင်းပြုသောအခါ"
+    }
+  ],
+  "timestamp": "2026-08-23T11:10:47.201294524Z",
+  "model": "glm-5.3"
+}

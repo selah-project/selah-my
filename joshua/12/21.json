@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "တာအာနာခ် ၏ ဘုရင် တစ်ပါး၊ မေဂိဒ္ဒို ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "တာအာနာခ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "မေဂိဒ္ဒို"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:18.850531983Z",
+  "model": "glm-5.3"
+}

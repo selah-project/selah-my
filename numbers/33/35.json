@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "သူတို့သည် အဗ်ရောနာမှ ထွက်ခွာ၍ ဧဇိယုန်-ဂေဘာ၌ တဲထိုးနေခြင်းငှာ ရောက်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ဝိ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:53.720313224Z",
+  "model": "glm-5.3"
+}

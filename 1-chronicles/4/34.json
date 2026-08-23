@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "မေရှောဗဗ်၊ ယမ်လက်၊ အမတ်ဇိယာ၏သား ယောရှာတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "မေရှောဗဗ်"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ယမ်လက်"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ယောရှာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "အမတ်ဇိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:22.861087658Z",
+  "model": "glm-5.3"
+}

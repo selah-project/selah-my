@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 36:8",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "ဗာရုက် နေရိယာ၏သားသည် ရှေ့ပိုင်းဆိုခဲ့သော အမိုက်ခံချက်အားလုံးအတိုင်း ဆောင်ရွက်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ဒေသနာ",
+      "gloss": "ဒေသနာ"
+    },
+    {
+      "surface": "၁၂၅",
+      "gloss": "၁၂၅"
+    },
+    {
+      "surface": "၂၂",
+      "gloss": "၂၂"
+    },
+    {
+      "surface": "၂၂",
+      "gloss": "၂၂"
+    },
+    {
+      "surface": "၅၃၈",
+      "gloss": "၅၃၈"
+    },
+    {
+      "surface": "အကြောင်းမူလမှန်",
+      "gloss": "ကို"
+    },
+    {
+      "surface": "၆၆၈၀",
+      "gloss": "၆၆၈၀"
+    },
+    {
+      "surface": "၃၄၁၄",
+      "gloss": "၃၄၁၄"
+    },
+    {
+      "surface": "၅၀၃၀",
+      "gloss": "၅၀၃၀"
+    },
+    {
+      "surface": "ဒေသနာ",
+      "gloss": "ဒေသနာ"
+    },
+    {
+      "surface": "ဒေသနာ",
+      "gloss": "ဒေသနာ"
+    },
+    {
+      "surface": "၅၆၁၂",
+      "gloss": "၅၆၁၂"
+    },
+    {
+      "surface": "၁၆၉၇",
+      "gloss": "၁၆၉၇"
+    },
+    {
+      "surface": "၃၀၆၈",
+      "gloss": "၃၀၆၈"
+    },
+    {
+      "surface": "၁၀၀၄",
+      "gloss": "၁၀၀၄"
+    },
+    {
+      "surface": "ဒေသနာ",
+      "gloss": "ဒေသနာ"
+    }
+  ],
+  "timestamp": "2026-08-23T12:28:51.015646762Z",
+  "model": "glm-5.3"
+}

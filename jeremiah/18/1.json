@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ယိရမေယာထံသို့ ယာဝေမှ ⟨မאת⟩ လာသော စကား၊ ⟨၎င်းမှာ⟩ —",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "စကား"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨၎င်းမှာ⟩"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ဖြစ်ခဲ့သော"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ယိရမေယာ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨မאת⟩",
+      "marks": "ယာဝေမှ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-23T12:17:50.703388133Z",
+  "model": "glm-5.3"
+}

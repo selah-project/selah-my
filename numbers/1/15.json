@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "နက်ဖာလိတို့အနက်မှ — အခီရာ၊ အေနန်၏သား။",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "နက်ဖာလိတို့အနက်မှ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "အခီရာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "အေနန်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:33:55.286148038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၍ ဤသို့အမိန့်ရှိသည် —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့အမိန့်ရှိသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:29:03.035371175Z",
+  "model": "glm-5.3"
+}

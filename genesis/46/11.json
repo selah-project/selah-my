@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 46,
+  "translation": "လေဝိ၏သားများ — ဂေရရှုန်၊ ခေဟတ်၊ မေရာရီ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ဂေရရှုန်"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ခေဟတ်"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "မေရာရီ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:30:24.059117988Z",
+  "model": "glm-5.3"
+}

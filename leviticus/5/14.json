@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ယာဝေသည် မောရှေအား မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မောရှေအား"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆို၍"
+    }
+  ],
+  "timestamp": "2026-08-23T08:04:49.858206562Z",
+  "model": "glm-5.3"
+}

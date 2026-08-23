@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 12:4",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ဣဒျာဘေလ၊ ဣဒျာဘေလ၊ ဣဒျာဘေလ။",
+  "tokens": [
+    {
+      "surface": "עדוא",
+      "gloss": "ဣဒ္ဒော"
+    },
+    {
+      "surface": "גנתוי",
+      "gloss": "ဂိန္နေတိုး"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "အာဗိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:09.163410772Z",
+  "model": "glm-5.3"
+}

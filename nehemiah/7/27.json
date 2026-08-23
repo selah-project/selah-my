@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အာနာတုတ်မြို့သားများ — တစ်ရာ့နှစ်ဆယ်ရှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "အာနာတုတ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ရှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.038394492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အျပစ္ပစၥည္းအတြက္ ဆိတ္မ်ား ၏ေထာင္သတင္း တစ္ေကာင္။",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ေထာင္သတင္း"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ဆိတ္မ်ား"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ္ေကာင္"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "အျပစ္ပစၥည္းအတြက္"
+    }
+  ],
+  "timestamp": "2026-08-23T08:30:36.738450206Z",
+  "model": "glm-5.3"
+}

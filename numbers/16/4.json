@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 16,
+  "translation": "မိုရှေသည် ကြားသောအခါ ⟨မိမိ⟩မျက်နှာပေါ်သို့ ကျိုးကျလေ၏။",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ကြားလေ၏"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရשေ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ကျိုးကျလေ၏"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်သို့"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "မျက်နှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:38:51.194991627Z",
+  "model": "glm-5.3"
+}

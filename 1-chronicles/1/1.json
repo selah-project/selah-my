@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "အာဒမ်၊ ရှက်သ်၊ ဧနောရှ်။",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "အာဒမ်"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ရှက်သ်"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ဧနောရှ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:21.193345150Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "တဖန် ၎င်း၏ညီ ဟေလမ်၏သားများမှာ ဇောဖက်၊ ယိမ်နာ၊ ရှေလက်၊ အာမာလ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "တဖန်…၏သားများ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ဟေလမ်"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "၎င်း၏ညီ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ဇောဖက်"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ယိမ်နာ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ရှေလက်"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "အာမာလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:37.286678050Z",
+  "model": "glm-5.3"
+}

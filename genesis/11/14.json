@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ရှဲလာခ်သည် အသက် သုံးဆယ် နှစ် ရှင်သည်၊ ဧဝေရ်ကို ⟨את⟩ မွေးဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ရှဲလာခ်"
+    },
+    {
+      "surface": "חי",
+      "gloss": "အသက်ရှင်သည်"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "သုံးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "မွေးဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဧဝေရ်"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ဧဝေရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:46.600084182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 46,
+  "translation": "ဣဿခါရ၏သားများမှာ တောလာ၊ ဖုဗာ၊ ယောဗ်၊ ရှိမ်ရုန်တို့တည်း။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ဣဿခါရ"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "တောလာ"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "ဖုဗာ"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "ယောဗ်"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ရှိမ်ရုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:30:31.744192035Z",
+  "model": "glm-5.3"
+}

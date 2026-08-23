@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ရေတုရ်၊ နဖိတ် နှင့် ခေဒေမာ — ဤသူတို့သည် ဣဿမာအေလ် ၏ သားများဖြစ်သည်။",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "ရေတုရ်"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "နဖိတ်"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "နှင့် ခေဒေမာ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ဤသူတို့"
+    },
+    {
+      "surface": "הם",
+      "gloss": "သူတို့သည်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ဣဿမာအေလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:33.352995613Z",
+  "model": "glm-5.3"
+}

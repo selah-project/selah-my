@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ခါနန်သည် မိမိ၏သားဦး ⟨את⟩ ဇိဒုန်ကို၊ ⟨את⟩ ခက်ကို မွေးဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ခါနန်"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "မွေးဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇိဒုန်ကို"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ဇိဒုန်"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "မိမိ၏သားဦး"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ခက်ကို"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ခက်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:05:33.161437193Z",
+  "model": "glm-5.3"
+}

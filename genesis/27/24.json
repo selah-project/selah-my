@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "သင်သည် ငါ၏သား ဧသာတ် ဖြစ်သလား ဟု ဆို၏။ သူက ငါ ဖြစ်၏ ဟု ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "သင်"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ဖြစ်သလား"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ငါ၏သား"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသာတ်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ငါ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:16:50.361369663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ကေဟေလာသာမှ ထွက်ခွာသွားကြ၍ ရှေဖာတောင်၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွားကြ၍"
+    },
+    {
+      "surface": "מקהלתה",
+      "gloss": "ကေဟေလာသာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "တောင်၌"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ရှေဖာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:50.938019917Z",
+  "model": "glm-5.3"
+}

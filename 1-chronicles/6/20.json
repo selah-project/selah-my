@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဇုဖ်၏သား၊ အေလကနာ၏သား၊ မာဟတ်၏သား၊ အမာဆိုင်၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "ဇုဖ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "အေလကနာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "မာဟတ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "အမာဆိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:35.753458158Z",
+  "model": "glm-5.3"
+}

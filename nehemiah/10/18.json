@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "အာတေရ်၊ ခဇ်ကိယာ၊ အဇ္ဇူရ်။",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "အာတေရ်"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ခဇ်ကိယာ"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "အဇ္ဇူရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:40.961719964Z",
+  "model": "glm-5.3"
+}

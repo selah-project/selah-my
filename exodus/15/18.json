@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ယာဝေသည် ထာဝရကာလ အစဉ်အမြဲ စိုးစံတော်မူလိမ့်မည်။",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "စိုးစံတော်မူလိမ့်မည်"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ထာဝရကာလ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "အစဉ်အမြဲ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:43:16.074970481Z",
+  "model": "glm-5.3"
+}

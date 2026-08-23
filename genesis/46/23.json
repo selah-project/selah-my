@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 46,
+  "translation": "ဒန်၏သားများမှာ ဟုရှိမ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ဒန်"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ဟုရှိမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:30:19.051574773Z",
+  "model": "glm-5.3"
+}

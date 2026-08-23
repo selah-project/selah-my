@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ထိုအခါ၌ ကျွန်ုပ်သည် ယာဝေအား သနားကရုဏာတောင်းခံပြီးလျှင် ဤသို့ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "သနားကရုဏာတောင်းခံပြီးလျှင်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ထိုအခါ၌"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ထို(အခါ)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T17:37:50.648962612Z",
+  "model": "glm-5.3"
+}

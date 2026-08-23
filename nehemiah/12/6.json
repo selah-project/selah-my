@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ရှေမာယာ၊ ယိုယာရိဗ်၊ ယဒါယာ။",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ရှေမာယာ"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "နှင့် ယိုယာရိဗ်"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ယဒါယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:00.647806432Z",
+  "model": "glm-5.3"
+}

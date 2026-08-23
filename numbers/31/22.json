@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "ရွှေနှင့် ငွေ၊ ကြေးဝါ၊ သံ၊ သတ္တုဖြူ၊ ခဲတို့ကိုသာ ⟨ဖြင့်⟩",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "သာ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ရွှေ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ရွှေ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "နှင့် ⟨את⟩",
+      "marks": "ငွေ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ငွေ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ကြေးဝါ"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ကြေးဝါ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "သံ"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "သံ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "သတ္တုဖြူ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "သတ္တုဖြူ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "နှင့် ⟨את⟩",
+      "marks": "ခဲ"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ခဲ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:49:30.365844906Z",
+  "model": "glm-5.3"
+}

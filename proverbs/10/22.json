@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ယာဝေ၏ ကောင်းခြီးပေးခြင်း — အrenalချမ်းသာပေး၏။ ထို့နှင့်အတူ ဝေဒနာကို မထပ်ဆောင်းပါ။",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "ကောင်းခြီးပေးခြင်း"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "အrenal"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "ချမ်းသာပေး၏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မ…"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ထပ်ဆောင်း"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ဝေဒနာ"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "အတူ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:02:55.773469141Z",
+  "model": "glm-5.3"
+}

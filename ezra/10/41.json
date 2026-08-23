@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "အဇာရေလ၊ ရှေလေမိယာ၊ ရှေမရိယာ။",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "အဇာရေလ"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "ရှေလေမိယာ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ရှေမရိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:27:12.123316346Z",
+  "model": "glm-5.3"
+}

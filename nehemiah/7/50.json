@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ရေအာယာ၏သားများ၊ ရက်စင်၏သားများ၊ နေခေါဒါ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ရေအာယာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ရက်စင်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "နေခေါဒါ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:39.600223465Z",
+  "model": "glm-5.3"
+}

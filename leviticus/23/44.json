@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 23:44",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "မိုရှေသည်လည်း ယာဝေ၏ တ appoint ပွဲတော်တို့ကို ဣသရေလသားတို့အား ပြောကြား၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ပြောကြား၏"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ပွဲတော်တို့ကို"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "သတ်မှတ်ချက်ပွဲတော်တို့"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားတို့"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:21:00.100959333Z",
+  "model": "glm-5.3"
+}

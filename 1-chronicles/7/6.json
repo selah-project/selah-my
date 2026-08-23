@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဗင်္ယာမိန်၏သားများသည် ဗေလာ၊ ဗက္ခရ်၊ ယေဒိယာအေလ် — ဤသုံးယောက်တို့တည်း။",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ဗင်္ယာမိန်"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ဗေလာ"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ဗက္ခရ်"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "ယေဒိယာအေလ်"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "သုံးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:49.550868947Z",
+  "model": "glm-5.3"
+}

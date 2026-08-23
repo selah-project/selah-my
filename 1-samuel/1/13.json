@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 1:13",
+  "book": "1-samuel",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "vronaxm;ha?Hk;?dow>dk;r_a'm;?aumif;?usdK;?wdkif;onf?ppfNyD;?eJ¿acsvgwf?o&?NyD;?onI?ay;?µD;xm;NyD;?efta&?ynmayonf?",
+  "tokens": [
+    {
+      "surface": "vronaxm",
+      "gloss": "vronaxm?onf"
+    },
+    {
+      "surface": "ha?",
+      "gloss": "ha?"
+    },
+    {
+      "surface": "td,f",
+      "gloss": "owfaom;"
+    },
+    {
+      "surface": "al",
+      "gloss": "r_a'm;"
+    },
+    {
+      "surface": "lba",
+      "gloss": "wdkif;"
+    },
+    {
+      "surface": "rK",
+      "gloss": "ppfNyD;"
+    },
+    {
+      "surface": "svpbia",
+      "gloss": "eJ¿acsvgwf"
+    },
+    {
+      "surface": "naot",
+      "gloss": "o&?NyD;"
+    },
+    {
+      "surface": "orwkl",
+      "gloss": "onI"
+    },
+    {
+      "surface": "lay",
+      "gloss": "ay;"
+    },
+    {
+      "surface": "ycmv[",
+      "gloss": "µD;xm;NyD;?"
+    },
+    {
+      "surface": "oeyxb",
+      "gloss": "efta&"
+    },
+    {
+      "surface": "yla",
+      "gloss": "ynmayonf?"
+    }
+  ],
+  "timestamp": "2026-08-23T09:52:40.608796592Z",
+  "model": "glm-5.3"
+}

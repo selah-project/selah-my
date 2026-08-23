@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "genesis 24:43",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "ကြည့်ရှုကာ嘉年华 council council council council council council council council council council council council council council council council council council council council council council council — discarding.",
+  "tokens": [
+    {
+      "surface": "INVALID",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T07:14:11.751868662Z",
+  "model": "glm-5.3"
+}

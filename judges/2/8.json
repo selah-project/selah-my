@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ယာဝေ၏ အကျွန်ုပ်ဖြစ်သော နုန်၏သား ယေဟောရှူးလည်း နှစ်တစ်ရာ့ဆယ်နှစ် အသက်ရှင်၍ သေလေ၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေလေ၏"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ယေဟောရှူး"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "נון",
+      "gloss": "နုန်၏"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "အကျွန်ုပ်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သာာ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ဆယ်"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:34:11.300411982Z",
+  "model": "glm-5.3"
+}

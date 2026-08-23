@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဦးစီးသူအား၊ နေဟီလောသ်များအပေါ်၊ ဒါဝိဒ်၏ သီချင်း။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ဦးစီးသူအား"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အပေါ်"
+    },
+    {
+      "surface": "הנחிஜות",
+      "gloss": "နေဟီလောသ်များ"
+    },
+    {
+      "surface": "מזמေור",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T13:59:59.749914110Z",
+  "model": "glm-5.3"
+}

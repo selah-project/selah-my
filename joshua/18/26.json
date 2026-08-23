@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "မိဇ်ပေ၊ ခေဖိရာ၊ မောဇာ < tagging >",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "မိဇ်ပေ"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "ခေဖိရာ"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "မောဇာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:59.967974825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 13:22",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "吼叫的野兽必在他荒凉的宫室中应声，豺狼必在华美的殿宇里；她的时候临近来到，她的日子必不延长。",
+  "tokens": [
+    {
+      "surface": "וענה",
+      "gloss": "必应声"
+    },
+    {
+      "surface": "איים",
+      "gloss": "吼叫的野兽"
+    },
+    {
+      "surface": "באלמנותיו",
+      "gloss": "在他荒凉的宫室中"
+    },
+    {
+      "surface": "ותנים",
+      "gloss": "豺狼"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "在殿宇里"
+    },
+    {
+      "surface": "ענג",
+      "gloss": "华美的"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "临近"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "来到"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "她的时候"
+    },
+    {
+      "surface": "וימיה",
+      "gloss": "她的日子"
+    },
+    {
+      "surface": "לא",
+      "gloss": "必不"
+    },
+    {
+      "surface": "ימשכו",
+      "gloss": "延长"
+    }
+  ],
+  "timestamp": "2026-08-23T11:27:40.340261870Z",
+  "model": "glm-5.3"
+}

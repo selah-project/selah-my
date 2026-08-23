@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 35,
+  "translation": "ရာချel် သေလေ၏။ ဧဖရာထသို့ ရောက်လုထံု လမ်း၌ — အ-that-ই ဗက်လက်ခမ် — သူမကို မြှုပ်နှံကြ၏။",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "သေလေ၏"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ရာချel်"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "မြှုပ်နှံကြ၏"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "လမ်း၌"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ဧဖရာထ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "အ-ဤ-इ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက်"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "လက်ခမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:22:28.035607526Z",
+  "model": "glm-5.3"
+}

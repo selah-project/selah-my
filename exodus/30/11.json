@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 30:11",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 30,
+  "translation": "တဖန် ယာဝေသည် မိုရှေအား ဤသို့ မိန့်တော်မူ၏ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "တဖန် မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ မိန့်တော်မူခြင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T07:54:37.996989061Z",
+  "model": "glm-5.3"
+}

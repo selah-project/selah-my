@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "သူတော်တစ်ပါးမဟုတ် သင့်အပြစ်မြစ်မည်မဟုတ်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မည်မဟုတ်"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "သူမသန့်မှားခြင်း မကျူးလွန်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:44:14.527453876Z",
+  "model": "glm-5.3"
+}

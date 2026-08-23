@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "အမာမ်၊ ရှေမာ၊ မောလာဒါ",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "အမာမ်"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ရှေမာ"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "မောလာဒါ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:57.352404095Z",
+  "model": "glm-5.3"
+}

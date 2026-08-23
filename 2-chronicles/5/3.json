@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဣသရေလသားအပေါင်းတို့သည် ပွဲတော်၌ — ၎င်းသည် သတ္တမလတည် — ဘုရင်ထံ စုဝေးကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "စုဝေးကြ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "איש",
+      "gloss": "လူ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ပွဲတော်၌"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "၎င်းသည်"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "လ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "သတ္တမ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:02:50.135188887Z",
+  "model": "glm-5.3"
+}

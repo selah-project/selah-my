@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 3:16",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ယေဟောယာကိမ်၏သားများမှာ — ယခန်ယာ သူ၏သား၊ ဇိဒကိယာဟု သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့် သားများ"
+    },
+    {
+      "surface": "יהויקים",
+      "gloss": "ယေဟောယာကိမ်၏"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ယခန်ယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "צדקיה",
+      "gloss": "ဇိဒကိယာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:00.159140428Z",
+  "model": "glm-5.3"
+}

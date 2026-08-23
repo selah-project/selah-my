@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 33:13",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ဒေါဖကာမှ ခရီးသွားကြ၍ အာလုရှ၌ တဲချနားကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ခရီးသွားကြ၍"
+    },
+    {
+      "surface": "מדפקה",
+      "gloss": "ဒေါဖကာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "တဲချနားကြ၏"
+    },
+    {
+      "surface": "באלוש",
+      "gloss": "အာလုရှ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:47.475578377Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "harim၊ meremoth၊ ovadyah",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "harim"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "meremoth"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ovadyah"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:57.169056143Z",
+  "model": "glm-5.3"
+}

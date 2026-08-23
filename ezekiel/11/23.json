@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ယာဝေ၏ ဘုန်းတန်ခိုးသည် ⟨the⟩ မြို့၏ အလယ်မှ တက်၍ ⟨the⟩ မြို့၏ အရှေ့ဘက်ရှိ တောင်ပေါ်၌ ရပ်တည်၏။",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "တက်၏"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ဘုန်းတန်ခိုး"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "မှ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "အလယ်"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "မြို့"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ရပ်တည်၏"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "တောင်"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "…သော"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "အရှေ့ဘက်"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "မြို့၏"
+    }
+  ],
+  "timestamp": "2026-08-23T12:50:15.904849226Z",
+  "model": "glm-5.3"
+}

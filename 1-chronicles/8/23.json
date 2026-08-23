@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "နှင့် အဗ်ဒုန်၊ ဇစ်ခရိ၊ ဟာနန်၊",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "အဗ်ဒုန်"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ဇစ်ခရိ"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ဟာနန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:53.301617428Z",
+  "model": "glm-5.3"
+}

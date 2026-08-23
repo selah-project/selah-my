@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ငါသည် ငါ့ချစ်သူ၏ Wife၊ သူ၏တပ်မက်ခြင်းသည် ငါပေါ်၌ ⟨is⟩ ရှိသည်။",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ငါ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ငါ့ချစ်သူ၏"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "နှင့်ငါပေါ်၌"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "သူ၏တပ်မက်ခြင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T15:45:57.099971927Z",
+  "model": "glm-5.3"
+}

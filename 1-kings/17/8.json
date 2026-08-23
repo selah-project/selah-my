@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "ယာဝေ၏ ⟨the⟩ နှုတ်ကပတ်တော်သည် သူ့ထံသို့ လာ၍ ပြောဆိုသည် —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "သူ့ထံသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T10:51:30.860883727Z",
+  "model": "glm-5.3"
+}

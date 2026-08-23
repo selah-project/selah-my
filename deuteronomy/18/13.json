@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ယာဝေ သင်၏ဘုရား ဧလောဟိမ်နှင့်အတူ သင်သည် စုံလင်သောသူဖြစ်စေ။",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "စုံလင်သောသူ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ဖြစ်စေ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "နှင့်အတူ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "သင်၏ဘုရား ဧလောဟိမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:07:20.925027438Z",
+  "model": "glm-5.3"
+}

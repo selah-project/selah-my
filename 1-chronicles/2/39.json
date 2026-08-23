@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အဇရိသည် ⟨את⟩ ဟေလက်ကို ဖွားသည်၊ ဟေလက်သည် ⟨את⟩ ဧလအာသကို ဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "အဇရိ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဟေလက်"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ဟေလက်"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ဟေလက်"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဧလအာသ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ဧလအာသ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:07.539062941Z",
+  "model": "glm-5.3"
+}

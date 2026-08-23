@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ကျွန်ုပ် ကိုဟေလက်သည် ဣသရေလအပေါ် ယေရုရှာလိုင်မ်၌ မင်းဖြစ်ခဲ့ပါ၏။",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ကျွန်ုပ်"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ကိုဟေလက်"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ဖြစ်ခဲ့ပါ၏"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "မင်း"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ယေရုရှာလိုင်မ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T15:53:01.611877757Z",
+  "model": "glm-5.3"
+}

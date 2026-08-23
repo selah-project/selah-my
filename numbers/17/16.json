@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 17:16",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၍ ပြောဆိုသည်အတိုင်း —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאမר",
+      "gloss": "ပြောဆိုသည်အတိုင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T08:37:23.080670274Z",
+  "model": "glm-5.3"
+}

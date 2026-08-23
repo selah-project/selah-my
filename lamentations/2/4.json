@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 2:4",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "မိမိ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ကို ရန်သူကဲ့သို့ ကြိုးတပ်တော်မူ၏၊ မိမိ လက်ယာကို ရန်သူကဲ့သို့ ရပ်တော်မူ၏၊ ဇိအုန်သမီး၏ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၌ မျက်စိချမ်းသာဖွယ်အားလုံးကို သတ်တော်မူ၏၊ မိမိ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ကို မီးကဲ့သို့ လောင်းထုတ်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>တော်မူ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "<caleb-do><caleb-do>မိမိ<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כאויב",
+      "gloss": "ရန်သူကဲ့သို့"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ရပ်တော်မူ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "<caleb-do><caleb-do>မိမိလက်ယာ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כצר",
+      "gloss": "ရန်သူကဲ့သို့"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "<caleb-do><caleb-do>သတ်တော်မူ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כל",
+      "gloss": "<caleb-do><caleb-do>အားလုံး<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "מחמדי",
+      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ချမ်းသာဖွယ်<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "עין",
+      "gloss": "<caleb-do><caleb-do>မျက်စိ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၌<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "בת",
+      "gloss": "<caleb-do><caleb-do>သမီး<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ဇိအုန်"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "<caleb-do><caleb-do>လောင်းထုတ်တော်မူ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "မီးကဲ့သို့"
+    },
+    {
+      "surface": "חמתו",
+      "gloss": "<caleb-do><caleb-do>မိမိ<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+    }
+  ],
+  "timestamp": "2026-08-23T15:52:10.657396029Z",
+  "model": "glm-5.3"
+}

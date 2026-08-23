@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "၎င်းတို့အား မိုရှေသည် — မအားလုံးကို အသက်ရှင်စေထားကြသလော — ဟု မေးမိုး၏။",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "၎င်းတို့အား"
+    },
+    {
+      "surface": "မשה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "အသက်ရှင်စေထားကြသလော"
+    },
+    {
+      "surface": "නו",
+      "gloss": ""
+    },
+    {
+      "surface": "න්",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံးကို"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "မ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:50:39.048164330Z",
+  "model": "glm-5.3"
+}

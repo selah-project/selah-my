@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဗာဗုလုံ၏ ဝန်ထုပ် — ၎င်းကို ယိုရှာယာဟူ အမော့်၏သားသည် မြင်၏။",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ဝန်ထုပ်"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ဗာဗုလုံ၏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "၎င်းကို"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "မြင်၏"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ယိုရှာယာဟူ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "အမော့်",
+      "gloss": "အမော့်"
+    }
+  ],
+  "timestamp": "2026-08-23T11:30:10.965343661Z",
+  "model": "glm-5.3"
+}

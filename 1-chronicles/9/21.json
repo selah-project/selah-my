@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ဇခရယာ၊ မေရှေလေမ်ယာ၏သား၊ သည် ⟨the⟩ အစည်းအဝေးတဲ၏ ဝင်ပေါက်၌ တံခါးစောင့် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "ဇခရယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "မေရှေလေမ်ယာ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "တံခါးစောင့်"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ဝင်ပေါက်"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "တဲ၏"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "အစည်းအဝေး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:03.021511231Z",
+  "model": "glm-5.3"
+}

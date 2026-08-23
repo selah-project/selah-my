@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "နက်စိအာခ်၏သားများ၊ ခါတီဖာ၏သားများ။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "နက်စိအာခ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ခါတီဖာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:59.001951807Z",
+  "model": "glm-5.3"
+}

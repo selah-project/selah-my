@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "ဤသို့တွင် အာမာလက်လာ၍ ရေဖိဒိမ်၌ ဣသရေးလ်နှင့် တိုက်ခိုက်၏။",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "လာ၍"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "အာမာလက်"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "တိုက်ခိုက်၏"
+    },
+    {
+      "surface": "עם",
+      "gloss": "နှင့်"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေးလ်"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ရေဖိဒိမ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T07:45:43.529563646Z",
+  "model": "glm-5.3"
+}

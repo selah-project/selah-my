@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဂိဇိုနိုက်သား ဟာရှေမ်၏သားများ၊ ဟာရရိုက်သား ရှာဂေ၏သား ယောနသန်၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ဟာရှေမ်"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ဂိဇိုနိုက်သား"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ယောနသန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ရှာဂေ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ဟာရရိုက်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:39.879735147Z",
+  "model": "glm-5.3"
+}

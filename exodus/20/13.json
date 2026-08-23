@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 20,
+  "translation": "လူသတ်မည်မဟုတ်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မည်မဟုတ်"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "လူသတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:44:14.527248453Z",
+  "model": "glm-5.3"
+}

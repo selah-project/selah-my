@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 2:1",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အစွမ်းရှိစွာ အဒေါနိုင်သည် ⟨၎င်း⟩အမျက်တော်၌ ဇိအုန်သမီးကို တိမ်ဖြင့် ဖုံးအုပ်တော်မူ၏၊ ဣသရေလ၏ ဘုန်းရှိခြင်းကို ကောင်းကင်မှ မြေကြီးသို့ ပစ်ချတော်မူ၏၊ ⟨ငြိမ်သက်ခြင်း⟩၏ရန်လည်း ⟨မှတ်သားတော်မမူ⟩ မိမိခြေတော်၏ ခြေနင်းကို ⟨၎င်း⟩အမျက်တော်၏နေ့၌ မမှတ်သားတော်မူ။",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "အစွမ်းရှိစွာ"
+    },
+    {
+      "surface": "יעיב",
+      "gloss": "တိမ်ဖြင့် ဖုံးအုပ်၏"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "<caleb-do><caleb-do>အမျက်တော်၌<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "အဒေါနိုင်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇိအုန်သမီး"
+    },
+    {
+      "surface": "בת",
+      "gloss": "သမီး"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ဇိအုန်"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "ပစ်ချ၏"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "<caleb-do><caleb-do>ကောင်းကင်မှ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "မြေကြီးသို့"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "<caleb-do><caleb-do>ဘုန်းရှိခြင်း<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ၏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "<caleb-do><caleb-do>မ...<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "<caleb-do><caleb-do>မမှတ်သား<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "<caleb-do><caleb-do>ခြေနင်း<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "<caleb-do><caleb-do>မိမိခြေတော်<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "<caleb-do><caleb-do>...၏နေ့၌<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "<caleb-do><caleb-do>မိမိအမျက်<caleb-do><caleb-do>"
+    }
+  ],
+  "timestamp": "2026-08-23T15:52:10.656838778Z",
+  "model": "glm-5.3"
+}

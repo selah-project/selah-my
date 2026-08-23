@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အိုင်းယောဗ်သည် ပြန်လည်တံ့မိမို ဆိုလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ပြန်လည်တံ့မိ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အိုင်းယောဗ်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆိုလေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:17:38.703689502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဂေဒေါရ်နှင့် အခိယောနှင့် ဇာခါရ်တို့လည်း ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ဂေဒေါရ်"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "အခိယော"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "ဇာခါရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:38.149118370Z",
+  "model": "glm-5.3"
+}

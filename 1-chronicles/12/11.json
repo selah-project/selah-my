@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "မိရှမန်နာသည် ⟨စတုတ္ထ⟩၊ ယိရ်မေယာသည် ⟨ပဉ္စမ⟩။",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "မိရှမန်နာ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "စတုတ္ထ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ယိရ်မေယာ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ပဉ္စမ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:59.830884489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 69:29",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 69,
+  "translation": "အသက်ရှင်သူများ၏စာရင်းစာအုပ်မှ ပျောက်စေ၊ တရား righteous များနှင့်အတူ မရေးထိုးစေနှင့်။",
+  "tokens": [
+    {
+      "surface": "ימחו",
+      "gloss": "ပျောက်စေ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "စာရင်းစာအုပ်မှ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "အသက်ရှင်သူများ၏"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "နှင့်အတူ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "တရား righteous များ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "မ…နှင့်"
+    },
+    {
+      "surface": "יכתבו",
+      "gloss": "ရေးထိုးစေ"
+    }
+  ],
+  "timestamp": "2026-08-23T14:27:08.814666117Z",
+  "model": "glm-5.3"
+}

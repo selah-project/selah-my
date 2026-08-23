@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 93,
+  "translation": "သင်၏ ပလ္လင်သည် ထိုအခါမှစ၍ ⟨တည် established⟩၏။ ထာဝရကာလမှစ၍ သင် ရှိတော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "တည်၏"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "သင်၏ ပလ္လင်"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ထိုအခါမှစ၍"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ထာဝရကာလမှစ၍"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "သင်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:08:38.033763185Z",
+  "model": "glm-5.3"
+}

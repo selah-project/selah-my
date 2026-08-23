@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "အုဇီအေလ်၏သားများမှာ မိခ — မိခ၏သားများမှာ ရှာမုရ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများမှာ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "အုဇီအေလ်"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိခ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "၏သားများမှာ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိခ"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ရှာမုရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:25.976772020Z",
+  "model": "glm-5.3"
+}

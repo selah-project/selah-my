@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 74,
+  "ref": "numbers 7:74",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ရွှေလက်ဖက်ကိုင်တစ်လုံး၊ ဆယ်ရှေကယ်၊ စန့်ပေါင်းဖြင့် ပြည့်နေ၏။",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "လက်ဖက်ကိုင်"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "တစ်လုံး"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ဆယ်"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ရွှေ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ပြည့်နေ၏"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "စန့်ပေါင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T08:31:50.632770941Z",
+  "model": "glm-5.3"
+}

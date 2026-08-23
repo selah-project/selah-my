@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "မိခ်မာသ် လူများ — တစ်ရာနှင့် နှစ်ဆယ့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "လူများ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "မိခ်မာသ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှင့် နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:16.312207256Z",
+  "model": "glm-5.3"
+}

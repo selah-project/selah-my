@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အာခပ် သူ၏သား၊ ခဇကိယာဟု သူ၏သား၊ မနဿေ သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "အာခပ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ခဇကိယာဟု"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "မနဿေ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:00.158703885Z",
+  "model": "glm-5.3"
+}

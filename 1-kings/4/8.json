@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 4:8",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ድንጋይအမည်တို့မှာ — ဗက်-ဟူရ်၊ ဧဖရိမ် ⟨တောင်⟩ ၌ ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ဆိုစော်"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "ተኛတို့၏အမည်များ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ဗက်-"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ဟူရ်"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "တောင်၌"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ဧဖရိမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T10:38:04.120644264Z",
+  "model": "glm-5.3"
+}

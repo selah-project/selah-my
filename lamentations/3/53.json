@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "သူတို့သည် ကျင်း၌ ငါ၏အသက်ကို ဖြတ်တောက်ကြ၍ ငါပေါ်၌ ကျောက်ကို ပစ်ချကြ၏။",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "ဖြတ်တောက်ကြ၏"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ကျင်း၌"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ငါ၏အသက်ကို"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ပစ်ချကြ၍"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ကျောက်ကို"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ငါပေါ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:57.603444519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "နုန် ⟨သူ၏⟩သား၊ ယေဟောရှူအ ⟨သူ၏⟩သား။",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "နုန်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨သူ၏⟩သား"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ယေဟောရှူအ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "⟨သူ၏⟩သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:09.881823459Z",
+  "model": "glm-5.3"
+}

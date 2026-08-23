@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "my",
+  "chapter": 28,
+  "translation": "ရွှေကို ၎င်းအတွက် မပေးနိုင်၊ ငွေကိုလည်း ၎င်း၏ဖိုးအဖြစ် မချိန်နိုင်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ပေးနိုင်"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "ရွှေ"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "၎င်းအတွက်"
+    },
+    {
+      "surface": "ANDלא",
+      "gloss": "",
+      "note": "placeholder"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": ""
+    },
+    {
+      "surface": "כסף",
+      "gloss": ""
+    },
+    {
+      "surface": "מחירה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T15:32:15.535275503Z",
+  "model": "glm-5.3"
+}

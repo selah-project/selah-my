@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "နွားများမူကား ခြောက်သောင်း သုံးသောင်း။",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "နွားများမူကား"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "သုံးဆယ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "<သောင်း>"
+    }
+  ],
+  "timestamp": "2026-08-23T17:38:19.071803749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဧလကာနာ၏သားများမှာ - အမာဆိုင်နှင့် အခိမောတ်တို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့် ၎င်း၏သားများ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ဧလကာနာ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "အမာဆိုင်"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "နှင့် အခိမောတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:35.080758443Z",
+  "model": "glm-5.3"
+}

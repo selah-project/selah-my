@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ပြစ်မှားခြင်းလည်း မပြုနှင့်။",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "လည်း မ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ပြစ်မှားနှင့်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:56:02.247507604Z",
+  "model": "glm-5.3"
+}

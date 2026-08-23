@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "လက်နက်တပ်ဆင်သူသည် ရှာဦးအ် သေသည်ကို မြင်၍ မိမိလည်း သန်လျက်အပေါ် ကျ၍ သေလေသည်။",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "မြင်၍"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "လက်နက်တပ်ဆင်သူသည်"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "၎င်း၏လက်နက်များကို"
+    },
+    {
+      "surface": "כי",
+      "gloss": "သည်ကို"
+    },
+    {
+      "surface": "מת",
+      "gloss": "သေ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ရှာဦးအ်"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ကျ၍"
+    },
+    {
+      "surface": "גם",
+      "gloss": "လည်း"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "မိမိ"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "သန်လျက်"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "သေလေသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:47:11.951545672Z",
+  "model": "glm-5.3"
+}

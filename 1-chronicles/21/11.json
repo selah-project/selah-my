@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "ဂဒ်သည် ဒါဝိဒ်ထံ ဝင်ရောက်၍ ထိုအား — ယာဝေမိန့်တော်မူသည်ကား သင်အတွက် လက်ခံလော —",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ဝင်ရောက်၍"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂဒ်သည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ဒါဝိဒ်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ပြောကြား၍"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ထိုအား"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ထိုသို့"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "မိန့်တော်မူသည်ကား"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "လက်ခံလော"
+    },
+    {
+      "surface": "לך",
+      "gloss": "သင်အတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:52:35.373390287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "ဇာရခ်၏သားများထဲမှ — ယေအုတေလနှင့် ⟨the⟩ ၎င်းတို့၏မောင်နှမများ — ခြောက်ရာကိုးဆယ်။",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ထဲမှ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ဇာရခ်"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "ယေအုတေလ"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "၎င်းတို့၏မောင်နှမများ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ကိုးဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:50.845049552Z",
+  "model": "glm-5.3"
+}

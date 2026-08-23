@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "ဟာဒတ်၊ တေမာ၊ ရေတူရ်၊ နာဖိရ်၊ ခေဒေမာတို့လည်း ဖြစ်ကုန်၏။",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ဟာဒတ်"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "တေမာ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ရေတူရ်"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "နာဖိရ်"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ခေဒေမာ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:14:16.846488719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "ဇိဇာသည် သိဖိ၏သား၊ အလ္လုန်၏သား၊ ယဒါယာ၏သား၊ ရှင်မ္ရိ၏သား၊ ရှေမာယာ၏သား ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "ဇိဇာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "သိဖိ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "အလ္လုန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ယဒါယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ရှင်မ္ရိ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ရှေမာယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:51.065735735Z",
+  "model": "glm-5.3"
+}

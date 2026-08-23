@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "ဣသရေလသားတို့သည် ခရီးထွက်၍ အောဘောတ်၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ခရီးထွက်၍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားတို့"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "အောဘောတ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:41:08.556556765Z",
+  "model": "glm-5.3"
+}

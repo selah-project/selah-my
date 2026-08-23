@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ဂေရှုံ၏သားများမှာ ရှဗုအဲလ် — ⟨ခေါင်းဆောင်⟩ ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ဂေရှုံ"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ရှဗုအဲလ်"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ခေါင်းဆောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:55:00.434846860Z",
+  "model": "glm-5.3"
+}

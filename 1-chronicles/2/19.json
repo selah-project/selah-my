@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 2:19",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "အဇုဗာသည် သေလေ၏။ ကာလေဗ်သည် ⟨את⟩ ဧဖရာတ်ကို ယူ၏။ သူမသည် သူ့အား ⟨את⟩ ဟူရ်ကို မွေးဖွား၏။",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "သေလေ၏"
+    },
+    {
+      "surface": "עזובה",
+      "gloss": "အဇုဗာ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ယူ၏"
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ့အား"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ကာလεဗ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဧဖရာတ်"
+    },
+    {
+      "surface": "אפרת",
+      "gloss": "ဧဖရာတ်"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "မွေးဖွား၏"
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ့အား"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဟူရ်"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ဟူရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:56.692606167Z",
+  "model": "glm-5.3"
+}

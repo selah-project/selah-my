@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ယေရာမေလ၏ သားဦး ရာမ်၏ သားများမှာ မာအက်၊ ယာမိန်၊ ဧကဲရ်တို့ ဖြစ်ကြသည်။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်ကြသည်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ရာမ်"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "သားဦး"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ယေရာမေလ"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "မာအက်"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ယာမိန်"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ဧကဲရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:13.265428918Z",
+  "model": "glm-5.3"
+}

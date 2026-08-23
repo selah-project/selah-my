@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ထိုပြည်၏ ရွှေသည် ကောင်း၏။ ထိုအရပ်၌ ဘဒေါလက်နှင့် ရှိုဟမ်ကျောက်လည်း ရှိ၏။",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ရွှေ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ပြည်၏"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ထို"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ကောင်း၏"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ထိုအရပ်၌"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ဘဒေါလက်"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ကျောက်"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ရှိုဟမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:00:57.187784402Z",
+  "model": "glm-5.3"
+}

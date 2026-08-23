@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဥဇ္ဇိယာ အရှတေရတ်လူ၊ ရှာမအနှင့် ယေအလ် ခေတ္တမ်အရေအရ်လူ၏ သားများ၊",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ဥဇ္ဇိယာ"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "အရှတေရတ်လူ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ရှာမ"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ယေအလ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ခေတ္တမ်"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "အရေအရ်လူ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:05.315532588Z",
+  "model": "glm-5.3"
+}

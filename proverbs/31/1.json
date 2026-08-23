@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "လေမူအဲလ် မင်းကြီး၏ စကားများ — သူ့မိခင် ဆုံးမသော တာဝန်ခံမှု။",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "စကားများ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "လေမူအဲလ်"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "မင်းကြီး"
+    },
+    {
+      "surface": "משא",
+      "gloss": "တာဝန်ခံမှု"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟓အကြောင်း"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ဆုံးမသော"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "သူ့မိခင်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:17:10.610901588Z",
+  "model": "glm-5.3"
+}

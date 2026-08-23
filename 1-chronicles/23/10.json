@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ရှိမီ၏သားများ — ယာဟတ်၊ ဇိနာ၊ ယေအူရှ်၊ ဗေရိယာ၊ ဤလေးယောက်သည် ရှိမီ၏သားများ ဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "နှင့်သားများ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ရှိမီ"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ယာဟတ်"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "ဇိနာ"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ယေအူရှ်"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ဗေရိယာ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ရှိမီ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "လေး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:29.118384722Z",
+  "model": "glm-5.3"
+}

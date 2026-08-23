@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "အီယောဗ်က ဖြေဆို၍ ပြောသည် —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆို၍"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "အီယောဗ်က"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ပြောသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:27:41.271507863Z",
+  "model": "glm-5.3"
+}

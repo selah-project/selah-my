@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-kings 9:21",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "Yehoram said: 'Hitch up (the chariot),' and his chariot was harnessed. And Yehoram king of Israel went out, and Ahaziah king of Judah, each in his own chariot; and they went out to meet Yehu, and found him in the plot of land of Nabot the Yizreelite.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "said"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "hitch up"
+    },
+    {
+      "surface": "ויאסר",
+      "gloss": "was harnessed"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "his chariot"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "went out"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Israel"
+    },
+    {
+      "surface": "ואחזיהו",
+      "gloss": "and Ahaziah"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "king"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Judah"
+    },
+    {
+      "surface": "איש",
+      "gloss": "each one"
+    },
+    {
+      "surface": "ברכבו",
+      "gloss": "in his chariot"
+    },
+    {
+      "surface": "ויצאו",
+      "gloss": "and they went out"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "to meet"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Yehu"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "and found him"
+    },
+    {
+      "surface": "בחלקת",
+      "gloss": "in the plot of land"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Nabot"
+    },
+    {
+      "surface": "היזרעאלי",
+      "gloss": "the Yizreelite"
+    }
+  ],
+  "timestamp": "2026-08-23T11:05:40.327500445Z",
+  "model": "glm-5.3"
+}

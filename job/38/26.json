@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "my",
+  "chapter": 38,
+  "translation": "လူမရှိသော ⟨the⟩ မြေပေါ်၌ မိုးရွာစေရန်၊ လူသားမရှိသော ⟨the⟩ တောရိုင်း၌။",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "မိုးရွာစေရန်"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "မြေ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "လူ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "တောရိုင်း"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "လူသား"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ထဲ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T15:40:23.171109413Z",
+  "model": "glm-5.3"
+}

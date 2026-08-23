@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 8:12",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "পাপি শতবার মন্দ করে ও তার দিন দীর্ঘ হয়, তবুও আমি জানি যে ঈশ্বরকে ভয় করে যারা তাঁর সামনে ভয় করে তাদের প্রতি ভালো হবে।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "পাপি"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "করে"
+    },
+    {
+      "surface": "רע",
+      "gloss": "মন্দ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "শতবার"
+    },
+    {
+      "surface": "ומאריך",
+      "gloss": "দীর্ঘ করে"
+    },
+    {
+      "surface": "לו",
+      "gloss": "তার প্রতি"
+    },
+    {
+      "surface": "כי",
+      "gloss": "যেহেতু"
+    },
+    {
+      "surface": "גם",
+      "gloss": "তবুও"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "জানে"
+    },
+    {
+      "surface": "אני",
+      "gloss": "আমি"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যে"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "হবে"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ভালো"
+    },
+    {
+      "surface": "ליראי",
+      "gloss": "ভয় করে যাদের"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ঈশ্বরকে"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "যারা"
+    },
+    {
+      "surface": "ייראו",
+      "gloss": "ভয় করে"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "তাঁর সামনে"
+    }
+  ],
+  "timestamp": "2026-08-23T15:59:09.109527525Z",
+  "model": "glm-5.3"
+}

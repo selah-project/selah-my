@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 83,
+  "translation": "သီချင်း၊ ဇာတ်သဘင်ချင်း၊ အာဆာဖ်၏။",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "מזမור",
+      "gloss": "တီးခြင်းချင်း"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "အာဆာဖ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:32:06.424406633Z",
+  "model": "glm-5.3"
+}

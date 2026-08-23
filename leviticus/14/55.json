@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "အဝတ်အထည်၏ ဆီးရာအေ့ဒ်နှင့် အိမ်၏ ဆီးရာအေ့ဒ်အတွက်၊",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ဆီးရာအေ့ဒ်အတွက်"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "အဝတ်အထည်၏"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "အိမ်အတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:11:11.427615844Z",
+  "model": "glm-5.3"
+}

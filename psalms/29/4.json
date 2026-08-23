@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 29,
+  "translation": "ယာဝေ၏ အသံသည် ⟨ထိုက်တန်စွာ⟩ တန်ခိုးနှင့် ပြည့်စုံ၏၊ ယာဝေ၏ အသံသည် ဘွဲ့တော် greatness ထက်သန်၏။",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "အသံ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "တန်ခိုးထဲ၌"
+    },
+    {
+      "surface": "קול",
+      "gloss": "အသံ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "ဘွဲ့အသရေထဲ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T18:05:48.623490154Z",
+  "model": "glm-5.3"
+}

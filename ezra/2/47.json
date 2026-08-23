@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဂိဒ္ဒေလ်၏သားများ၊ ဂါခါ၏သားများ၊ ရေအာယာ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ဂိဒ္ဒေလ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "ဂါခါ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ရေအာယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:22:01.246107006Z",
+  "model": "glm-5.3"
+}

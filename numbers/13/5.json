@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ရှိမောန်အသျားအနွယ်တော်မှ ခေါရိ၏သား ရှာဖတ်။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အသျားအနွယ်တော်မှ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ရှိမောန်"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ရှာဖတ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ခေါရိ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:17.595408876Z",
+  "model": "glm-5.3"
+}

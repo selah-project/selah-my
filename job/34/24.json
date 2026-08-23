@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 34:24",
+  "book": "job",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "သူ့ကို ကြီးမားသောသူများကို ချိုးဖျက်စေ၏၊ စစ်ဆေးခြင်းမရှိ၊ အခြားသူများကို ထိုသူတို့အစား ခိုင်နောင်စေ၏။",
+  "tokens": [
+    {
+      "surface": "yaroa",
+      "gloss": "ချိုးဖျက်စေ၏"
+    },
+    {
+      "surface": "khavirim",
+      "gloss": "ကြီးမားသောသူများကို"
+    },
+    {
+      "surface": "lo",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "kheqer",
+      "gloss": "စစ်ဆေးခြင်း"
+    },
+    {
+      "surface": "veyaamed",
+      "gloss": "ခိုင်နောင်စေ၏"
+    },
+    {
+      "surface": "akherim",
+      "gloss": "အခြားသူများကို"
+    },
+    {
+      "surface": "takhtam",
+      "gloss": "ထိုသူတို့အစား"
+    }
+  ],
+  "timestamp": "2026-08-23T15:36:42.053972951Z",
+  "model": "glm-5.3"
+}

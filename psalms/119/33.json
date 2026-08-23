@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 119:33",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 119,
+  "translation": " teaches me the way of statutes, and I keep it to the end.",
+  "tokens": [
+    {
+      "surface": "הורני",
+      "gloss": " teaches me"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": ""
+    },
+    {
+      "surface": "דרך",
+      "gloss": "the way of"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "statutes"
+    },
+    {
+      "surface": "ואצרנה",
+      "gloss": "and I keep it"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "to the end"
+    }
+  ],
+  "timestamp": "2026-08-23T14:46:20.781494622Z",
+  "model": "glm-5.3"
+}

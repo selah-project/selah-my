@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ဂိဗေအုန်၊ ရာမာ၊ ဗေအရောက် < tagging >",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ဂိဗေအုန်"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ရာမာ"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ဗေအရောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:59.967792758Z",
+  "model": "glm-5.3"
+}

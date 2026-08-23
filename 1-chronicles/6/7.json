@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 6:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ကေဟာတ်၏သားများ — အမ္မိနဒဗ်၊ ၎င်း၏သား၊ ကိုရခ၊ ၎င်း၏သား၊ အဿိရ်၊ ၎င်း၏သား။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ကေဟာတ်၏"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "အမ္မိနဒဗ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ကိုရခ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "အဿိရ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:38.035738574Z",
+  "model": "glm-5.3"
+}

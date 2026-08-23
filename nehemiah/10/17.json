@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "အဒေါနိယာ၊ ဗိဂ်ဝိုင်၊ အာဒိန်။",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "အဒေါနိယာ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ဗိဂ်ဝိုင်"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "အာဒိန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:40.961497801Z",
+  "model": "glm-5.3"
+}

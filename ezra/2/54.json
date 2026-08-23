@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "နေဇိအာခ်၏သားများ၊ ခတိဖာ၏သားများ၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "နေဇိအာခ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ခတိဖာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:22:10.327990783Z",
+  "model": "glm-5.3"
+}

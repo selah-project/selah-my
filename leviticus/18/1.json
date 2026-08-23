@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 18:1",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "ယာဝေသည် မိုရှေထံသို့ မိန့်တော်မူ၍ ပြောဆိုလေ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:15:41.785193305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ရေဟဗ်အာမ် (ရခဗ်အမ်) သည် ယေရုရှာလိုင်မ် (iorushalaim) ၌ နေထိုင်လေ၏၊ ယော်ဒအ (yodaa) ၌ ခံတပ်များ (fortified-cities) အတွက် မြို့များကို ဆောက်လုပ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "နေထိုင်လေ၏"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ရေခဗ်အာမ် (ရခဗ်အမ်)"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ယေရုရှာလိုင်မ် (iorushalaim) ၌"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "ဆောက်လုပ်လေ၏"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "မြို့များကို"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "ခံတပ်များ (fortified-cities) အတွက်"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ယော်ဒအ (yodaa) ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T17:04:07.285138494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဇက္ကို၏သားများ — ခုနစ်ရာ့ခြောက်ဆယ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ဇက္ကို၏"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ခုနစ်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ခြောက်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:36.245328343Z",
+  "model": "glm-5.3"
+}

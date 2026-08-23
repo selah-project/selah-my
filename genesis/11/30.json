@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဆာရိုင်သည် အကြင်မတတ်၊ သားသမီးကင်း၏။",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ဆာရိုင်"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "အကြင်မတတ်"
+    },
+    {
+      "surface": "אין",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "သူ့၌"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "သားသမီး"
+    }
+  ],
+  "timestamp": "2026-08-23T07:07:05.623025663Z",
+  "model": "glm-5.3"
+}

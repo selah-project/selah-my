@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "ယိတ်စဟာက်သည် ဂေရာရ၌ နေထိုင်၏။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "နေထိုင်၏"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ယိတ်စဟာက်"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ဂေရာရ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T07:15:18.239770830Z",
+  "model": "glm-5.3"
+}

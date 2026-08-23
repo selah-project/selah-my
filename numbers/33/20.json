@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ရမ်မောင်-ပေရက်မှ ထွက်ခွာသွား၍ လိဗ်နာ၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွား၍"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "ရမ်မောင်-မှ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ပေရက်"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "လိဗ်နာ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:54.833718863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဟာရှုမ်၏သားများ — နှစ်ရာနှင့် နှစ်ဆယ် သုံးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ဟာရှုမ်"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "နှစ်ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "သုံးယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:51.837500802Z",
+  "model": "glm-5.3"
+}

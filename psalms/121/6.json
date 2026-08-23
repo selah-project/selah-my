@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 121,
+  "translation": "နေ့အချိန်၌ နေသည် သင့်ကို မပ strike ဘဲ၊ ညအချိန်၌လည်း လသည် မ strike ချေ။",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "နေ့အချိန်၌"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "နေ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ…ဘဲ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "(နေသည်) သင့်ကို strike"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "လ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ညအချိန်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T14:50:04.338825545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "daniel 2:15",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "<da ni-el>မေးလျှောက်၏ — ဘုရင်၏ <sha-lit>အာရိ-ရှုဏ၊ ဤအမိန့်သည် ဘုရင့်ရှေ့မှောက်မှ ဤမျှကြမ်းတမ်းစွာ အဘယ်ကြောင့် ထွက်လာသနည်း။ ထိုအခါ အာရိ-ရှုဏသည် ထိုအကြောင်းကို ဒန်နီယလ်အား အသိပေး၏။",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "<da>"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "<mae>"
+    },
+    {
+      "surface": "לאריוך",
+      "gloss": "<sha>"
+    },
+    {
+      "surface": "שליטא",
+      "gloss": "<a-tha>"
+    },
+    {
+      "surface": "די",
+      "gloss": "<di>"
+    },
+    {
+      "surface": "မלכא",
+      "gloss": "<hta>"
+    },
+    {
+      "surface": "על",
+      "gloss": "<kyan>"
+    },
+    {
+      "surface": "מה",
+      "gloss": "<gas>"
+    },
+    {
+      "surface": "דתာ",
+      "gloss": "<e>"
+    },
+    {
+      "surface": "မဟချဖာ",
+      "gloss": "<ခမ>"
+    },
+    {
+      "surface": "မင်",
+      "gloss": "<မန်>"
+    },
+    {
+      "surface": "ကိုဒမ်",
+      "gloss": "<မှ>"
+    },
+    {
+      "surface": "မလကာ",
+      "gloss": "<မှောက်>"
+    },
+    {
+      "surface": "အဒင်",
+      "gloss": "<ခါ>"
+    },
+    {
+      "surface": "မလတာ",
+      "gloss": "<ကြောင်း>"
+    },
+    {
+      "surface": "ဟောဒါ",
+      "gloss": "<အသိ>"
+    },
+    {
+      "surface": "အာရိယုခ်",
+      "gloss": "<အာရိ>"
+    },
+    {
+      "surface": "လ-ဒနိန်...",
+      "gloss": "..."
+    }
+  ],
+  "timestamp": "2026-08-23T16:06:43.571192921Z",
+  "model": "glm-5.3"
+}

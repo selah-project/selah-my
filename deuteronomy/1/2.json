@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဆိုင်ရ်တောင်လမ်းမှတစ်ဆင့် ဟောရေဘမှ ကာဒက်-ဗာနေးအထိ ဆယ့်တစ်ရက်မျှ ⟨ခရီး⟩ ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "တစ်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ဆယ်"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ရက်"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ဟောရေဘမှ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "လမ်းမှတစ်ဆင့်"
+    },
+    {
+      "surface": "הר",
+      "gloss": "တောင်"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ဆိုင်ရ်"
+    },
+    {
+      "surface": "עד",
+      "gloss": "အထိ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ကာဒက်-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ဗာနေး"
+    }
+  ],
+  "timestamp": "2026-08-23T08:55:00.415829587Z",
+  "model": "glm-5.3"
+}

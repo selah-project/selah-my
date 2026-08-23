@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "အုဇီအေလ်၏သားများကား — ရှေ့ဆုံးသူ မိကာ၊ ဒုတိယ ယိဿိယာ။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "အုဇီအေလ်"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ရှေ့ဆုံးသူ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ယိဿိယာ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ဒုတိယ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:53.022148846Z",
+  "model": "glm-5.3"
+}

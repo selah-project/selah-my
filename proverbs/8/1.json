@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "သတိပညာသည် မခေါ်ဝော်ဘိသလော၊ နားလည်မှုသည် ⟨၎င်း၏⟩ အသံကို မပေးဘိသလော။",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "မ...ဘိသလော"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "သတိပညာ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ခေါ်ဝော်"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "နားလည်မှု"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ပေး"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "၎င်း၏အသံ"
+    }
+  ],
+  "timestamp": "2026-08-23T15:02:13.692513398Z",
+  "model": "glm-5.3"
+}

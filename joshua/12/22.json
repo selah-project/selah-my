@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ခေဒက်ရှ် ၏ ဘုရင် တစ်ပါး၊ ကာမေလ်ရှိ ယောက်နေအမ် ၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ခေဒက်ရှ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "ယောက်နေအမ်"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "ကာမေလ်ရှိ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T09:25:18.850780168Z",
+  "model": "glm-5.3"
+}

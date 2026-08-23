@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 40:17",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 40,
+  "translation": "ရှု့ခိုင်းလေ။",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "ရှု့ခိုင်းလေ"
+    }
+  ],
+  "timestamp": "2026-08-23T13:17:37.904144837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 18:5",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "Ahab said to Obadyahu — go through the land, to all the springs of water, and to all the streams; perhaps grass will be found, and we will keep alive horse and mule, and we will not cut off ⟨any⟩ from the beasts.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Ahab said"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ahab"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עבדיהו",
+      "gloss": "Obadyahu"
+    },
+    {
+      "surface": "לך",
+      "gloss": "go"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "through the land"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "κλ",
+      "gloss": "all"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "the springs of water"
+    },
+    {
+      "surface": "המים",
+      "gloss": "of water"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and to"
+    },
+    {
+      "surface": "כל",
+      "gloss": "all"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "the streams"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "perhaps"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "will be found"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "grass"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "and we will keep alive"
+    },
+    {
+      "surface": "סוס",
+      "gloss": "horse"
+    },
+    {
+      "surface": "ופרד",
+      "gloss": "and mule"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "and not"
+    },
+    {
+      "surface": "נכרית",
+      "gloss": "we will cut off"
+    },
+    {
+      "surface": "מהבהמה",
+      "gloss": "from the beasts"
+    }
+  ],
+  "timestamp": "2026-08-23T10:53:43.893773186Z",
+  "model": "glm-5.3"
+}

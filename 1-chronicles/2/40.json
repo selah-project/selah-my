@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဧလအာသသည် ⟨את⟩ ဆိသမာကို ဖွားသည်၊ ဆိသမာသည် ⟨את⟩ ရှလ္လုံကို ဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "ဧလအာသ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဆိသမာ"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "ဆိသမာ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "ဆိသမာ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ရှလ္လုံ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ရှလ္လုံ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:07.539187034Z",
+  "model": "glm-5.3"
+}

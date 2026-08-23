@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "နပ်တလီသားများအပေါင်း၏ မျိုးနွယ်တပ်ကို ဦးစီးသူမှာ အေနန်၏သား အဟိရာ ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "အပေါ်၌"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "တပ်"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "မျိုးနွယ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "နပ်တလီ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "အဟိရာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "အေနန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:31:39.106284406Z",
+  "model": "glm-5.3"
+}

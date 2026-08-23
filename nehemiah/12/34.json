@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ယေဟုဒါ၊ ဗင်္ျာမိန်၊ ရှေမာယာနှင့် ယေရမိ၊",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ယေဟုဒါ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ဗင်္ျာမိန်"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ရှေမာယာ"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "ယေရမိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:50.884431510Z",
+  "model": "glm-5.3"
+}

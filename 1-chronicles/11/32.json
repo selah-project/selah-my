@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဟုရိုင် ⟨the⟩ ဂါအက်ရှိချောင်းများမှ၊ အာဗိဧလ် ⟨the⟩ အာရာဗာသိုသား။",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ဟုရိုင်"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ချောင်းများမှ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ဂါအက်ရှိ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "အာဗိဧလ်"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "အာရာဗာသိုသား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:46:07.403909955Z",
+  "model": "glm-5.3"
+}

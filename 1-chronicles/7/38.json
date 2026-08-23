@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ယက်သေရ်၏သားများမှာ — ယက်ဖုန္နေ၊ ဖိသ်ပာ၊ အရာ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ယက်သေရ်"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ယက်ဖုန္နေ"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "ဖိသ်ပာ"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "အရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:15.295855852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 3:11",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့အမိန့်ရှိ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:26:44.885225486Z",
+  "model": "glm-5.3"
+}

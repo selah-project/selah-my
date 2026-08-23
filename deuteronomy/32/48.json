@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 32,
+  "translation": "ထို့နောက် ယာဝေသည် ဤ နေ့ အလွန်အမင်းမျှ မိုရှေအား ဤသို့ မိန့်တော်မူ၏ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "အလွန်အမင်းမျှ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့"
+    }
+  ],
+  "timestamp": "2026-08-23T09:16:50.883723464Z",
+  "model": "glm-5.3"
+}

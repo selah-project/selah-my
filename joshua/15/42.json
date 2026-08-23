@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "လိဗ်နာနှင့် အေတေရ်နှင့် အာရှန်။",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "လိဗ်နာ"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "အေတေရ်"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "အာရှန်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:21.495667414Z",
+  "model": "glm-5.3"
+}

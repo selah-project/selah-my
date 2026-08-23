@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဖေရက်၏သားများ — ဟက်ဇ္ရုန်နှင့် ဟာမုလ်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ဖေရက်"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ဟက်ဇ္ရုန်"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "နှင့် ဟာမုလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:00.376616594Z",
+  "model": "glm-5.3"
+}

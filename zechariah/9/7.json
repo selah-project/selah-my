@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 9:7",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "And I shall remove his blood from his mouth, and his abominations from between his teeth; and he also shall remain for our Elohim, and he shall be as a chief in Judah, and Ekron as a Jebusite.",
+  "tokens": [
+    {
+      "surface": "והסרתי",
+      "gloss": "and I shall remove"
+    },
+    {
+      "surface": "דמיו",
+      "gloss": "his blood"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "from his mouth"
+    },
+    {
+      "surface": "ושקציו",
+      "gloss": "and his abominations"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "from between"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "his teeth"
+    },
+    {
+      "surface": "ונשאר",
+      "gloss": "and he shall remain"
+    },
+    {
+      "surface": "גם",
+      "gloss": "also"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "for our Elohim"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "and he shall be"
+    },
+    {
+      "surface": "כאלף",
+      "gloss": "as a chief"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "in Judah"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "and Ekron"
+    },
+    {
+      "surface": "כיבוסי",
+      "gloss": "as a Jebusite"
+    }
+  ],
+  "timestamp": "2026-08-23T18:05:32.811810301Z",
+  "model": "glm-5.3"
+}

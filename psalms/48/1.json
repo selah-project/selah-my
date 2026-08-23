@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 48,
+  "translation": "သီချင်း၊ တေးဂီတ — ကောရခ်၏သားများအဘို့။",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "တေးဂီတ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "၏သားများအဘို့"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ကောရခ်"
+    }
+  ],
+  "timestamp": "2026-08-23T14:18:04.854371071Z",
+  "model": "glm-5.3"
+}

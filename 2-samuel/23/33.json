@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ရှမ္မာ ⟨the⟩ ဟာရာရိုက်သား၊ အာခီအာမ် ရှာရာရ် ⟨the⟩ ဟာရာရိုက်သား၏ သား၊",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ရှမ္မာ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "⟨the⟩ ဟာရာရိုက်သား"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "အာခီအာမ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ရှာရာရ်"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "⟨the⟩ ဟာရာရိုက်သား"
+    }
+  ],
+  "timestamp": "2026-08-23T10:34:50.370521379Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ယိဿာခါအသျားအနွယ်တော်မှ ယောစေဖ၏သား ယိဂ်အာလ်။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အသျားအနွယ်တော်မှ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ယိဿာခါ"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ယိဂ်အာလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ယောစေဖ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:17.595720705Z",
+  "model": "glm-5.3"
+}

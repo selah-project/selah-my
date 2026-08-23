@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယာဝေသည် မိုရှေအား ပြောဆိုတော်မူ၍ မိန့်တော်မူသည်အခါ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ပြောဆိုတော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မိန့်တော်မူသည်အခါ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:35:38.845670830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "အဒမာ၊ ရာမာ၊ ခါဇော်တို့ ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "နှင့် အဒမာ"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "နှင့် ရာမာ"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "နှင့် ခါဇော်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:30:31.404748569Z",
+  "model": "glm-5.3"
+}

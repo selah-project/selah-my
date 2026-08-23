@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဗေလာအား သားများ ဖြစ်ကြ၏ — အဒ္ဒါရ်၊ ဂေရာ၊ အဗ်ihuဒ်။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်ကြ၏"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ဗေလာအား"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "အဒ္ဒါရ်"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ဂေရာ"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "အဗ်ihuဒ်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:11.967332252Z",
+  "model": "glm-5.3"
+}

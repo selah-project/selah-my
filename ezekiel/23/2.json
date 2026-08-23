@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "လူသားသား၊ မိခင်တစ်ဦးတည်း၏ သမီးများဖြစ်သော မိန်းမနှစ်ဦး ရှိကြ၏။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "လူသား"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "နှစ်ဦး"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "မိန်းမများ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "သမီးများ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "မိခင်"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "တစ်ဦးတည်း"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ဖြစ်ကြ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T13:02:58.728265447Z",
+  "model": "glm-5.3"
+}

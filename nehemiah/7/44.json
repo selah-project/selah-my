@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဂီတသီချင်းဆိုသူများ — အာသပ်၏သားများ — တစ်ရာ လေးဆယ် ရှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ဂီတသီချင်းဆိုသူများ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "အာသပ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ရှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:31.454031089Z",
+  "model": "glm-5.3"
+}

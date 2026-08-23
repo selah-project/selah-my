@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "အမှတ်ထိုးသူများမှာ — ဟခါလ္ယာ၏သား ဘုရင်ခံ နေဟမိyah နှင့် ဇိဒကိyah တို့ဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "အမှတ်ထိုးသူများ"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "နေဟမိyah"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "ဘုရင်ခံ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "ဟခါလ္ယာ"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "ဇိဒကိyah"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:21.146344645Z",
+  "model": "glm-5.3"
+}

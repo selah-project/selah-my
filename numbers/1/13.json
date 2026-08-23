@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "အာရှေရ်အား <span>⟩<\/span> ပါဂါအဲလ်၊ ဩခရန်၏သား။",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "အာရှေရ်အား"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ပါဂါအဲလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…၏သား"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ဩခရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:33:38.613662990Z",
+  "model": "glm-5.3"
+}

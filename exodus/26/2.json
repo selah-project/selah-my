@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "一つの 垂れ幕の 長さは 二十八 キュビト、 そして一つの 垂れ幕の 幅は 四 キュビト — すべての 垂れ幕に 一つの 寸法である。",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "長さ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "その垂れ幕"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "八"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "そして二十"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "キュビトで"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "そして幅"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "四"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "キュビトで"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "その垂れ幕"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "寸法"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "一つの"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "すべての…に"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "その垂れ幕"
+    }
+  ],
+  "timestamp": "2026-08-23T17:32:29.020137258Z",
+  "model": "glm-5.3"
+}

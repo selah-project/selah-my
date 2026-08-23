@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ထို့အပြင် ⟨את⟩ ဂသ် (Gath) ကို၎င်း၊ ⟨את⟩ မာရေရှာ (Maresha) ကို၎င်း၊ ⟨את⟩ ဇိပ် (Ziph) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "ဂသ် (Gath)"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ဂသ် (Gath)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "မာရေရှာ (Maresha)"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "မာရေရှာ (Maresha)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "ဇိပ် (Ziph)"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ဇိပ် (Ziph)"
+    }
+  ],
+  "timestamp": "2026-08-23T17:04:07.285707883Z",
+  "model": "glm-5.3"
+}

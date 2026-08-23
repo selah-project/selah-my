@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဣသရေလဘုရားမှု ဒါဝိဒ်၏သား ရှိလောမော၏သင်ခဏ်းစကားများ။",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "သင်ခဏ်းစကားများ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ရှိလောမော၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိဒ်"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရားမှု"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    }
+  ],
+  "timestamp": "2026-08-23T14:57:01.718793550Z",
+  "model": "glm-5.3"
+}

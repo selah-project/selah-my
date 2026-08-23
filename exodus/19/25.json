@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "မိုရှေသည် ⟨the⟩ လူစုံထံ ဆင်းသွားပြီးလျှင် ၎င်းတို့အား ပြောကြား၏။",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ဆင်းသွားပြီးလျှင်"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ လူစုံ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ပြောကြား၏"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "၎င်းတို့အား"
+    }
+  ],
+  "timestamp": "2026-08-23T07:43:20.364634458Z",
+  "model": "glm-5.3"
+}

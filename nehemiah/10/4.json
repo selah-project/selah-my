@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "pashchur၊ amarayah၊ malkiyah။",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "pashchur"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "amarayah"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "malkiyah"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:21.146596296Z",
+  "model": "glm-5.3"
+}

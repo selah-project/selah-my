@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "သို့ရာတွင် ⟨the⟩ သွေးကို မစားရ၊ ⟨the⟩ မြေကြီးပေါ်၌ ရေကဲ့သို့ ၎င်းကို သွန်းလော့။",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "သို့ရာတွင်"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "သွေးကို"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "စားရ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "မြေကြီး"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "သွန်းလော့ ၎င်းကို"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ရေကဲ့သို့"
+    }
+  ],
+  "timestamp": "2026-08-23T09:03:28.006659487Z",
+  "model": "glm-5.3"
+}

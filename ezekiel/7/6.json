@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "အဆုံး လာပြီ၊ လာပြီ အဆုံး — ၎င်းသည် သင့်အပေါ် နိုးထ၏၊ ကြည့်ရှုလော့၊ လာပေါက်၏။",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "အဆုံး"
+    },
+    {
+      "surface": "בא",
+      "gloss": "လာပြီ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "လာပြီ"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "အဆုံး"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "နိုးထ၏"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "သင့်အပေါ်"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ကြည့်ရှုလော့"
+    },
+    {
+      "surface": "באה",
+      "gloss": "လာပေါက်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T12:46:58.432704751Z",
+  "model": "glm-5.3"
+}

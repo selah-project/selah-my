@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 28,
+  "translation": "နဗီညွှန်ကြားချက်အရ ဟာနန်ယာသည် ထိုနှစ်၌၊ သတ္တဝမ်း၌ သေလေ၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေလေ၏"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ဟာနန်ယာ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "နဗီ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ထိုနှစ်၌"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ထို"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "လ၌"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "သတ္တမ"
+    }
+  ],
+  "timestamp": "2026-08-23T12:21:23.791225109Z",
+  "model": "glm-5.3"
+}

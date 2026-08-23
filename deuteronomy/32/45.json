@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 32,
+  "translation": "ထိုအခါ မိုရှေသည် ⟨את⟩ ဤစကားအားလုံးကို ဣသရေလအားလုံးထံ ပြောကြား၍ ပြီးစောင့်၏။",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ပြီးစောင့်၏"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေသည်"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "ပြောကြား၍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဤစကားအားလုံးကို"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "הדברိם",
+      "gloss": "ဤစကား"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ဤ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:16:50.882980349Z",
+  "model": "glm-5.3"
+}

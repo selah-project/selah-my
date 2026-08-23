@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ယောအဲလ် ⟨သည်⟩ နာတန်၏ညီ၊ မိဘခါရ် ⟨သည်⟩ ဟဂ်ရိလူ၏သား။",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ယောအဲလ်"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ညီ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "နာတန်"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "မိဘခါရ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ဟဂ်ရိလူ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:02.609710038Z",
+  "model": "glm-5.3"
+}

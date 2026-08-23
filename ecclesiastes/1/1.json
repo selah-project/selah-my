@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ကောဟေလေ့၏စကားများ — ဒါဝိ岱၏သား၊ ယေရုရှာလိုင်မ်၌ ဘုရားအုပ်စိုးသူ။",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "စကားများ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ကောဟေလေ့၏"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိ岱"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရားအုပ်စိုးသူ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ယေရုရှာလိုင်မ်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T15:54:33.558880602Z",
+  "model": "glm-5.3"
+}

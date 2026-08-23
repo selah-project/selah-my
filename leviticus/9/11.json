@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "⟨את⟩ အသားနှင့် ⟨את⟩ အရေကို စခန်းအပြင်၌ မီးဖြင့် ရှို့ပစ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အသား"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "အသား"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အရေ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "အရေ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ရှို့ပစ်လေ၏"
+    },
+    {
+      "surface": "באש",
+      "gloss": "မီးဖြင့်"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "အပြင်၌"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "စခန်း"
+    }
+  ],
+  "timestamp": "2026-08-23T08:07:53.645607694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "မေရာရီ၏သားများ — မာလှိ; လိဗ်နိည် သူ၏သား၊ ရှိမေအိ သူ၏သား၊ ဥဇ္ဇာ သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "မေရာရီ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "မာလှိ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "လိဗ်နိည်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ရှိမေအိ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "ဥဇ္ဇာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T18:16:47.531378050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ရှမ်ရှေရိုင်၊ ရှေဟာရ်ယာ၊ အသာလ်ယာတို့လည်းဖြစ်ကုန်၏။",
+  "tokens": [
+    {
+      "surface": "وשמשרי",
+      "gloss": "ရှမ်ရှေရိုင်"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "ရှေဟာရ်ယာ"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "အသာလ်ယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:20.896287427Z",
+  "model": "glm-5.3"
+}

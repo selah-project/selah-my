@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "လောဒ်၊ အောနို၊ ချောင်းဝှမ်း (GV: ဂေ-ဟာရှီမ် — သစ်သည်တို့၏ဝှမ်း)။",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "လောဒ်"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "အောနို"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ချောင်းဝှမ်း"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "သစ်သည်တို့ (GV: ဟာရှီမ်)"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:51.922257828Z",
+  "model": "glm-5.3"
+}

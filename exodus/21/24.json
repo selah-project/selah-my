@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "မျက်စိ ⟨အစား⟩ မျက်စိ၊ သွား ⟨အစား⟩ သွား၊ လက် ⟨အစား⟩ လက်၊ ခြေထောင် ⟨အစား⟩ ခြေထောင်။",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "မျက်စိ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အစား"
+    },
+    {
+      "surface": "עין",
+      "gloss": "မျက်စိ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "သွား"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အစား"
+    },
+    {
+      "surface": "שן",
+      "gloss": "သွား"
+    },
+    {
+      "surface": "יד",
+      "gloss": "လက်"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အစား"
+    },
+    {
+      "surface": "יד",
+      "gloss": "လက်"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ခြေထောင်"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အစား"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ခြေထောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:47:47.886603403Z",
+  "model": "glm-5.3"
+}

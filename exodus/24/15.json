@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "မိုရှေသည်တောင်ပေါ်သို့တက်၍ တိမ်သည်တောင်ကို ဖုံးအုပ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "တက်၍"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "သို့"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "တောင်"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ဖုံးအုပ်လေ၏"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "တိမ်သည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "တောင်ကို"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "တောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:48:22.497031336Z",
+  "model": "glm-5.3"
+}

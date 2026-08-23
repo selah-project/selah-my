@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "အာဒါယာ၊ ဘေရာင်ယာနှင့် ရှိမ်ရက်တို့သည် ရှိမေအိ၏သားများဖြစ်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "အာဒါယာ"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ဘေရာင်ယာ"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ရှိမ်ရက်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ရှိမေအိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:53.301205974Z",
+  "model": "glm-5.3"
+}

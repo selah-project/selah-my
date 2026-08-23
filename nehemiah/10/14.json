@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဟောဒိယာ၊ ဗာနိ၊ ဗေနိနု။",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ဟောဒိယာ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ဗာနိ"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ဗေနိနု"
+    }
+  ],
+  "timestamp": "2026-08-23T18:15:28.776320187Z",
+  "model": "glm-5.3"
+}

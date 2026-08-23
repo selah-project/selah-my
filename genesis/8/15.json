@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ထိုအခါ ဧလောဟိမ်သည် နောခ် ကို ဤသို့ မိန့်တော်မူ၏ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ဧလောဟိမ်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "သည်"
+    },
+    {
+      "surface": "נח",
+      "gloss": "နောခ် ကို"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ ဆို၍"
+    }
+  ],
+  "timestamp": "2026-08-23T07:04:20.618076723Z",
+  "model": "glm-5.3"
+}

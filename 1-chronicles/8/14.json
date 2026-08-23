@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "အခိယော၊ ရှရှက်၊ ယရ်မောသ။",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "အခိယော"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ရှရှက်"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ယရ်မောသ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:44.803547746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 28,
+  "translation": "ဒုတိယတန်း၌ — နိုဖက်ခ်၊ သပ္ပီရနှင့် ယာဟာလုမ်တို့ ⟨ဖြစ်စေရမည်⟩။",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "တန်း"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ဒုတိယ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "နိုဖက်ခ်"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "သပ္ပီရ"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ယာဟာလုမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:52:05.888800731Z",
+  "model": "glm-5.3"
+}

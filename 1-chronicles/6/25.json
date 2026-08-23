@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "မီခါဧလ်၏သား၊ ဘာရှေယာ၏သား၊ မလ်ခီယာ၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "မီခါဧလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "ဘာရှေယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "မလ်ခီယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:55.410395915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ယာရုဗေအလ် ယောအာရ်၏သားသည် ⟨သူ⟩သွား၍ မိမိအိုထဲ၌ ⟨နေ⟩နေလေ၏။",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "သွား၍"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ယာရုဗေအလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ယောအာရ်"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "နေနေလေ၏"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "မိမိအိုထဲ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T09:41:41.992371021Z",
+  "model": "glm-5.3"
+}

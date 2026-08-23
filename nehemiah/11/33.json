@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ခါဇောရ်၊ ရာမာ၊ ဂိတ္တာယိမ်။",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ခါဇောရ်"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ရာမာ"
+    },
+    {
+      "surface": "ගתים",
+      "gloss": "ဂိတ္တာယိမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:51.921930228Z",
+  "model": "glm-5.3"
+}

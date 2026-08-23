@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ယဇ်ပူရောင်းသူများထဲမှ — ယေဒါယာ ယောယာရိဗ်၏သား၊ ယာခိန်။",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ထဲမှ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ယဇ်ပူရောင်းသူများ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ယေဒါယာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ယောယာရိဗ်"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ယာခိန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:35:28.057164279Z",
+  "model": "glm-5.3"
+}

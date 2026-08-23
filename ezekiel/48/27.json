@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 48,
+  "translation": "ဇေဗုလုန်၏နယ်နိမိတ်ပေါ်၌ အရှေ့ဘက်မှ အနောက်ဘက်တိုင် ဂတ်သည် ⟨တစ်ဆယ်⟩ ရှိလတ္တံ့။",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "နယ်နိမိတ်"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ဇေဗုလုန်၏"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "မှ ဘက်"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "အရှေ့"
+    },
+    {
+      "surface": "עד",
+      "gloss": "တိုင်"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ဘက်"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "အနောက်"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂတ်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:25:39.190159660Z",
+  "model": "glm-5.3"
+}

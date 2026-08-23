@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "ဒါဝိဒ်လည်း ဂဒ်ပြောသော ယာဝေနာမတော်ဖြင့် ပြောသည့်စကားအတိုင်း သွားလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "သွားလေ၏"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိဒ်"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "စကားအတိုင်း"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ဂဒ်"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "၎င်း"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ပြောသည့်"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "နာမတော်ဖြင့်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:52:41.435846172Z",
+  "model": "glm-5.3"
+}

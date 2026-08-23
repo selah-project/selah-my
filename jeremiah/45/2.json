@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 45,
+  "translation": "ဤသို့ ပြောဆို၏ ယာဝေ၊ ဣသရေလ၏ ဧလောဟိမ် — သင်အပေါ်၌၊ အို ဗာရုခ်၊",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ဤသို့"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ပြောဆို၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ဧလောဟိမ်"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ၏"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "သင်အပေါ်၌"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ဗာရုခ်"
+    }
+  ],
+  "timestamp": "2026-08-23T12:35:48.962929858Z",
+  "model": "glm-5.3"
+}

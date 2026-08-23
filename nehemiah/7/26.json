@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဗေသလှေခံမြို့သားများနှင့် နေတောဖမြို့သားများ — တစ်ရာ့ရှစ်ဆယ်ရှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗေသ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "လှေခံ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "နေတောဖ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ရှစ်ဆယ်"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ရှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.038272554Z",
+  "model": "glm-5.3"
+}

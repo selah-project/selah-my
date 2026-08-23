@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 46,
+  "translation": "ဇေဗူလုန်၏သားများမှာ စေရက်၊ အေလုန်၊ ယာလေအဲလ်တို့တည်း။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ဇေဗူလုန်"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "စေရက်"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "အေလုန်"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "ယာလေအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:30:31.744408561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "တွင် အဲလ်တိုလာဒ်၊ ကေဆီလ်၊ ဟော်မာ၊",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "တွင် အဲလ်တိုလာဒ်"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ကေဆီလ်"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ဟော်မာ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:40:05.938985288Z",
+  "model": "glm-5.3"
+}

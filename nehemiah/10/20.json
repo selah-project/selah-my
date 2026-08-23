@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ခရီဖ်၊ အာနာတော့၊ နိုဘိုင်။",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ခရီဖ်"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "အာနာတော့"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "နိုဘိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:40.961958410Z",
+  "model": "glm-5.3"
+}

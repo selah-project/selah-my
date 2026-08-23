@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 29,
+  "translation": "လာဗန်၌则 သမီးနှစ်ယောက် ရှိ၏။ ကြီးသူ၏အမည်မှာ လေအာ၊ ငယ်သူ၏အမည်မှာ ရာရှယ်။",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "လာဗန်၌"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "နှစ်ယောက်"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "သမီး"
+    },
+    {
+      "surface": "שם",
+      "gloss": "အမည်"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ကြီးသူ"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "လေအာ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "အမည်"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ငယ်သူ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ရာရှယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:16:48.444159503Z",
+  "model": "glm-5.3"
+}

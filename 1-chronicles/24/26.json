@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "မေရာရိ၏သားများကား မာဟလိနှင့် မူရှိ; ယာအဇိယာဟူ၏ သား — ⟨သူ၏သား⟩။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "မေရာရိ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "မာဟလိ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "နှင့် မူရှိ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "ယာအဇိယာဟူ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:26.789943088Z",
+  "model": "glm-5.3"
+}

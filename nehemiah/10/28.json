@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မာလုက်၊ ဟာရိမ်၊ ဗာအနာ။",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "မာလုက်"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ဟာရိမ်"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ဗာအနာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.857868837Z",
+  "model": "glm-5.3"
+}

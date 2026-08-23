@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဣမ္မေရ်၏ သားများ — တစ်ထောင်၊ ငါးဆယ် ⟨နှင့်⟩ နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ဣမ္မေရ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "တစ်ထောင်"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှင့် နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:56.454786426Z",
+  "model": "glm-5.3"
+}

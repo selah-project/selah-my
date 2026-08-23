@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဇဗဒ္ဒိယ၊ မေရှုလ္လမ်၊ ဟိဇကီ၊ ဟာဗေရ်တို့သည် <…>",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ဇဗဒ္ဒိယ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "မေရှုလ္လမ်"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ဟိဇကီ"
+    },
+    {
+      "surface": "וָחָֽבֶר",
+      "gloss": "ဟာဗေရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:49.711099452Z",
+  "model": "glm-5.3"
+}

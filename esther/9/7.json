@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "နှင့် ⟨את⟩ ပါရ်ရှန်ဒတ နှင့် ⟨את⟩ ဒလ်ဖုန် နှင့် ⟨את⟩ အစ်ပတ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ပါရ်ရှန်ဒတ"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ပါရ်ရှန်ဒတ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ဒလ်ဖုန်"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ဒလ်ဖုန်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အစ်ပတ"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "အစ်ပတ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:13:32.379430512Z",
+  "model": "glm-5.3"
+}

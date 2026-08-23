@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "daniyel၊ ginneton၊ baruk",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "daniyel"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ginneton"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "baruk"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:57.169171167Z",
+  "model": "glm-5.3"
+}

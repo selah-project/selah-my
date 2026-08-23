@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "သင်သည် ယနေ့ ⟨את⟩ မောအဘ်နိုင်ငံ၏နယ်နိမိတ်ကို — ⟨את⟩ အာရ်ကို ဖြတ်သွားလတံ့။",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "သင်သည်"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ဖြတ်သွားလတံ့"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ယနေ့"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မောအဘ်နိုင်ငံ၏နယ်နိမိတ်ကို"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "နယ်နိမိတ်"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "မောအဘ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အာရ်ကို"
+    },
+    {
+      "surface": "ער",
+      "gloss": "အာရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:54:55.299201072Z",
+  "model": "glm-5.3"
+}

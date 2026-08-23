@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 2:3",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၏ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>များ၌ ဣသရေလ၏ ချိုအားလုံးကို ဖြတ်တော်မူ၏၊ ရန်သူ့ရှေ့တွင် မိမိလက်ယာကို နောက်ဆုတ်စေတော်မူ၏၊ <caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>၌ မီးလျှံကဲ့သို့ ပူလောင်စေတော်မူ၍ တစ်ခွင်လုံးကို စားသောက်စေ၏။",
+  "tokens": [
+    {
+      "surface": "גדע",
+      "gloss": "ဖြတ်၏<caleb-do><caleb-do>ချို့၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "בחרי",
+      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אף",
+      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כל",
+      "gloss": "<caleb-do><caleb-do>အားလုံး<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "ချို<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ၏"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "<caleb-do><caleb-do>ဆုတ်စေ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "နောက်သို့"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "<caleb-do><caleb-do>မိမိလက်ယာ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "<caleb-do><caleb-do>ရှေ့တွင်<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ရန်သူ"
+    },
+    {
+      "surface": "ויבער",
+      "gloss": "<caleb-do><caleb-do>ပူလောင်စေ၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "<caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>၌<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "မီးကဲ့သို့"
+    },
+    {
+      "surface": "להבה",
+      "gloss": "လျှံ<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "စားသောက်၏<caleb-do><caleb-do>"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "တစ်ခွင်လုံး"
+    }
+  ],
+  "timestamp": "2026-08-23T15:52:10.657244011Z",
+  "model": "glm-5.3"
+}

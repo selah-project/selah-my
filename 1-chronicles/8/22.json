@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "နှင့် ယိရှပန်၊ ဧဗေရ်၊ ဧလိအဲလ်၊",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ယိရှပန်"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ဧဗေရ်"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ဧလိအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:53.301474770Z",
+  "model": "glm-5.3"
+}

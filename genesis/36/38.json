@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 36:38",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 36,
+  "translation": "ရှအူလ်သော် မရှိသတည်း၊ ၎င်းအစား အက္ခဗော၏သား ဗာအလ်-ဟာနန်သည် မင်းပြု၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေသေ်"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ရှအူလ်"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "မင်းပြု၏"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "၎င်းအစား"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ဗာအလ်-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ဟာနန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "အက္ခဗော"
+    }
+  ],
+  "timestamp": "2026-08-23T07:21:41.932940535Z",
+  "model": "glm-5.3"
+}

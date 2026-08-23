@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 26,
+  "translation": "ဖာလူ၏သားတို့မှာ အေလိအဗ်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားတို့"
+    },
+    {
+      "surface": "ဖာလူ",
+      "gloss": "ဖာလူ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "အေလိအဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:35:31.144300408Z",
+  "model": "glm-5.3"
+}

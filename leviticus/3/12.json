@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အကယ်၍ သူ၏ယဇ်သည် ဆိတ်မဖြစ်လျှင် ယာဝေ၏ရှေ့ဝန်း၌ ၎င်းကို ယူဆောင်ရ၏။",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "အကယ်၍"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ဆိတ်မ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "သူ၏ယဇ်"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "ယူဆောင်ရ၏"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ရှေ့ဝန်း၌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:03:08.706724154Z",
+  "model": "glm-5.3"
+}

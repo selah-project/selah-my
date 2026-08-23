@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဇာဒုက်သည် ၎င်း၏သား၊ အခိမာအစ်သည် ၎င်း၏သား။",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ဇာဒုက်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "အခိမာအစ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:29.519215606Z",
+  "model": "glm-5.3"
+}

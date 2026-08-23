@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ရှလောမောသည် ⟨את⟩ အိမ်ကို ဆောက်လုပ်၍ ပြီးစေ၏။",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ဆောက်လုပ်၍"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ရှလောမော"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အိမ်ကို"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "အိမ်"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "ပြီးစေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T10:42:00.862845407Z",
+  "model": "glm-5.3"
+}

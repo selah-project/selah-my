@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အဋ္ဌမနေ့၌ သူ့ရှေ့ရေပြား၏ အသားကို ဗျိုင်းဖြတ်ရမည်။",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "နေ့၌"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "အဋ္ဌမ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ဗျိုင်းဖြတ်ရမည်"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "အသား"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "သူ့ရှေ့ရေပြား"
+    }
+  ],
+  "timestamp": "2026-08-23T08:09:57.162689959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဂေရဲ့ရှုန်၏သားတို့၏အမည်များမှာ လိဗ်နိ နှင့် ရှိမေအိတို့ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "နှင့် ဤ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "အမည်များ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားတို့၏"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ဂေရဲ့ရှုန်"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "လိဗ်နိ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "နှင့် ရှိမေအိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:37.197027046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "ယာဝေ၏ ၊ နာမတော်မှ ငါဆီသို့ စကားတော် ရောက်လာ၍ ဤသို့ ဆို၏ ။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "စကားတော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T12:59:31.572251666Z",
+  "model": "glm-5.3"
+}

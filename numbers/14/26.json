@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ယာဝေသည် မိုရှေနှင့် အာရုန်အား မိန့်တော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "နှင့်…အား"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "အာရုန်"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T08:35:55.305800634Z",
+  "model": "glm-5.3"
+}

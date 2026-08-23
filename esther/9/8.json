@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "နှင့် ⟨את⟩ ပေါရတ နှင့် ⟨את⟩ အဒလ်ယ နှင့် ⟨את⟩ အရိဒတ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ပေါရတ"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ပေါရတ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အဒလ်ယ"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "အဒလ်ယ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "အရိဒတ"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "အရိဒတ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:13:32.379656226Z",
+  "model": "glm-5.3"
+}

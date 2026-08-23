@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ပညာသည် အမွေနှင့်အတူ ကောင်း၏၊ နေကို မြင်သောသူတို့အား အကျိုးများ၏။",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ကောင်း၏"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ပညာသည်"
+    },
+    {
+      "surface": "עם",
+      "gloss": "နှင့်အတူ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "အမွေ"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "အကျိုးများ၏"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "မြင်သောသူတို့အား"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "နေကို"
+    }
+  ],
+  "timestamp": "2026-08-23T15:56:19.127338491Z",
+  "model": "glm-5.3"
+}

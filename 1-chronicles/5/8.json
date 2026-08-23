@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ဗေလာ — အာဇာဇ်၏သား၊ ရှေမာ၏သား၊ ယောအေလ်၏သား — သည် အရောအေရ် ၌ နေထိုင်ခဲ့၏၊ နေဗို အထိ နှင့် ဗာအာလ်-မေအုန် အထိ။",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "ဗေလာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "အာဇာဇ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ရှေမာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ယောအေလ်"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "သည် —"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "နေထိုင်ခဲ့၏"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "အရောအေရ္ ၌"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "အထိ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "နေဗို"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ဗာအာလ်-"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "မေအုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:45.863880648Z",
+  "model": "glm-5.3"
+}

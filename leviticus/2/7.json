@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "စတုတ္ထဆီကြိုခွက်ဖြင့် ျာဏ်များ",
+  "tokens": [
+    {
+      "surface": "error",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T08:02:12.150749218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ပဉ္စမ ရှေဖတ်ယာ — အဘိတာလ်၏; ဆဋ္ဌမ ယိတ်ရှာအမ် — ဧဂလာ ၏၊ ၎င်း၏မိန်းမ။",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "ပဉ္စမ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ရှေဖတ်ယာ"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "အဘိတာလ်၏"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ဆဋ္ဌမ"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "ယိတ်ရှာအမ်"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "ဧဂလာ၏"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "၎င်း၏မိန်းမ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:27.454739086Z",
+  "model": "glm-5.3"
+}

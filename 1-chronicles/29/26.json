@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 29,
+  "translation": "ဒါဝိဒ်ကား ယေ shuffleရှေ ၏သား ဣသရေလအပေါ် အုပ်စိုးသော ဘုရင်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ဒါဝိဒ်ကား"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ယေ shuffleရှေ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "အုပ်စိုးသောဘုရင်ဖြစ်၏"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:57:52.339869087Z",
+  "model": "glm-5.3"
+}

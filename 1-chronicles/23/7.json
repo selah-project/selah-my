@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ဂေရှုနိသားများ — လာဒန် နှင့် ရှိမေအိ။",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ဂေရှုနိသားများ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "လာဒန်"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "နှင့် ရှိမေအိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:33.316640801Z",
+  "model": "glm-5.3"
+}

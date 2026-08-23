@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ခက်ဗ်ရုန်၏သားများ — ကိုရာခ်၊ တပ်ပုအခ်၊ ရေကေမ်၊ ရှာမာ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ခက်ဗ်ရုန်၏"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ကိုရာခ်"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "တပ်ပုအခ်"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ရေကေမ်"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ရှာမာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:06.147559202Z",
+  "model": "glm-5.3"
+}

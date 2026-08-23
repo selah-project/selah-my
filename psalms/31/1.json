@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 31,
+  "translation": "တော်သောသို့ ⟨သို့⟩ သီချင်း၊ ဒါဝိဒ်၏။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "တော်သောသို့"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "သီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:10:07.180751351Z",
+  "model": "glm-5.3"
+}

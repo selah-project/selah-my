@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူသည်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:05:48.987161439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ရာမာနှင့် ဂေဗအ သားများ — ခြောက်ရာနှင့် နှစ်ဆယ့်တစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ရာမာ"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "နှင့် ဂေဗအ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "မאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "နှစ်ဆယ်"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "နှင့် တစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:19:16.312057523Z",
+  "model": "glm-5.3"
+}

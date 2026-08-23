@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ရှိမောန်အား — ရှေလူမိအဲလ်၊ ဇူရိရှဒ္ဒိုင်၏သား။",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ရှိမောန်အား"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ရှေလူမိအဲလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ဇူရိရှဒ္ဒိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:23:33.394790618Z",
+  "model": "glm-5.3"
+}

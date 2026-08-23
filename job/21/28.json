@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 21:28",
+  "book": "job",
+  "lang": "my",
+  "chapter": 21,
+  "translation": "အကြောင်းမှာ သင်တို့သည် 'သူကောင်းကြီး၏ အိမ်မှာ အီ indispensably' ဟု မေးကြသောကြောင့် ဖြစ်သည်၊ 'မတရားသောသူတို့၏ နေရာခင်းကြီးများမှာ အီ indispensably' ဟု မေးကြကုန်၏။",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "အကြောင်းမှာ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "သင်တို့သည် မေးကြကုန်၏"
+    },
+    {
+      "surface": "איה",
+      "gloss": "မှာ အီ indispensably"
+    },
+    {
+      "surface": "בית",
+      "gloss": "အိမ်"
+    },
+    {
+      "surface": "נדιב",
+      "gloss": "သူကောင်းကြီး၏"
+    },
+    {
+      "surface": "ואיה",
+      "gloss": "မှာ အီ indispensably"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "နေရာခင်းကြီးများ"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "နေရာများ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "မတရားသောသူတို့၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:29:38.096021273Z",
+  "model": "glm-5.3"
+}

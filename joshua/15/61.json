@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "တောင်ကြားခေါင်ပြင်၌ — ဗေith-ha-အရဗာ၊ မိဒ္ဒိန်၊ ဆကာကာ။",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "တောင်ကြားခေါင်ပြင်၌"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗေith"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "-ha-အရဗာ"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "မိဒ္ဒိန်"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "ဆကာကာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:34.099034454Z",
+  "model": "glm-5.3"
+}

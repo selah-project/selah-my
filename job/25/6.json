@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "ထိုမျှမက လူသားသည် ကောင်းကောင်းကိုက်၊ အ dam descended ဒါ့.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ထိုမျှမက"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ဒါ့"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ဒါ့"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ဒါ့"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ဒါ့"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ဒါ့"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ဒါ့"
+    }
+  ],
+  "timestamp": "2026-08-23T15:30:42.971554746Z",
+  "model": "glm-5.3"
+}

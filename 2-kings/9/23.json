@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 9:23",
+  "book": "2-kings",
+  "lang": "my",
+  "chapter": 9,
+  "translation": "And Yehoram turned his hands and fled, and said to Ahaziah: 'Treachery, O Ahaziah!'",
+  "tokens": [
+    {
+      "surface": "ויהפך",
+      "gloss": "and turned"
+    },
+    {
+      "surface": "יהורם",
+      "gloss": "Yehoram"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "his hands"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "and fled"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "and said"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ahaziah"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "treachery"
+    },
+    {
+      "surface": "אחזיה",
+      "gloss": "Ahaziah"
+    }
+  ],
+  "timestamp": "2026-08-23T11:05:40.327965225Z",
+  "model": "glm-5.3"
+}

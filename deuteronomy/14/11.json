@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "သန့်ရှင်းသော ငှက်ခပ်သိမ်းကို သင်တို့စားနိုင်၏။",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ခပ်သိမ်း"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ငှက်"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "သန့်ရှင်းသော"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "သင်တို့စားနိုင်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T09:02:38.970850747Z",
+  "model": "glm-5.3"
+}

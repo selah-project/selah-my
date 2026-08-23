@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "နှင့် ဟာနန်ယာ၊ အဲလမ်၊ အန်တော်သိယာ၊",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ဟာနန်ယာ"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "အဲလမ်"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "အန်တော်သိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:53.301754537Z",
+  "model": "glm-5.3"
+}

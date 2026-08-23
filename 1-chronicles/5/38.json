@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အခိတုဗ်သည် ⟨את⟩ ဇာဒေါက်ကို မွေးဘိစဉ် ဇာဒေါက်သည် ⟨את⟩ ရှာလုံကို မွေးဘိ၏။",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "အခိတုဗ်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘိစဉ်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဇာဒေါက်"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ဇာဒေါက်"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ဇာဒေါက်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေးဘိ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ရှာလုံ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ရှာလုံ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:01.400253933Z",
+  "model": "glm-5.3"
+}

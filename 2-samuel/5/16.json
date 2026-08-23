@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အဲလိရှာမာ၊ အဲလိယာဒါ၊ အဲလိပါလက်တို့ ။",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "အဲလိရှာမာ"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "အဲလိယာဒါ"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "အဲလိပါလက်"
+    }
+  ],
+  "timestamp": "2026-08-23T10:17:33.553816456Z",
+  "model": "glm-5.3"
+}

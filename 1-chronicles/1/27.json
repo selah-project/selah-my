@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "အဗ်ရာမ် — ⟨he⟩ သည် အဗ်ရာဟမ်။",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "အဗ်ရာမ်"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "he"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "အဗ်ရာဟမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:25.656181668Z",
+  "model": "glm-5.3"
+}

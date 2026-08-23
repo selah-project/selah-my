@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "သိုးမွေးနှင့် ပင်စိမ်းချည် ရောနှောထားသော အဝတ်ကို မဝတ်ပါနှင့်။",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ဝတ်"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ရောနှောထားသောအထည်"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "သိုးမွေး"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "နှင့်ပင်စိမ်းချည်"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ရောနှော၍"
+    }
+  ],
+  "timestamp": "2026-08-23T09:06:23.806425477Z",
+  "model": "glm-5.3"
+}

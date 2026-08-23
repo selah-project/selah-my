@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "သူသည် ⟨the⟩ လေးကို ထိုး၍ ငါ့ကို ⟨the⟩ မြားအတွက် ပစ်မှတ်အဖြစ် တင်ထား၏။",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ထိုး၍"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "သူ၏လေးကို"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "ငါ့ကို တည်စေ၍"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "ပစ်မှတ်ကဲ့သို့"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "မြားအတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:50.643886582Z",
+  "model": "glm-5.3"
+}

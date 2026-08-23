@@ -1,0 +1,17 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 14:15",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ဤအပိုင်းတွင်လည်း နောက်ထပ် အချက်အလက်များ မရှိပါ။",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "ဖျောင်းဖြသော"
+    }
+  ],
+  "timestamp": "2026-08-23T09:46:23.564123937Z",
+  "model": "glm-5.3"
+}

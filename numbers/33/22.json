@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 33:22",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ရိဿာမှ ထွက်ခွာသွားကြ၍ ကေဟေလာသာ၌ စခန်းချကြ၏။",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ထွက်ခွာသွားကြ၍"
+    },
+    {
+      "surface": "מרסה",
+      "gloss": "ရိဿာမှ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "စခန်းချကြ၏"
+    },
+    {
+      "surface": "בקהלתה",
+      "gloss": "ကေဟေလာသာ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T08:51:50.937891366Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 42,
+  "translation": "နေ့တစ်ဆယ် ကုန်ဆုံးသောအခါ ယာဝေ၏ စကားသည် ယိရမိယာထံ ရောက်လာသည်။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်ပါစေသည်အခါ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ကုန်ဆုံးသောအခါ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "တစ်ဆယ်"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ရှိလာသည်"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "စကား"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ယိရမိယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T12:34:24.128911470Z",
+  "model": "glm-5.3"
+}

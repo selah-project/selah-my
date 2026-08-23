@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 22:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 22,
+  "translation": "ထိုအခါ အေလိဖဇ် တေမာနိုင်သည် ဖြေဆို၍ ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ဖြေဆို၍"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "အေလိဖဇ်"
+    },
+    {
+      "surface": "התמני",
+      "gloss": "တေမာနိုင်သည်"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ဆို၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:30:01.705325984Z",
+  "model": "glm-5.3"
+}

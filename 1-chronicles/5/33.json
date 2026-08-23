@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "မေရာသည် ⟨את⟩ အမရိယာကို ဖွားမြင်၍ အမရိယာသည် ⟨את⟩ အခိတုဗ်ကို ဖွားမြင်၏။",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "မေရာသ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားမြင်၍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အမရိယာ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "အမရိယာ"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "အမရိယာသည်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားမြင်၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အခိတုဗ်"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "အခိတုဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:08.918601233Z",
+  "model": "glm-5.3"
+}

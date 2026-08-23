@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "မိခ်မာသ်မြို့သားများ — တစ်ရာ နှစ်ဆယ် နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "မြို့သားများ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "မိခ်မာသ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "နှင့် နှစ်ဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှင့် နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:47.837324943Z",
+  "model": "glm-5.3"
+}

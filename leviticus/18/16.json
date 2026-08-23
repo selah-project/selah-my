@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 18,
+  "translation": "သင်အစ်ကို၏မယား၏ ကိုယ်ရှက်ကို မဖော်ပြနှင့်၊ အစ်ကိုညီ၏ ကိုယ်ရှက် ⟨ဖြစ်၏⟩။",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ကိုယ်ရှက်"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "မယား"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "သင်အစ်ကို၏"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ဖော်ပြနှင့်"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "ကိုယ်ရှက်"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "အစ်ကိုညီ၏"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ဖြစ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T08:15:11.126197285Z",
+  "model": "glm-5.3"
+}

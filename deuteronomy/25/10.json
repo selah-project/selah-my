@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 25,
+  "translation": "၎င်းသူ့နာမည်ကို ဣသရေလ၌ 'ဖိနပ်ချွတ်ခံရသူ၏ အိမ်' ဟု ခေါ်ရမည်။",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ခေါ်ရမည်"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "၎င်းသူ့နာမည်ကို"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ဣသရေလ၌"
+    },
+    {
+      "surface": "בית",
+      "gloss": "အိမ်"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ချွတ်ခံရသူ၏"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ဖိနပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:09:58.231198890Z",
+  "model": "glm-5.3"
+}

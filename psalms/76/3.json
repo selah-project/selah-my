@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 76:3",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 76,
+  "translation": "ရှာလင်မ်၌ သူ့စုတန်း ရှိ၏၊ ဇိုင်အုန်၌ သူ့နေရာ ရှိ၏။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "בשלם",
+      "gloss": "ရှာလင်မ်၌"
+    },
+    {
+      "surface": "סכו",
+      "gloss": "သူ့စုတန်း"
+    },
+    {
+      "surface": "ומעונתו",
+      "gloss": "သူ့နေရာ"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ဇိုင်အုန်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T14:28:49.103428930Z",
+  "model": "glm-5.3"
+}

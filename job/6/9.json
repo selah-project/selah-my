@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 6:9",
+  "book": "job",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "မည်သို့ဇိမ်ခံနိုင်အံ့နည်း — ဧလောဟ်က သဘောဖြင့် ငါ့ကို ကြိတ် crushed လိုသည် ၎င်း၏လက်ကို လွှတ်၍ ငါ့ကို ဖြတ်လိုသည်",
+  "tokens": [
+    {
+      "surface": "ויאל",
+      "gloss": "သဘောအလိုုပြုရန် ငြင်းဆို၏ (and would be pleased)"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ဧလောဟ်"
+    },
+    {
+      "surface": "וידכאני",
+      "gloss": "ငါ့ကို crushing လုပ်၏"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "letting loose ၏ (hand letting loose, LXX understands ‘untie’)"
+    }
+  ],
+  "timestamp": "2026-08-23T15:19:25.856678193Z",
+  "model": "glm-5.3"
+}

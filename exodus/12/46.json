@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "အိမ်တစ်လုံးတည်း၌ ၎င်းကို စားရမည်၊ ⟨the⟩ အိမ်မှ ⟨the⟩ အသားကို အပြင်သို့ မထုတ်ယူရ၊ အရိုးတစ်ခုကိုပင် ၎င်း၌ မကွဲရ။",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "အိမ်၌"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်လုံးတည်း"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "စားရမည်"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ထုတ်ယူရ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "မှ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩ အိမ်"
+    },
+    {
+      "surface": "מן",
+      "gloss": "မှ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨the⟩ အသား"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "အပြင်သို့"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "အရိုးကိုပင်"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ကွဲရ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "၎င်း၌"
+    }
+  ],
+  "timestamp": "2026-08-23T07:41:11.896712327Z",
+  "model": "glm-5.3"
+}

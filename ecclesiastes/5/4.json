@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "သီလာမပြုခြင်းက ပြု၍ ပြည့်စုံမစေခြင်းထက် သာလွန်ကောင်းမွန်၏။",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ကောင်းမွန်၏"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "သိုး"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "သီလာမပြုခြင်း"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ပြု၍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ပြည့်စုံမစေခြင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T15:55:30.557817237Z",
+  "model": "glm-5.3"
+}

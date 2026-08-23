@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "ဇဗူလုန်အမျိုးအနွယ်အနက်မှ ဂဒ္ဒိဧလ်၊ ဆိုဒိ၏သား။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အမျိုးအနွယ်အနက်မှ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ဇဗူလုန်"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ဂဒ္ဒိဧလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "ဆိုဒိ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:13.913773452Z",
+  "model": "glm-5.3"
+}

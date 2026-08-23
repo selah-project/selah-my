@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဗုန္နီ၊ အဇဂတ်၊ ဗေဘိုင်၊",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ဗုန္နီ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "အဇဂတ်"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ဗေဘိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T18:15:35.378257031Z",
+  "model": "glm-5.3"
+}

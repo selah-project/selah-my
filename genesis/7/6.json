@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "နော (အမည်: နောချ) သည် အသက်ခြောက်ရာနှစ် ရှိသောအခါ ⟨the⟩ ရေကြီးမှု သည် မြေကြီး ⟩ပေါ်၌ ဖြစ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "နောချ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ခြောက်"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ရေကြီးမှု"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ဖြစ်ခဲ့သည်"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ရေများ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ပေါ်၌"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "မြေကြီး"
+    }
+  ],
+  "timestamp": "2026-08-23T17:25:13.697485558Z",
+  "model": "glm-5.3"
+}

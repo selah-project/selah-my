@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "သူမသည် ဆူညံ၍ စိတ်မနာဘဲရှိ၏၊ သူမ၏အိမ်၌ သူမ၏ခြေတို့သည် မနားတုံပါ။",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "ဆူညံသော"
+    },
+    {
+      "surface": "היא",
+      "gloss": "သူမသည်"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "စိတ်မနာဘဲ"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "သူမ၏အိမ်၌"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "နားတုံ"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "သူမ၏ခြေတို့"
+    }
+  ],
+  "timestamp": "2026-08-23T15:01:04.000171775Z",
+  "model": "glm-5.3"
+}

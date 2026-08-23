@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ကေနန်၊ မဟလလေလ်၊ ယာရက်။",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "ကေနန်"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "မဟလလေလ်"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ယာရက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:21.193700835Z",
+  "model": "glm-5.3"
+}

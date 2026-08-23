@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "တတိယ အဗ်ရှလုန် — မာခါ၏သား၊ တလ်မိ ၏သမီး၊ ဂေရှုရ် ၏ဘုရား; စတုတ္ထ အဒိုနိယ — ခဂိတ် ၏သား။",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "တတိယ"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "အဗ်ရှလုန်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "မာခါ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "၏သမီး"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "တလ်မိ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရား"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ဂေရှုရ်"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "စတုတ္ထ"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "အဒိုနိယ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "၏သား"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "ခဂိတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:27.454566989Z",
+  "model": "glm-5.3"
+}

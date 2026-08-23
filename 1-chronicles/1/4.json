@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "နောခ်၊ ရှက်မ်၊ ခါမ်၊ ယာဖက်သ်။",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "နောခ်"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ရှက်မ်"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ခါမ်"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "နှင့် ယာဖက်သ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:21.193947366Z",
+  "model": "glm-5.3"
+}

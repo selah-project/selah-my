@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 8:14",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ဒုတိယလ ၌ လ ၏ ရက်သတ္တတစ်ဆယ့ခုနှစ်ရက်နေ့ ၌ မြေကြီးသည် ⟨ခမ်းသွေ့ ⟩ လေ၏။",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "လ ၌"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ဒုတိယ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ခုနှစ်"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "နှင့် နှစ်ဆယ်"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ရက်"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "လ ၏"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ခမ်းသွေ့လေ၏"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "မြေကြီး"
+    }
+  ],
+  "timestamp": "2026-08-23T07:04:20.617978561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 35,
+  "translation": "ယိတ်စဟာက်၏နေ့ရက်တို့သည် နှစ်တစ်ရာနှင့် ရှစ်ဆယ် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "နေ့ရက်တို့"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ယိတ်စဟာက်၏"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "နှင့် ရှစ်ဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:22:09.085437788Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မေရှေဇာဗေအလ်၊ ဇာဒောက်၊ ယဒ္ဒူအာ။",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "မေရှေဇာဗေအလ်"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ဇာဒောက်"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ယဒ္ဒူအာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.176134317Z",
+  "model": "glm-5.3"
+}

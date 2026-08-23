@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 119:36",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 119,
+  "translation": "Incline my heart to testimonies, and not to unjust gain.",
+  "tokens": [
+    {
+      "surface": "הט",
+      "gloss": "Incline"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "my heart"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "עדותיך",
+      "gloss": "testimonies"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "and not to"
+    },
+    {
+      "surface": "אל",
+      "gloss": "to"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "unjust gain"
+    }
+  ],
+  "timestamp": "2026-08-23T14:46:20.782196847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 17:12",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 17,
+  "translation": "မိကာသည် ⟨את⟩ လာဗီသား၏ လက်ကို ပြည့်စေ၏။ ထိုလူပျိုသည် သူ့ယဇ်ပုရောဟိတ် ဖြစ်လေ၏။ မိကာ့အိမ်၌ နေလေ၏။",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ပြည့်စေ၏"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "လာဗီသား၏ လက်"
+    },
+    {
+      "surface": "יד",
+      "gloss": "လက်"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "လာဗီသား၏"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "လו_placeholder",
+      "gloss": ""
+    },
+    {
+      "surface": "לו",
+      "gloss": "သူ့"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ထိုလူပျို"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "ယဇ်ပုရောဟိတ်"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "နေလေ၏"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "…အိမ်၌"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ့"
+    }
+  ],
+  "timestamp": "2026-08-23T09:48:04.055810126Z",
+  "model": "glm-5.3"
+}

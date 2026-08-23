@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဇေဘုလုန်အမျိုး၊ ဇေဘုလုန်သားများ၏ မင်းသားမှာ ဟေလုန်၏သား ဧလိအဗ်ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "အမျိုး"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ဇေဘုလုန်"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "မင်းသား"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "သားများ၏"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ဇေဘုလုန်"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ဧလိအဗ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ဟေလုန်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:26:13.712479970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "ယာဝေသည် မိုရှေအား မိန့်တော်မူ၏ — ဤသို့ ဆိုလော့ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့ ဆိုလော့"
+    }
+  ],
+  "timestamp": "2026-08-23T08:39:35.844890672Z",
+  "model": "glm-5.3"
+}

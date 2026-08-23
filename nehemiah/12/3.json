@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ဣဒျာဘေလ၊ ဣဒျာဘေလ၊ ဣဒျာဘေလ။",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ရှေကန်ယာ"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ရေခုမ်"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "မေရေမောသ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:09.163299565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ယိရှာရခါအား — နေတနဲလ်၊ ဇူအာရ်၏သား။",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ယိရှာရခါအား"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "နေတနဲလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ဇူအာရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:23:33.395080766Z",
+  "model": "glm-5.3"
+}

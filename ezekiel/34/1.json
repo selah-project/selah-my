@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ယာဝေ၏ နှုတ်ကပတ်တော်သည် ငါ့ဆီသို့ ရောက်လာ၍ ⟨မိန့်ဆိုသည်⟩။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လာ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မိန့်ဆို၍"
+    }
+  ],
+  "timestamp": "2026-08-23T13:11:50.908821292Z",
+  "model": "glm-5.3"
+}

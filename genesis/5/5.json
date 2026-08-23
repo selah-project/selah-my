@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အာဒမ်အသက်ရှင်သည့်နေ့များအားလုံးသည် နှစ်ကိုးရာ့သုံးဆယ်ဖြစ်၏၊ ၎င်းလည်းသေလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "နေ့များ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "အာဒမ်"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "၎င်း"
+    },
+    {
+      "surface": "חי",
+      "gloss": "အသက်ရှင်သည့်"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "နှင့်သုံးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "သေလေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:18.770011404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 42,
+  "translation": "အလျား တောင်အတိုင်း အထိ၊ မြောက်ဘက် တံခါးပေါက်၏ ရှေ့၌၊ နှင့် အနံ တောင် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "အထိ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ရှေ့၌"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "အလျား"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "တောင်"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "တံခါးပေါက်"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "မြောက်ဘက်"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "နှင့် အနံ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "တောင်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:17:34.450996124Z",
+  "model": "glm-5.3"
+}

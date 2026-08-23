@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 10:24",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဟောရှေအ၊ ခါနန်ယာ၊ ခရှ်ရှုဗ်။",
+  "tokens": [
+    {
+      "surface": "הושע",
+      "gloss": "ဟောရှေအ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ခါနန်ယာ"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ခရှ်ရှုဗ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.176374235Z",
+  "model": "glm-5.3"
+}

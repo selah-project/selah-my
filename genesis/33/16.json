@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ထိုနေ့၌ ဧသောသည် မိမိလမ်းသို့ပြန်၏ — သေီရ်ဆီသို့။",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ပြန်၏"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ထိုနေ့၌"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ထို"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ဧသော"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "မိမိလမ်းသို့"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "သေီရ်ဆီသို့"
+    }
+  ],
+  "timestamp": "2026-08-23T07:21:28.453771774Z",
+  "model": "glm-5.3"
+}

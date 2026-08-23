@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ယိရ်မေယာဟူသည် တဆယ်မြောက်၊ မခ်ဗန္နိုင်သည် တစ်ဆယ့်တစ်မြောက်၊",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ယိရ်မေယာဟူ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "တဆယ်မြောက်"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "မခ်ဗန္နိုင်"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "တစ်ဆယ့်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:49:28.226068777Z",
+  "model": "glm-5.3"
+}

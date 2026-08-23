@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယာခတ်၏သား၊ ဂေရeshom၏သား၊ လေဝိ၏သား။",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ယာခတ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ဂေရeshom"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "လေဝိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:43:55.410842629Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဇာဗတ်သည် ⟨את⟩ ဧဖလလ်ကို ဖွားသည်၊ ဧဖလလ်သည် ⟨את⟩ ဩဗက်ကို ဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ဇာဗတ်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဧဖလလ်"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ဧဖလလ်"
+    },
+    {
+      "surface": "वאפלל",
+      "gloss": "ဧဖလလ်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဩဗက်"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ဩဗက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:07.538689632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "တခတ် - သူ၏သား၊ ဧုရိဧလ် - သူ၏သား၊ ဧုဇီယာ - သူ၏သား၊ ရှာအုလ်လည်း - သူ၏သားဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "တခတ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ဧုရိဧလ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "ဧုဇီယာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "ရှာအုလ်လည်း"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:35.080452375Z",
+  "model": "glm-5.3"
+}

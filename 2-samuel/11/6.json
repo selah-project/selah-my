@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 11:6",
+  "book": "2-samuel",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဒါဝိDonate်သည် ယောအဘထံ စေလွှတ်၍ — အာရူunyaာ ဟတ်တိလူကို ⟨את⟩ ငါ့ထံ စေလွှတ်လော့ — ယောအဘသည်လည်း ⟨את⟩ အာရူunyaာကို ဒါဝိDonate်ထံ စေလွှတ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "စေလွှတ်၍"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိDonate်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ယောအဘ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "စေလွှတ်လော့"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ထံ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အာရူunyaာ ဟတ်တိလူ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "အာရူunyaာ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ဟတ်တိလူ"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "စေလွှတ်၍"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ယောအဘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အာရူunyaာ"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "အာရူunyaာ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ဒါဝိDonate်"
+    }
+  ],
+  "timestamp": "2026-08-23T10:21:47.369241354Z",
+  "model": "glm-5.3"
+}

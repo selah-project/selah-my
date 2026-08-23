@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "နှင့် ဧလ်တောလာဒ်၊ ဗေသုလ်နှင့် ဟော်မာ။",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "နှင့် ဧလ်တောလာဒ်"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "နှင့် ဗေသုလ်"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "နှင့် ဟော်မာ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:29:39.019231561Z",
+  "model": "glm-5.3"
+}

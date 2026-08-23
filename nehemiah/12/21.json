@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ခေါ်ကိမ်၏သား ခရှဗ်ယာ; ယိဒါ၏သား နေသနေအဲလ်။",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "ခေါ်ကိမ်၏"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ခရှဗ်ယာ"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "ယိဒါ၏"
+    },
+    {
+      "surface": "နေသနေအဲလ်",
+      "gloss": "နေသနေအဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:22.880119698Z",
+  "model": "glm-5.3"
+}

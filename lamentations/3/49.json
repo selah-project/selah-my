@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ငါ၏မျက်စိသည် ယိုစီး၏၊ နားရန်မရှိသဖြင့် မရပ်တန့်ပါ။",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ငါ၏မျက်စိ"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ယိုစီး၏"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မရပ်တန့်"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "မရပ်"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "မရှိသဖြင့်"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "နားရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:48:49.954302550Z",
+  "model": "glm-5.3"
+}

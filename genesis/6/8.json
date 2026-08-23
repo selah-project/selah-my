@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "နောက်သော် နောခသည် ယာဝေ၏မျက်လုံးများ၌ မင်္ဂလာခံရသည်။",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "နောက်သော် နောခ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ခံရသည်"
+    },
+    {
+      "surface": "חן",
+      "gloss": "မင်္ဂလာ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "မျက်လုံးများ၌"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T07:04:02.341390740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 11:7",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "But against all the children of Yisrael no dog will sharpen its tongue — against man and even against beast — so that you may know that YHWH distinguishes between Mitsrayim and between Yisrael.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "and-against-all"
+    },
+    {
+      "surface": "בני",
+      "gloss": "the children of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "יחרץ",
+      "gloss": "will-sharpen"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "a dog"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "its tongue"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "against man"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "and-as-far-as"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "beast"
+    },
+    {
+      "surface": "למען",
+      "gloss": "so-that"
+    },
+    {
+      "surface": "תדעון",
+      "gloss": "you-may-know"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "that"
+    },
+    {
+      "surface": "יפלה",
+      "gloss": "distinguishes"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "YHWH"
+    },
+    {
+      "surface": "בין",
+      "gloss": "between"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "and-between"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    }
+  ],
+  "timestamp": "2026-08-23T07:40:50.111869416Z",
+  "model": "glm-5.3"
+}

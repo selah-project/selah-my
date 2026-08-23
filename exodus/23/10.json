@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-23T07:48:00.563613883Z",
+  "model": "glm-5.3"
+}

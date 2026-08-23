@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "မိုဇာသည် ⟨את⟩ ဗိန်အာကို မွေး၏။ ရာဖာသည် သူ၏သား၊ ဧလ်အာသာသည် သူ၏သား၊ အာဇေလ်သည် သူ၏သားဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "မိုဇာ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "မွေး၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဗိန်အာ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "ဗိန်အာ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "ရာဖာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ဧလ်အာသာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "အာဇေလ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:04.879829931Z",
+  "model": "glm-5.3"
+}

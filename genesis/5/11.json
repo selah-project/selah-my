@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အေနောရှ်၏ ⟨the⟩ နေ့အားလုံးသည် နှစ်ကိုးရာ့ငါးနှစ် ⟨was⟩ ဖြစ်၍ ကွယ်လွန်သည်။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်၍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ယမိ",
+      "gloss": "နေ့များ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "အေနောရှ်၏"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ကွယ်လွန်သည်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:10.905253573Z",
+  "model": "glm-5.3"
+}

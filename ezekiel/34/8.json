@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 34:8",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ဤဒေသနာ၏ ဆက်လက်ပြန်ဆိုချက်ကို အောက်တွင်တင်ပြပါမည်။",
+  "tokens": [],
+  "timestamp": "2026-08-23T13:09:59.753420991Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မိခါ၊ ရေခေါဘ်၊ ခရှဗ်ယာ။",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "မိခါ"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "ရေခေါဘ်"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ခရှဗ်ယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:38.998210761Z",
+  "model": "glm-5.3"
+}

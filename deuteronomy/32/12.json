@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 32,
+  "translation": "ယာဝေ သည်သာလျှင် သူများကို လမ်းပြ၏၊ နိုင်ငံခြားသား ဘုရားတစ်ပါးမျှ သူနှင့်အတူ မရှိ။",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "သာလျှင်"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "လမ်းပြ၏"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "သူနှင့်အတူ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ဘုရား"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "နိုင်ငံခြားသား"
+    }
+  ],
+  "timestamp": "2026-08-23T09:16:13.573581484Z",
+  "model": "glm-5.3"
+}

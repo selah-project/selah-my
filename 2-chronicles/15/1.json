@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "အောဒက်၏သား အာဇာရိ-ယာဟူ၏အပေါ်သို့ ဧလောဟိမ်၏ရုအာခ်သည် ကျရောက်ခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "အာဇာရိ-ယာဟူ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "အောဒက်"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ကျရောက်ခဲ့၏"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "အပေါ်သို့"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ရုအာခ်"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ဧလောဟိမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T17:10:53.731197979Z",
+  "model": "glm-5.3"
+}

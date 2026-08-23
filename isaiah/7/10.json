@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ယာဝေသည် ထပ်မံ၍ အာခါဇထံသို့ စကားကို ဟောကြားတော်မူ၏။",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "ထပ်မံ၍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "စကားကို ဟောကြား"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ထံသို့"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "အာခါဇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဟူ၍"
+    }
+  ],
+  "timestamp": "2026-08-23T11:24:52.444968948Z",
+  "model": "glm-5.3"
+}

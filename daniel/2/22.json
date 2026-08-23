@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 2:22",
+  "book": "daniel",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "深层の事と隠された事を彼は現され、やみの中にあるものを知っておられる、光は彼とともに宿る。",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "彼は"
+    },
+    {
+      "surface": "גלא",
+      "gloss": "現される"
+    },
+    {
+      "surface": "עמיקתא",
+      "gloss": "深い事を"
+    },
+    {
+      "surface": "ומסתרתא",
+      "gloss": "隠された事と"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "知っておられる"
+    },
+    {
+      "surface": "מה",
+      "gloss": "何が"
+    },
+    {
+      "surface": "בחשוכא",
+      "gloss": "やみの中に"
+    },
+    {
+      "surface": "ונהירא",
+      "gloss": "光は"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "とともに"
+    },
+    {
+      "surface": "שרא",
+      "gloss": "宿る"
+    }
+  ],
+  "timestamp": "2026-08-23T16:05:43.345195468Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "သူ၏ဘယ်လက်သည် ငါ့ခေါင်းအောက်၌ ⟨ရှိ၏⟩၊ သူ၏ညာလက်သည် ငါ့ကို ဖက်တွာ့၏။",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "သူ၏ဘယ်လက်"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "အောက်၌"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ငါ့ခေါင်း"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "သူ၏ညာလက်"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ငါ့ကို ဖက်တွာ့၏"
+    }
+  ],
+  "timestamp": "2026-08-23T15:43:50.571502151Z",
+  "model": "glm-5.3"
+}

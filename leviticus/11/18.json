@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "နှင့် ⟨את⟩ တိနှက်၊ နှင့် ⟨את⟩ ကချငှက်၊ နှင့် ⟨את⟩ ရခမ်ငှက်",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "နှင့် ⟨את⟩",
+      "marks": "တိနှက်"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "တိနှက်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "နှင့် ⟨את⟩",
+      "marks": "ကချငှက်"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "ကချငှက်"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "နှင့် ⟨את⟩",
+      "marks": "ရခမ်ငှက်"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "ရခမ်ငှက်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:09:00.314415228Z",
+  "model": "glm-5.3"
+}

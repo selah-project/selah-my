@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "လောタン၏သားများမှာ ဟောရိ၊ ဟောမမ်တို့ဖြစ်၏။ လောတန်၏ညီမမှာ တိမ်နာဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "လောタン"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ဟောရိ"
+    },
+    {
+      "surface": "वहोमם",
+      "gloss": "ဟောမမ်"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ညီမ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "လောတန်"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "တိမ်နာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:38:34.886602842Z",
+  "model": "glm-5.3"
+}

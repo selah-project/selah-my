@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 15,
+  "translation": "တောင်တန်းဒေသ၌ — ရှာမိရ်၊ ယတ်တိရ်၊ ရှိုခေါ၊",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "တောင်တန်းဒေသ၌"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ရှာမိရ်"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "ယတ်တိရ်"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "ရှိုခေါ"
+    }
+  ],
+  "timestamp": "2026-08-23T09:28:29.935133236Z",
+  "model": "glm-5.3"
+}

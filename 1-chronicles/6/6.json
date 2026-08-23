@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယိုအာခ၊ ၎င်း၏သား၊ ဣဒ္ဒူ၊ ၎င်း၏သား၊ ဇေရခ၊ ၎င်း၏သား၊ ယာအသရိုင်၊ ၎င်း၏သား။",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "ယိုအာခ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "ဣဒ္ဒူ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ဇေရခ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "ယာအသရိုင်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "၎င်း၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:38.035603340Z",
+  "model": "glm-5.3"
+}

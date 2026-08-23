@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ယာအရက်ရှီယာ၊ အေလိယာ၊ ဇိခ်ရိတို့သည် ယေရောခမ်၏သားများဖြစ်ကုန်၏။",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ယာအရက်ရှီယာ"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "အေလိယာ"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ဇိခ်ရိ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ယေရောခမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:20.896401060Z",
+  "model": "glm-5.3"
+}

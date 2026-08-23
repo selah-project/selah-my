@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဟော၊ ဇိယုန်၊ ဗာဗုလ်သမီးနှင့်အတူ နေထိုင်သော သင်သည် ထွက်ပြေးလော့။",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ဟော"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ဇိယုန်"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ထွက်ပြေးလော့"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "နေထိုင်သော"
+    },
+    {
+      "surface": "בת",
+      "gloss": "သမီး"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ဗာဗုလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:52:23.597909828Z",
+  "model": "glm-5.3"
+}

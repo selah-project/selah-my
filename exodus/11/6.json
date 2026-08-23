@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 11:6",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "And there will be a great outcry in all the land of Mitsrayim, the like of which has never been, and the like of which will never be added again.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "and-there-will-be"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "outcry"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "great"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "in all"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "the land of"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Mitsrayim"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "which"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "like it"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "has-been"
+    },
+    {
+      "surface": "וכמהו",
+      "gloss": "and like it"
+    },
+    {
+      "surface": "לא",
+      "gloss": "not"
+    },
+    {
+      "surface": "תסף",
+      "gloss": "will-be-added-again"
+    }
+  ],
+  "timestamp": "2026-08-23T07:40:50.111688201Z",
+  "model": "glm-5.3"
+}

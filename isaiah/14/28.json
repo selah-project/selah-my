@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "မင်းကြီး အာခတ် နတ်ရွာစံသည့်နှစ်၌ ဤတာဝန်ကို ရရှိခဲ့၏။",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "နှစ်၌"
+    },
+    {
+      "surface": "מות",
+      "gloss": "သေခြင်း"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "မင်းကြီး"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "အာခတ်"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ရရှိခဲ့၏"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "တာဝန်"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ဤ"
+    }
+  ],
+  "timestamp": "2026-08-23T11:29:34.778422364Z",
+  "model": "glm-5.3"
+}

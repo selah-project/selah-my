@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "နေတိုဖဟ် လူများ — ငါးဆယ်နှင့် ခြောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "လူများ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "နေတိုဖဟ်"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ငါးဆယ်"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "နှင့် ခြောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:18:58.386727253Z",
+  "model": "glm-5.3"
+}

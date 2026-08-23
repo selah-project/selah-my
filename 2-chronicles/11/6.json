@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ထို့နောက် ⟨את⟩ ဗက်လက် (Beitlekhem) ကို၎င်း၊ ⟨את⟩ ဧတမ် (Etam) ကို၎င်း၊ ⟨את⟩ တကွာ (Taqoa) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ဆောက်လုပ်လေ၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ဗက်လက် (Beitlekhem)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက် (Beit) —"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "—လက် (lekhem)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "ဧတမ် (Etam)"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ဧတမ် (Etam)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "တကွာ (Taqoa)"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "တကွာ (Taqoa)"
+    }
+  ],
+  "timestamp": "2026-08-23T17:04:07.285417973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "လေကိရှ်—ကိရှ်၏သားများ—ယေရခမ်အဲလ်။",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "လေကိရှ်"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "ကိရှ်၏"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ယေရခမ်အဲလ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:55:34.673373557Z",
+  "model": "glm-5.3"
+}

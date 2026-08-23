@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 46,
+  "translation": "ရောဘင်၏သားများ — ခနောခ်၊ ဖလူ၊ ခက်ဇရုန်၊ ခာမိ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ရောဘင်"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ခနောခ်"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ဖလူ"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ခက်ဇရုန်"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ခာမိ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:30:24.058549160Z",
+  "model": "glm-5.3"
+}

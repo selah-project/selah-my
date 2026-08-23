@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ရေဟုမ်၊ ဟရှဗ်နာ၊ မာအစေယာ။",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ရေဟုမ်"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "ဟရှဗ်နာ"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "မာအစေယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.857687684Z",
+  "model": "glm-5.3"
+}

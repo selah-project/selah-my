@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ဧလကာနာ - သူ၏သားများမှာ - ဧလကာနာ၊ ဇောဖိ၊ သူ၏သား၊ နာခတ်လည်း - သူ၏သားဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "ဧလကာနာ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ဧလကာနာ"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "ဇောဖိ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "နာခတ်လည်း"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:42:35.080877726Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဥလ္လာ၏သားများမှာ — အရာခ်၊ ခနိနီအဲလ်၊ ရိဇ်ယာ။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…၏သားများ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ဥလ္လာ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "အရာခ်"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ခနိနီအဲလ်"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ရိဇ်ယာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:15.295977770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "ငါသည် အောက်ဖျားကျင်းမှ သင်၏နာမတော်ကို ယာဝေ၊ ခေါ်တောင်းခံ၏။",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ငါသည် ခေါ်တောင်းခံ၏"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "သင်၏နာမတော်ကို"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ကျင်းမှ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "အောက်ဖျား"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:57.603839242Z",
+  "model": "glm-5.3"
+}

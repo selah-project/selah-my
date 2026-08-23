@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 12:10",
+  "book": "joshua",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ယေရုရှာလိုင်မ်၏ ဘုရင် တစ်ပါး၊ ခေဗြုန်၏ ဘုရင် တစ်ပါး။",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ယေရုရှာလိုင်မ်၏"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ဘုရင်"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ခေဗြုန်၏"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်ပါး"
+    }
+  ],
+  "timestamp": "2026-08-23T17:38:40.949360192Z",
+  "model": "glm-5.3"
+}

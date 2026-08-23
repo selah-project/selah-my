@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ရှလုံ၊ အမရိယာ၊ ယောသပ်။",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ရှလုံ"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "အမရိယာ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ယောသပ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:27:12.123509775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "တွင်"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ပထမ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "သန့်ရှင်းသောအစည်းအဝေး"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "သန့်ရှင်းသော"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အလုံးစုံသော"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "အလုပ်"
+    },
+    {
+      "surface": "עבדা",
+      "gloss": "ကျွန်သဘောအလုပ်"
+    },
+    {
+      "surface": "לא",
+      "gloss": "မ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ပြုကြကုန်လင့်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:20:56.805114047Z",
+  "model": "glm-5.3"
+}

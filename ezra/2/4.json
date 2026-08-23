@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ရှေဖတ်ယာ၏သားများ — သုံးရာ၊ ခုနစ်ဆယ်၊ နှစ်ယောက် —",
+  "tokens": [
+    {
+      "surface": "बनी",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "शफत्या",
+      "gloss": "ရှေဖတ်ယာ၏"
+    },
+    {
+      "surface": "शलोश",
+      "gloss": "သုံး"
+    },
+    {
+      "surface": "मोत",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "शिब्तीम",
+      "gloss": "ခုနစ်ဆယ်"
+    },
+    {
+      "surface": "वशनीम",
+      "gloss": "နှစ်ယောက်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:20:34.573573425Z",
+  "model": "glm-5.3"
+}

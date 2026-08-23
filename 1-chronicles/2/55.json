@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "1-chronicles 2:55",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "<value not translated>",
+  "tokens": [
+    {
+      "surface": "ומשפחות",
+      "gloss": "တို့၏ မျိုးနွယ်များကလည်း"
+    },
+    {
+      "surface": "စောရေးစာရှင်များ",
+      "gloss": ""
+    },
+    {
+      "surface": "ယာဘက်ဇ်ဇ်တွင်နေထိုင်ကြသော",
+      "gloss": ""
+    },
+    {
+      "surface": "တိရာတိီများ",
+      "gloss": ""
+    },
+    {
+      "surface": "ရှိမာတိီများ",
+      "gloss": ""
+    },
+    {
+      "surface": "ဇွခါတ်တိီများ ဤသူတို့သည်",
+      "gloss": ""
+    },
+    {
+      "surface": "ုးခိနိီ",
+      "gloss": ""
+    },
+    {
+      "surface": "ေတို့",
+      "gloss": "ဖြစ်ကြ၍"
+    },
+    {
+      "surface": "ဂ်ဇာတ်",
+      "gloss": ""
+    },
+    {
+      "surface": "ဆီမှ",
+      "gloss": ""
+    },
+    {
+      "surface": "လာကြသူများ",
+      "gloss": ""
+    },
+    {
+      "surface": "ဖther",
+      "gloss": ""
+    },
+    {
+      "surface": "ဗက်-",
+      "gloss": "ဖခင် ၊"
+    },
+    {
+      "surface": "ရက်ခက်ဗ်အို家",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-23T16:41:04.426456033Z",
+  "model": "glm-5.3"
+}

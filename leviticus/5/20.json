@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ယာဝေသည် မိုရှေ့အား မိန့်တော်မူသည်ကား —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူသည်ကား"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေသည်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မိုရှေ့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဤသို့အမိန့်ရှိသည်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:05:00.834147726Z",
+  "model": "glm-5.3"
+}

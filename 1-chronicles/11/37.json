@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ခက်ဇ်ရော် ⟨သည်⟩ ခါမ်လ်လူ၊ နာအာရိုင်မှာ အက်ဇ်ဘိုင်၏သား။",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ခက်ဇ်ရော်"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ခါမ်လ်လူ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "နာအာရိုင်မှာ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "အက်ဇ်ဘိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:02.609452024Z",
+  "model": "glm-5.3"
+}

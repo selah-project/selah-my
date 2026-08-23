@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဟာရိပ်၏သားများ — တစ်ရာ့တစ်ဆယ်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ဟာရိပ်"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "တစ်ရာ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:27.543493438Z",
+  "model": "glm-5.3"
+}

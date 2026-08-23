@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ညဉ့်သန်းလာ၏၊ မိုးလင်းလာ၏ — ပဉ္စမနေ့တည်း။",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လာ၏"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ညဉ့်သန်း"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လာ၏"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "မိုးလင်း"
+    },
+    {
+      "surface": "יום",
+      "gloss": "နေ့"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ပဉ္စမ"
+    }
+  ],
+  "timestamp": "2026-08-23T07:01:05.621374009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "ဒါန်အား — အခိအေဇရ်၊ အမ္မိရှဒ္ဒိုင်၏သား။",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ဒါန်အား"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "အခိအေဇရ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "အမ္မိရှဒ္ဒိုင်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:24:31.138940659Z",
+  "model": "glm-5.3"
+}

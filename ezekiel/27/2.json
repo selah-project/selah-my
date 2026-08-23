@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "သင် လူသားသည် ဇောရ်အပေါ်၌ ငိုချင်းတစ်首ကို ⟨မြှောက်တင်⟩၍ ဆောင်ရွက်ပါ။",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "သင်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "လူသား"
+    },
+    {
+      "surface": "שא",
+      "gloss": "မြှောက်တင်၍"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်၌"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ဇောရ်"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ငိုချင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T13:06:09.851041354Z",
+  "model": "glm-5.3"
+}

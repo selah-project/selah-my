@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 14,
+  "translation": "ဖိလိသတို့သည် လာကြ၍ ရာဖာဣမ်ချိုင့်ဝှမ်း၌ ဖြန့်ကျက်ကြ၏။",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ဖိလိသတို့သည်"
+    },
+    {
+      "surface": "באו",
+      "gloss": "လာကြ၍"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ဖြန့်ကျက်ကြ၏"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ချိုင့်ဝှမ်း၌"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ရာဖာဣမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:48:33.898947421Z",
+  "model": "glm-5.3"
+}

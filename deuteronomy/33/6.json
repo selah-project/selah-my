@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ရုဗင်အား အသက်ရှင်ပါစေ၊ သေခြင်းမရှိပါစေ၊ ၎င်း၏လူများကို အရေအတွက်ရှိစေပါ။",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "အသက်ရှင်ပါစေ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ရုဗင်"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "မ…ပါစေ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "သေ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်ပါစေ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "၎င်း၏လူများ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "အရေအတွက်"
+    }
+  ],
+  "timestamp": "2026-08-23T09:17:42.636949804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "my",
+  "chapter": 32,
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-23T11:38:41.909219295Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "my",
+  "chapter": 3,
+  "translation": "အမှန် ငါ့ဆီသို့ပင် သူ လှည့်ပြန်၍ တနိုင်ငံလုံး သူ၏ လက်ကို လှန်လှောက်၏။",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "အမှန်"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ငါ့ဆီသို့ပင်"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "သူ လှည့်ပြန်၍"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "လှန်လှောက်၏"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "သူ၏ လက်ကို"
+    },
+    {
+      "surface": "כל",
+      "gloss": "တနိုင်ငံလုံး"
+    },
+    {
+      "surface": "היום",
+      "gloss": "နေ့တိုင်း"
+    }
+  ],
+  "timestamp": "2026-08-23T15:49:27.516279009Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ဆလ္လိအိမ်တော်မှ ကလ္လိ၊ အာမောက်အိမ်တော်မှ ဧဗေရ်၊",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "ဆလ္လိအိမ်တော်မှ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "ကလ္လိ"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "အာမောက်အိမ်တော်မှ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ဧဗေရ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:36:15.364710137Z",
+  "model": "glm-5.3"
+}

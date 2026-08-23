@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 1:15",
+  "book": "1-samuel",
+  "lang": "my",
+  "chapter": 1,
+  "translation": "vronaxm?onf?wdkif;pk.aygifr_?«?ch??0rf;u?0ef?ajrmufr_?awmif?cH?y?ajrmufr_?onf\/??olm?yg?rma&muf?yg?vrf;?A[a;&Sd?cJhaom?ynm?ol?ppfNyD;??csKd?ayguf?y?ae?ygonf\/»??a&?tjyif?ppf?ygonf?",
+  "tokens": [
+    {
+      "surface": "otuan",
+      "gloss": "wdkif;pk.aygifr_?"
+    },
+    {
+      "surface": "xna",
+      "gloss": "vronaxm?onf"
+    },
+    {
+      "surface": "otarm",
+      "gloss": "a&?tjyif?ppf?ygonf?"
+    },
+    {
+      "surface": "lay",
+      "gloss": "«?ch?"
+    },
+    {
+      "surface": "adny",
+      "gloss": "0rf;u"
+    },
+    {
+      "surface": "ash",
+      "gloss": "0ef"
+    },
+    {
+      "surface": "qyt",
+      "gloss": "ajrmufr_?awmif?cH"
+    },
+    {
+      "surface": "rva",
+      "gloss": "y?ajrmufr_?onf\/»"
+    },
+    {
+      "surface": "anoky",
+      "gloss": "«?"
+    },
+    {
+      "surface": "oyyn",
+      "gloss": "olm?yg"
+    },
+    {
+      "surface": "oykar",
+      "gloss": "rma&muf?yg"
+    },
+    {
+      "surface": "lay",
+      "gloss": "vrf;?A[a;&Sd?cJhaom?ynm"
+    },
+    {
+      "surface": "ytyty",
+      "gloss": "ol?ppfNyD;"
+    },
+    {
+      "surface": "vaypk",
+      "gloss": "csKd?ayguf?y?ae?ygonf\/»"
+    },
+    {
+      "surface": "at",
+      "gloss": "⟨את⟩ «at»",
+      "marks": "ae?udk"
+    },
+    {
+      "surface": "npy",
+      "gloss": "ae?udk"
+    },
+    {
+      "surface": "lpny",
+      "gloss": "txl;vHk;"
+    },
+    {
+      "surface": "yhvh",
+      "gloss": "yawE?udk?A[a;&Sd"
+    }
+  ],
+  "timestamp": "2026-08-23T09:52:40.609351186Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 19,
+  "translation": "တေးသွားဆရာအား — ဒါဝိဒ်၏ မဇ္ဈိမဂီတ။",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "တေးသွားဆရာအား"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "မဇ္ဈိမဂီတ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:07:53.190537765Z",
+  "model": "glm-5.3"
+}

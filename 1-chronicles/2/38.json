@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "ဩဗက်သည် ⟨את⟩ ယေဟူကို ဖွားသည်၊ ယေဟူသည် ⟨את⟩ အဇရိကို ဖွားသည်။",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "ဩဗက်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ယေဟူ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ယေဟူ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ယေဟူ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားသည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "အဇရိ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "အဇရိ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:39:07.538913169Z",
+  "model": "glm-5.3"
+}

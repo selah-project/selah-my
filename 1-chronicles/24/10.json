@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 24,
+  "translation": "သတ္တမမြောက်မှာ ဟာကော့ဇ်၊ အဋ္ဌမမြောက်မှာ အဗိယာ။",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ဟာကော့ဇ်"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "သတ္တမမြောက်မှာ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "အဗိယာ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "အဋ္ဌမမြောက်မှာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:10.384959113Z",
+  "model": "glm-5.3"
+}

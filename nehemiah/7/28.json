@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဗေသ-အဇ်မာဝက်မြို့သားများ — လေးဆယ့်နှစ်ယောက်။",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗေသ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "အဇ်မာဝက်"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "လေးဆယ်"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "နှစ်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:32:42.038490779Z",
+  "model": "glm-5.3"
+}

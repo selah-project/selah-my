@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ኤልሁምም መልሶ መልሶ ተናገረ።",
+  "tokens": [],
+  "timestamp": "2026-08-23T15:37:30.564136791Z",
+  "model": "glm-5.3"
+}

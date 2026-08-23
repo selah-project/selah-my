@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ယာဣရ်သေလေရာ၌ ကာမုန်၌မြှုပ်နှံခြင်းခံရ၏။",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "သေလေရာ၌"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ယာဣရ်"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "မြှုပ်နှံခြင်းခံရ၏"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "ကာမုန်၌"
+    }
+  ],
+  "timestamp": "2026-08-23T09:43:24.302245583Z",
+  "model": "glm-5.3"
+}

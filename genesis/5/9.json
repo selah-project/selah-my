@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "အေနောရှ်သည် နှစ်ကိုးဆယ် အသက်ရှင်၍ ကေနန်ကို ⟨את⟩ ဖွားမြင်သည်။",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်၍"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "အေနောရှ်"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ကိုးဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ဖွားမြင်သည်"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ကေနန်"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "ကေနန်"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:10.904808533Z",
+  "model": "glm-5.3"
+}

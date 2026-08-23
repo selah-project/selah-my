@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 73,
+  "translation": "ရှင်းလင်းချက် — အကျွန်ုပ်ကား ခြေတော်စုံမျှကာနီး၍ အခြေခုံများ လှည့်ပြောင်းသွားကုန်၏။",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "အကျွန်ုပ်ကား"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "မျှကာနီး၍"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "လှည့်ပြောင်း"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ခြေတော်စုံ"
+    },
+    {
+      "surface": "כאין",
+      "gloss": ""
+    },
+    {
+      "surface": "שפכה",
+      "gloss": " poured\/cast away"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "အခြေခုံများ"
+    }
+  ],
+  "timestamp": "2026-08-23T18:08:17.005934061Z",
+  "model": "glm-5.3"
+}

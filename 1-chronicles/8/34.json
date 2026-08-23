@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 8,
+  "translation": "ယေဟောနတန်၏သားမှာ မေရိဗ်-ဗာအလ်ဖြစ်၍ မေရိဗ်-ဗာအလ်သည် ⟨את⟩ မိကာကို ဖွားမြင်၏။",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ယေဟောနတန်"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "မေရိဗ်"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ဗာအလ်"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "မေရိဗ်-ဗာအလ်"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ဗာအလ်"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ဖွားမြင်၏"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မိကာ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "မိကာ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:07.686734535Z",
+  "model": "glm-5.3"
+}

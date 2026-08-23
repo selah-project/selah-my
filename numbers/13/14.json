@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 13,
+  "translation": "နာဖ်တလီအိမ်တော်စုမှ ဝေါဖ်စီ၏သား နာခ်ဗီ။",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "အိမ်တော်စုမှ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "နာဖ်တလီ"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "နာခ်ဗီ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ဝေါဖ်စီ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:34:20.468762102Z",
+  "model": "glm-5.3"
+}

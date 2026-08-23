@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "my",
+  "chapter": 33,
+  "translation": "ယာဝေ၏နှုတ်တော်သည် ငါ့ထံ ရောက်လာ၍ မိန့်တော်မူသည်ကား —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်တော်သည်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ထံ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "မိန့်တော်မူသည်ကား"
+    }
+  ],
+  "timestamp": "2026-08-23T13:09:31.103768194Z",
+  "model": "glm-5.3"
+}

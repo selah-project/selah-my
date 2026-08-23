@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 5,
+  "translation": "ရှေ၏နေ့များအားလုံးသည် နှစ်ကိုးရာ့တစ်ဆယ့်နှစ်ဖြစ်၏၊ ၎င်းလည်းသေလေ၏။",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ဖြစ်၏"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "နေ့များ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ရှေ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ဆယ်"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "နှင့်ကိုး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "သေလေ၏"
+    }
+  ],
+  "timestamp": "2026-08-23T07:02:18.770525260Z",
+  "model": "glm-5.3"
+}

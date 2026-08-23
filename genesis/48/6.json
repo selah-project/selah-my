@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 48:6",
+  "book": "genesis",
+  "lang": "my",
+  "chapter": 48,
+  "translation": "And your offspring, which you beget after them, shall be yours; they shall be called by the name of their brothers in their inheritance.",
+  "tokens": [
+    {
+      "surface": "ומולדתך",
+      "gloss": "နှင့် သင့်သားသမီးများ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "အကြောင်း"
+    },
+    {
+      "surface": "הולדת",
+      "gloss": "သင်မွေးဖွားသော"
+    },
+    {
+      "surface": "אחריהμ",
+      "gloss": "၎င်းတို့နောက်မှ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "သင့်အတွက်"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ရှိကြလတ္တံ့"
+    },
+    {
+      "surface": "על",
+      "gloss": "အားဖြင့်"
+    },
+    {
+      "surface": "שם",
+      "gloss": "နာမ"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "၎င်းတို့၏မောင်နှမများ၏"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ခေါ်ဝေါ်ခံရကြလတ္တံ့"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "၎င်းတို့၏အမွေ၌"
+    }
+  ],
+  "timestamp": "2026-08-23T17:28:39.624830940Z",
+  "model": "glm-5.3"
+}

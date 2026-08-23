@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "မန္တရားမပါဘဲ မြွေက ကိုက်လျှင်၊ တံစက်မြိုးသည့် သူအား အသုံးဝင်မှု မရှိ။",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "လျှင်"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ကိုက်လျှင်"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "မြွေက"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "မဟုတ်ဘဲ"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "မန္တရားမပါ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "မရှိ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "အသုံးဝင်မှု"
+    },
+    {
+      "surface": "לבעल",
+      "gloss": "…သော သူအား"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "တံစက်မြိုးသည့်"
+    }
+  ],
+  "timestamp": "2026-08-23T15:56:16.845574286Z",
+  "model": "glm-5.3"
+}

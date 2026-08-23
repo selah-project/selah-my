@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "ဣသရေလသည် ဒါဝိ_dead်အိမ်တော်ကို ဤနေ့တိုင်အောင် ပုန်ကန်သော ကျူးလွန်၏။",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ပုန်ကန်၏"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "အိမ်တော်ကို"
+    },
+    {
+      "surface": "ဒါဝိဒ်",
+      "gloss": "ဒါဝိ dead်"
+    },
+    {
+      "surface": "עד",
+      "gloss": "အောင်"
+    },
+    {
+      "surface": "היום",
+      "gloss": "နေ့တိုင်"
+    },
+    {
+      "surface": "هذا",
+      "gloss": "ဤ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:04:12.960704822Z",
+  "model": "glm-5.3"
+}

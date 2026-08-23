@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ကေဟတ်၏သားများ — အမ်ရမ်၊ ယိဇ်ဟာရ်၊ ဟေဗ်ရုန်၊ ဥဇီအေလ်၊ လေးယောက်။",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "ကေဟတ်"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "အမ်ရမ်"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ယိဇ်ဟာရ်"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ဟေဗ်ရုန်"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ဥဇီအေလ်"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "လေး"
+    }
+  ],
+  "timestamp": "2026-08-23T16:54:29.118712212Z",
+  "model": "glm-5.3"
+}

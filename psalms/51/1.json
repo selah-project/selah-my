@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "my",
+  "chapter": 51,
+  "translation": "ဝေါဟာရမှူးအား — ဒါဝိဒ်၏ တူရိယာသီချင်း",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ဝေါဟာရမှူးအား"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "တူရိယာသီချင်း"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ဒါဝိဒ်၏"
+    }
+  ],
+  "timestamp": "2026-08-23T14:19:50.683958915Z",
+  "model": "glm-5.3"
+}

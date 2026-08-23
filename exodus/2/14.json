@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 2:14",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 2,
+  "translation": "test",
+  "tokens": [],
+  "timestamp": "2026-08-23T07:36:27.070214120Z",
+  "model": "glm-5.3"
+}

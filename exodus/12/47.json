@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "my",
+  "chapter": 12,
+  "translation": "ဣသရေလတစ်ဆက်လုံးသည် ⟨את⟩ ၎င်းကို ပြုလုပ်ရမည်။",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "တစ်ဆက်လုံး"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "အသင်း"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ဣသရေလ"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ပြုလုပ်ရမည်"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "၎င်းကို (ပascăသခင်ပွဲတော်)"
+    }
+  ],
+  "timestamp": "2026-08-23T07:41:11.896870567Z",
+  "model": "glm-5.3"
+}

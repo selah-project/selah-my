@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "my",
+  "chapter": 10,
+  "translation": "နှင့် ⟨အာဟိယာ⟩၊ ဟာနန်၊ အာနန်။",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "နှင့် အာဟိယာ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ဟာနန်"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "အာနန်"
+    }
+  ],
+  "timestamp": "2026-08-23T16:34:35.857778481Z",
+  "model": "glm-5.3"
+}

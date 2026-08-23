@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 7:20",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 7,
+  "translation": "ဧဖရိမ်၏သားများမှာ ရှူသေလခ်၊ ဗေရက် သူ၏သား၊ တာခတ် သူ၏သား၊ ဧလာဒါ သူ၏သား၊ တာခတ် သူ၏သား။",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "၏သားများ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ဧဖရိမ်"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "ရှူသေလခ်"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "ဗေရက်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "တာခတ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ואלעדה",
+      "gloss": "ဧလာဒါ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "တာခတ်"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "သူ၏သား"
+    }
+  ],
+  "timestamp": "2026-08-23T16:44:20.271666336Z",
+  "model": "glm-5.3"
+}

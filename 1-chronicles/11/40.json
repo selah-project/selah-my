@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "ဣရမှာ ⟨သည်⟩ ယိသ်ရိလူ၊ ဂါရက်ဗ် ⟨သည်⟩ ယိသ်ရိလူ။",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ဣရမှာ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ယိသ်ရိလူ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ဂါရက်ဗ်"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ယိသ်ရိလူ"
+    }
+  ],
+  "timestamp": "2026-08-23T16:45:02.609936311Z",
+  "model": "glm-5.3"
+}

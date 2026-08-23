@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "my",
+  "chapter": 6,
+  "translation": "ယာဝေ၏ နှုတ်ကပတ်တော်သည် ငါ့ဆီသို့ ⟨လာ၍⟩ ပြောဆိုသည်မှာ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လေ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါ့ဆီသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ပြောဆိုရန်"
+    }
+  ],
+  "timestamp": "2026-08-23T13:52:41.125373104Z",
+  "model": "glm-5.3"
+}

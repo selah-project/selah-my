@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "အနီးရှိ ဘုရားတစ်ပါး ငါဖြစ်သလော ယာဝေ မိန့်တော်မူ၏၊ အဝေးရှိ ဘုရားတစ်ပါး မဖြစ်သလော။",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "ဘုရား"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "အနီးရှိ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ငါ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "မိန့်တော်မူ၏"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "မ…"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ဘုရား"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "အဝေးရှိ"
+    }
+  ],
+  "timestamp": "2026-08-23T17:57:06.107398721Z",
+  "model": "glm-5.3"
+}

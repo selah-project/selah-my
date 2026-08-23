@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "my",
+  "chapter": 34,
+  "translation": "ဒန်သားတို့၏ အသရေ၌ ရှေ့ဆောင်ဖြစ်သော ယောဂလိ၏သား ဗုက္ကိ။",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "နှင့် အသရေ၌"
+    },
+    {
+      "surface": "בני",
+      "gloss": "သားတို့၏"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ဒန်"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ရှေ့ဆောင်"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ဗုက္ကိ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ယောဂလိ"
+    }
+  ],
+  "timestamp": "2026-08-23T08:52:09.288380816Z",
+  "model": "glm-5.3"
+}

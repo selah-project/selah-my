@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 4,
+  "translation": "⟨את⟩ ทะเลหนึ่ง และ ⟨את⟩ โคทั้งสิบสอง ใต้มัน",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทะเลหนึ่ง"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "โคทั้งสิบสอง"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "โค"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ใต้มัน"
+    }
+  ],
+  "timestamp": "2026-08-23T17:00:37.704238052Z",
+  "model": "glm-5.3"
+}

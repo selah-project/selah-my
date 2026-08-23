@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 23:23",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 23,
+  "translation": "ထို့နောက် ထိုအရှင်ဘုရားသခင်သည် မောရှေအား မိန့်တော်မူခဲ့သည်၊",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "မိန့်တော်မူခဲ့သည်"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ထိုအရှင်ဘုရားသခင်"
+    },
+    {
+      "surface": "אל",
+      "gloss": "အား"
+    },
+    {
+      "surface": "משה",
+      "gloss": "မောရှေ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ဆို၍"
+    }
+  ],
+  "timestamp": "2026-08-23T08:21:51.018609331Z",
+  "model": "glm-5.3"
+}

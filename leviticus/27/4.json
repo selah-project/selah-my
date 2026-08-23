@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "my",
+  "chapter": 27,
+  "translation": "အမျိုးသမီးဖြစ်လျှင် သင်၏တန်ဖိုးသည် ချိတ်သုံးဆယ် ဖြစ်ရမည်။",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ဖြစ်လျှင်"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "အမျိုးသမီး"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "၎င်း"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ဖြစ်လတ္တံ့"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "သင်၏တန်ဖိုး"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "သုံးဆယ်"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ချိတ်"
+    }
+  ],
+  "timestamp": "2026-08-23T08:25:25.810511477Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "my",
+  "chapter": 11,
+  "translation": "အထက်တွင်ဖော်ပြခဲ့သည့် များအပြင် ⟨את⟩ ဗက်ဇူရ် (Beitzur) ကို၎င်း၊ ⟨את⟩ ရှိုခို (Shokho) ကို၎င်း၊ ⟨את⟩ အဒုလ္လမ် (Adullam) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "ဗက်ဇူရ် (Beitzur)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ဗက် (Beit) —"
+    },
+    {
+      "surface": "צור",
+      "gloss": "—ဇူရ် (tzur)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "ရှိုခို (Shokho)"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ရှိုခို (Shokho)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩ … ကို၎င်း",
+      "marks": "အဒုလ္လမ် (Adullam)"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "အဒုလ္လမ် (Adullam)"
+    }
+  ],
+  "timestamp": "2026-08-23T17:04:07.285553610Z",
+  "model": "glm-5.3"
+}
