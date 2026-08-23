@@ -5,69 +5,69 @@
   "book": "zechariah",
   "lang": "my",
   "chapter": 9,
-  "translation": "And I shall remove his blood from his mouth, and his abominations from between his teeth; and he also shall remain for our Elohim, and he shall be as a chief in Judah, and Ekron as a Jebusite.",
+  "translation": "ကျွန်ုပ်သည် သူ၏သွေးကို သူ၏ပါးစပ်မှ ဖယ်ရှား၍၊ သူ၏ရွံရှာစရာများကို သူ၏အံများအကြားမှ ⟨ဖယ်ရှားမည်⟩၊ ထိုသူပင်လျှင် ကျွန်ုပ်တို့ ဧလောဟိမ် အဘို့ ကျန်ရှိလိမ့်မည်၊ ယာဓူဒါ၌ ⟨သူ⟩ အကြီးအကဲတစ်ဦးကဲ့သို့ ဖြစ်လိမ့်မည်၊ ဧခရုန်မှာ ယဗူဆီသားကဲ့သို့ ⟨ဖြစ်လိမ့်မည်⟩။",
   "tokens": [
     {
       "surface": "והסרתי",
-      "gloss": "and I shall remove"
+      "gloss": "ဖယ်ရှား၍ (ကျွန်ုပ်)"
     },
     {
       "surface": "דמיו",
-      "gloss": "his blood"
+      "gloss": "သူ၏သွေးကို"
     },
     {
       "surface": "מפיו",
-      "gloss": "from his mouth"
+      "gloss": "သူ၏ပါးစပ်မှ"
     },
     {
       "surface": "ושקציו",
-      "gloss": "and his abominations"
+      "gloss": "သူ၏ရွံရှာစရာများကို"
     },
     {
       "surface": "מבין",
-      "gloss": "from between"
+      "gloss": "အကြားမှ"
     },
     {
       "surface": "שניו",
-      "gloss": "his teeth"
+      "gloss": "သူ၏အံများ"
     },
     {
       "surface": "ונשאר",
-      "gloss": "and he shall remain"
+      "gloss": "ကျန်ရှိလိမ့်မည်"
     },
     {
       "surface": "גם",
-      "gloss": "also"
+      "gloss": "ပင်လျှင်"
     },
     {
       "surface": "הוא",
-      "gloss": "he"
+      "gloss": "ထိုသူ"
     },
     {
       "surface": "לאלהינו",
-      "gloss": "for our Elohim"
+      "gloss": "ကျွန်ုပ်တို့ ဧလောဟိမ် အဘို့"
     },
     {
       "surface": "והיה",
-      "gloss": "and he shall be"
+      "gloss": "ဖြစ်လိမ့်မည်"
     },
     {
       "surface": "כאלף",
-      "gloss": "as a chief"
+      "gloss": "အကြီးအကဲတစ်ဦးကဲ့သို့"
     },
     {
       "surface": "ביהודה",
-      "gloss": "in Judah"
+      "gloss": "ယာဓူဒါ၌"
     },
     {
       "surface": "ועקרון",
-      "gloss": "and Ekron"
+      "gloss": "ဧခရုန်မှာ"
     },
     {
       "surface": "כיבוסי",
-      "gloss": "as a Jebusite"
+      "gloss": "ယဗူဆီသားကဲ့သို့"
     }
   ],
-  "timestamp": "2026-08-23T18:05:32.811810301Z",
+  "timestamp": "2026-08-23T20:00:25.065803477Z",
   "model": "glm-5.3"
 }

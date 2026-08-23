@@ -5,31 +5,31 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 48,
-  "translation": "And your offspring, which you beget after them, shall be yours; they shall be called by the name of their brothers in their inheritance.",
+  "translation": "သူတို့နောက် သင်မွေးသော သင်၏သားသမီးများသည် သင်၏အဘို့ ဖြစ်ကြစေကုန်၏၊ သူတို့၏အမွေ၌ သူတို့၏ညီအစ်ကိုများ၏အမည်အားဖြင့် ခေါ်ဝေါ်ခြင်းခံရကြလိမ့်မည်။",
   "tokens": [
     {
       "surface": "ומולדתך",
-      "gloss": "နှင့် သင့်သားသမီးများ"
+      "gloss": "သင်မှမွေးသောသားသမီးများ"
     },
     {
       "surface": "אשר",
-      "gloss": "အကြောင်း"
+      "gloss": ""
     },
     {
       "surface": "הולדת",
-      "gloss": "သင်မွေးဖွားသော"
+      "gloss": "သင်မွေးသော"
     },
     {
-      "surface": "אחריהμ",
-      "gloss": "၎င်းတို့နောက်မှ"
+      "surface": "אחריהם",
+      "gloss": "သူတို့နောက်"
     },
     {
       "surface": "לך",
-      "gloss": "သင့်အတွက်"
+      "gloss": "သင်၏အဘို့"
     },
     {
       "surface": "יהיו",
-      "gloss": "ရှိကြလတ္တံ့"
+      "gloss": "ဖြစ်ကြစေကုန်၏"
     },
     {
       "surface": "על",
@@ -37,21 +37,21 @@
     },
     {
       "surface": "שם",
-      "gloss": "နာမ"
+      "gloss": "အမည်"
     },
     {
       "surface": "אחיהם",
-      "gloss": "၎င်းတို့၏မောင်နှမများ၏"
+      "gloss": "သူတို့၏ညီအစ်ကိုများ"
     },
     {
       "surface": "יקראו",
-      "gloss": "ခေါ်ဝေါ်ခံရကြလတ္တံ့"
+      "gloss": "ခေါ်ဝေါ်ခြင်းခံရကြလိမ့်မည်"
     },
     {
       "surface": "בנחלתם",
-      "gloss": "၎င်းတို့၏အမွေ၌"
+      "gloss": "သူတို့၏အမွေ၌"
     }
   ],
-  "timestamp": "2026-08-23T17:28:39.624830940Z",
+  "timestamp": "2026-08-23T20:22:30.218941969Z",
   "model": "glm-5.3"
 }

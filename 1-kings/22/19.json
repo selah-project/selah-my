@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "my",
   "chapter": 22,
-  "translation": "ထိုအခါ ၎င်းက «ထို့ကြောင့် ယာဝေ၏ < masculine singular>: Rama (ĕmĕṣ) (Aram.) နားဆင်လော့။ ငါသည် ယာဝေ < masculine singular>: Rama (ĕmĕṣ) (Aram.) ကို ⟨את⟩ ပလ္လင်တော်၌ စံနေတော်မူသည်ကိုမြင်ခဲ့၏ ၊ ကောင်းကင်တပ်သားအပousers လုံးသည် ⟨ masc.>: Rama (ĕmĕṣ) (Aram.) ၏ လက်ယာဘက်၌၎ ၊ လက်ဝဲဘက်၌၎ ၎င်း၏ < masc. pl. article (rare, poet.)> အထက်၌ ရပ်တည်ကြသည်။»",
+  "translation": "မိကာယာဟုမှ ဆက်၍ ဆို၏ — ထိုကြောင့် ယာဝေ၏နှုတ်ကပတ်တရားကို နာကြားလော့။ ကျွန်ုပ်သည် ယာဝေကို ⟨את⟩ မိမိပလ္လင်ပေါ်၌ စံနေတော်မူသည်ကို မြင်၏၊ ကောင်းကင်တန်ခိုးရှင် စစ်သည်တော်အပေါင်းတို့သည်လည်း ဦးချကို ချ၍ ထက်ဝန်းကျင်တွင် ညာဘက်၌၎င်း ဝဲဘက်၌၎င်း ရပ်နေကြသည်ကို မြင်၏။",
   "tokens": [
     {
       "surface": "ויאמר",
@@ -13,74 +13,74 @@
     },
     {
       "surface": "לכן",
-      "gloss": "ထို့ကြောင့်"
+      "gloss": "ထိုကြောင့်"
     },
     {
       "surface": "שמע",
-      "gloss": "နားဆင်လော့"
+      "gloss": "နာကြားလော့"
     },
     {
       "surface": "דבר",
-      "gloss": "< masc. sing. noun> ၏"
+      "gloss": "နှုတ်ကပတ်တရားကို"
     },
     {
       "surface": "יהוה",
-      "gloss": "ယာဝေ < masculine singular>: Rama (ĕmĕṣ) (Aram.)"
+      "gloss": "ယာဝေ၏"
     },
     {
       "surface": "ראיתי",
-      "gloss": "ငါမြင်ခဲ့၏"
+      "gloss": "ကျွန်ုပ်မြင်၏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ယာဝေ < masc. sing. Yhwh (proper name)> ကို"
+      "marks": "ယာဝေကို"
     },
     {
       "surface": "יהוה",
-      "gloss": "ယာဝေ < masc. sing. Yhwh (proper name)>"
+      "gloss": "ယာဝေ"
     },
     {
       "surface": "ישב",
-      "gloss": "စံနေတော်မူသည်"
+      "gloss": "စံနေတော်မူ"
     },
     {
       "surface": "על",
-      "gloss": "< expl. particle> ၌"
+      "gloss": "...ပေါ်၌"
     },
     {
       "surface": "כסאו",
-      "gloss": "ပလ္လင်တော်"
+      "gloss": "မိမိပလ္လင်"
     },
     {
       "surface": "וכל",
-      "gloss": "လုံးသည်"
+      "gloss": "အပေါင်းတို့လည်း"
     },
     {
       "surface": "צבא",
-      "gloss": "တပ်သားအပousers လုံး"
+      "gloss": "စစ်သည်တော်"
     },
     {
       "surface": "השמים",
-      "gloss": "< expl. particle> ကောင်းကင်"
+      "gloss": "ကောင်းကင်"
     },
     {
       "surface": "עמד",
-      "gloss": "ရပ်တည်ကြ၏"
+      "gloss": "ရပ်နေကြ"
     },
     {
       "surface": "עליו",
-      "gloss": "< expl.> အထက်၌ ၎င်း၏ < masc. sing. article> အား (Aram. + Hebr. mixed)"
+      "gloss": "ဦးချကို ချ၍...ကို"
     },
     {
       "surface": "מימינו",
-      "gloss": "< expl.> လက်ယာဘက် ၎င်း၏ < masc. pl. (contr. form)>"
+      "gloss": "ညာဘက်၌"
     },
     {
       "surface": "ומשמאלו",
-      "gloss": "< expl.> လက်ဝဲဘက် ၎င်း၏ < masc. pl. (contr. form)>"
+      "gloss": "ဝဲဘက်၌"
     }
   ],
-  "timestamp": "2026-08-23T17:50:35.706744825Z",
+  "timestamp": "2026-08-23T19:33:32.755651522Z",
   "model": "glm-5.3"
 }

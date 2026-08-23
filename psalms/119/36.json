@@ -5,37 +5,37 @@
   "book": "psalms",
   "lang": "my",
   "chapter": 119,
-  "translation": "Incline my heart to testimonies, and not to unjust gain.",
+  "translation": "သင်၏သက်သေခံချက်များဆီသို့ ငါ့စိတ်နှလုံးကို ညွှတ်စေပါ၊ မဖြစ်စေရ — မတရားသော အမြတ်စွန့်ဆီသို့ မူ။",
   "tokens": [
     {
-      "surface": "הט",
-      "gloss": "Incline"
+      "surface": "हट",
+      "gloss": "ညွှတ်စေပါ"
     },
     {
-      "surface": "לבי",
-      "gloss": "my heart"
-    },
-    {
-      "surface": "אל",
-      "gloss": "to"
-    },
-    {
-      "surface": "עדותיך",
-      "gloss": "testimonies"
-    },
-    {
-      "surface": "ואל",
-      "gloss": "and not to"
+      "surface": "लβי",
+      "gloss": "ငါ့စိတ်နှလုံး"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "ဆီသို့"
     },
     {
-      "surface": "בצע",
-      "gloss": "unjust gain"
+      "surface": "उन்நोतেখ",
+      "gloss": "သင်၏သက်သေခံချက်များ"
+    },
+    {
+      "surface": "वअल",
+      "gloss": "မဖြစ်စေရ"
+    },
+    {
+      "surface": "אल",
+      "gloss": "ဆီသို့"
+    },
+    {
+      "surface": "বट्सঅ",
+      "gloss": "မတရားသောအမြတ်"
     }
   ],
-  "timestamp": "2026-08-23T14:46:20.782196847Z",
+  "timestamp": "2026-08-23T20:05:20.490881876Z",
   "model": "glm-5.3"
 }

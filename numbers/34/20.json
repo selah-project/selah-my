@@ -5,17 +5,33 @@
   "book": "numbers",
   "lang": "my",
   "chapter": 34,
-  "translation": "ရှIMon သားတို့၏ မျိုးမှ အMihud သား ရှMuel ဖြစ်သတည်း။",
+  "translation": "ရှေမွာအောင်၏သားများအာရုံကိုယ်တော်အတွက် — အံမိဟုဒ်၏သား ရှေမှူအေလ်။",
   "tokens": [
     {
-      "surface": "ವillã",
-      "gloss": ""
+      "surface": "ולמטה",
+      "gloss": "အာရုံကိုယ်တော်အတွက်"
     },
     {
-      "surface": "ಬ",
-      "gloss": ""
+      "surface": "בני",
+      "gloss": "သားများ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ရှေမွာအောင်"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ရှေမှူအေလ်"
+    },
+    {
+      "surface": "בן",
+      "gloss": "သား"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "အံမိဟုဒ်"
     }
   ],
-  "timestamp": "2026-08-23T08:52:27.866066927Z",
+  "timestamp": "2026-08-23T19:11:11.907109477Z",
   "model": "glm-5.3"
 }

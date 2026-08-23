@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 11,
-  "translation": "Burmese rendering required: And Peleg lived thirty years, and begat Reu.",
+  "translation": "ပဲလက်သည် သုံးဆယ်သော နှစ်များကို အသက်ရှင်၍ ⟨את⟩ ရေအုကို မွေးဖွား၏။",
   "tokens": [
     {
       "surface": "ויחי",
-      "gloss": "ရှင်သန်၏"
+      "gloss": "အသက်ရှင်၍"
     },
     {
       "surface": "פלג",
-      "gloss": "ပေလက်"
+      "gloss": "ပဲလက်သည်"
     },
     {
       "surface": "שלשים",
@@ -21,22 +21,22 @@
     },
     {
       "surface": "שנה",
-      "gloss": "နှစ်"
+      "gloss": "နှစ်များ"
     },
     {
       "surface": "ויולד",
-      "gloss": "ဖွားမြင်၏"
+      "gloss": "မွေးဖွား၏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ရေအူ"
+      "marks": "ရေအုကို"
     },
     {
       "surface": "רעו",
-      "gloss": "ရေအူ"
+      "gloss": "ရေအု"
     }
   ],
-  "timestamp": "2026-08-23T07:05:52.515619635Z",
+  "timestamp": "2026-08-23T18:50:54.052124166Z",
   "model": "glm-5.3"
 }

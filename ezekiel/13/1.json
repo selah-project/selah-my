@@ -5,29 +5,8 @@
   "book": "ezekiel",
   "lang": "my",
   "chapter": 13,
-  "translation": "ယာဝေ၏ ⟨the⟩ နှုတ်ကပတ်တော်သည် ငါ့ဆီသို့ လာ၍ မိန့်မြွက်သည် —",
-  "tokens": [
-    {
-      "surface": "ויהי",
-      "gloss": "ဖြစ်လေ၏"
-    },
-    {
-      "surface": "דבר",
-      "gloss": "နှုတ်ကပတ်တော်"
-    },
-    {
-      "surface": "יהוה",
-      "gloss": "ယာဝေ၏"
-    },
-    {
-      "surface": "אלי",
-      "gloss": "ငါ့ဆီသို့"
-    },
-    {
-      "surface": "לאמר",
-      "gloss": "မိန့်မြွက်၍"
-    }
-  ],
-  "timestamp": "2026-08-23T12:52:13.146702045Z",
+  "translation": "",
+  "tokens": [],
+  "timestamp": "2026-08-23T20:50:08.119103890Z",
   "model": "glm-5.3"
 }

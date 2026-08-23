@@ -5,97 +5,97 @@
   "book": "exodus",
   "lang": "my",
   "chapter": 11,
-  "translation": "And all these your servants will come down to me and bow down to me, saying, 'Go out, you and all the people who are at your feet; and after that I will go out.' And he went out from the presence of Pharaoh in the heat of anger.",
+  "translation": "ထို့နောက် သင့်ကျွန်များအားလုံးသည် ငါ့ထံသို့ဆင်းလာကြလိမ့်မည်။ ငါ့ကိုယ်ရံအားဖြင့် သင်နှင့်အတူ သင်၏လူအားလုံး ထွက်ခွာကြလော့ ဟုဆိုကြလိမ့်မည်။ ထို့နောက်မှ ငါထွက်ခွာလိမ့်မည်။ ဤသို့ဆိုပြီးနောက် မောရှေသည် အလွန်ဒေါသထွက်သောအချိန်၌ ဖာရောထံမှ ထွက်ခွာလေသည်။",
   "tokens": [
     {
       "surface": "וירדו",
-      "gloss": "and-they-will-come-down"
+      "gloss": "ဆင်းကြလိမ့်မည်"
     },
     {
       "surface": "כל",
-      "gloss": "all"
+      "gloss": "အားလုံးသော"
     },
     {
       "surface": "עבדיך",
-      "gloss": "your servants"
+      "gloss": "သင်၏ကျွန်များ"
     },
     {
       "surface": "אלה",
-      "gloss": "these"
+      "gloss": "ဤသူတို့"
     },
     {
       "surface": "אלי",
-      "gloss": "to me"
+      "gloss": "ငါ့ထံ"
     },
     {
       "surface": "והשתחוו",
-      "gloss": "and-bow-down"
+      "gloss": "ရိုသေစွာခေါင်းငုံ့ကြလိမ့်မည်"
     },
     {
       "surface": "לי",
-      "gloss": "to me"
+      "gloss": "ငါ့အား"
     },
     {
       "surface": "לאמר",
-      "gloss": "saying"
+      "gloss": "ဟုဆို၍"
     },
     {
       "surface": "צא",
-      "gloss": "go out"
+      "gloss": "ထွက်ပါ"
     },
     {
       "surface": "אתה",
-      "gloss": "you (thou)"
+      "gloss": "သင်"
     },
     {
       "surface": "וכל",
-      "gloss": "and-all"
+      "gloss": "နှင့်အားလုံးသော"
     },
     {
       "surface": "העם",
-      "gloss": "the people"
+      "gloss": "လူ"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "အကြင်"
     },
     {
       "surface": "ברגליך",
-      "gloss": "are-at-your-feet"
+      "gloss": "သင်၏ခြေထောက်များရှိ"
     },
     {
       "surface": "ואחרי",
-      "gloss": "and-after"
+      "gloss": "ထို့နောက်"
     },
     {
       "surface": "כן",
-      "gloss": "thus"
+      "gloss": "ဤသို့"
     },
     {
       "surface": "אצא",
-      "gloss": "I-will-go-out"
+      "gloss": "ငါထွက်မည်"
     },
     {
       "surface": "ויצא",
-      "gloss": "and-he-went-out"
+      "gloss": "ထွက်ခွာလေသည်"
     },
     {
       "surface": "מעם",
-      "gloss": "from-the-presence-of"
+      "gloss": "အထံမှ"
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "ဖာရော"
     },
     {
       "surface": "בחרי",
-      "gloss": "in-the-heat-of"
+      "gloss": "ပြင်းထန်သော"
     },
     {
       "surface": "אף",
-      "gloss": "anger (nose)"
+      "gloss": "ဒေါသ"
     }
   ],
-  "timestamp": "2026-08-23T07:40:50.112073596Z",
+  "timestamp": "2026-08-23T20:36:33.034550222Z",
   "model": "glm-5.3"
 }

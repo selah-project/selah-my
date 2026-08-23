@@ -5,44 +5,44 @@
   "book": "2-chronicles",
   "lang": "my",
   "chapter": 11,
-  "translation": "ထို့နောက် ⟨את⟩ ဗက်လက် (Beitlekhem) ကို၎င်း၊ ⟨את⟩ ဧတမ် (Etam) ကို၎င်း၊ ⟨את⟩ တကွာ (Taqoa) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "translation": "ထိုသူသည် ⟨את⟩ ဗက်လက်ခေမ်ကို၎င်း၊ ⟨את⟩ ဧတမ်ကို၎င်း၊ ⟨את⟩ တကောအကို၎င်း ဆောက်လုပ်ခဲ့၏။",
   "tokens": [
     {
       "surface": "ויבן",
-      "gloss": "ဆောက်လုပ်လေ၏"
+      "gloss": "ဆောက်လုပ်ခဲ့၏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ဗက်လက် (Beitlekhem)"
+      "marks": "ဗက်လက်ခေမ်ကို"
     },
     {
       "surface": "בית",
-      "gloss": "ဗက် (Beit) —"
+      "gloss": "ဗက် (အိမ်)"
     },
     {
-      "surface": "לחם",
-      "gloss": "—လက် (lekhem)"
+      "surface": "လחם",
+      "gloss": "လက်ခေမ် (အစာ)"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "ဧတမ် (Etam)"
+      "gloss": "⟨את⟩",
+      "marks": "ဧတမ်ကို"
     },
     {
       "surface": "עיטם",
-      "gloss": "ဧတမ် (Etam)"
+      "gloss": "ဧတမ်"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "တကွာ (Taqoa)"
+      "gloss": "⟨את⟩",
+      "marks": "တကောအကို"
     },
     {
       "surface": "תקוע",
-      "gloss": "တကွာ (Taqoa)"
+      "gloss": "တကောအ"
     }
   ],
-  "timestamp": "2026-08-23T17:04:07.285417973Z",
+  "timestamp": "2026-08-23T20:18:58.851512420Z",
   "model": "glm-5.3"
 }

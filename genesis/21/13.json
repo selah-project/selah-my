@@ -5,46 +5,46 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 21,
-  "translation": "အ enslaver ကို အ enslaver အ enslaver အ enslaver အ enslaver ⟨את⟩ အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver ။ အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver အ enslaver ။",
+  "translation": "ကျွန်မယား၏သား ⟨את⟩ ကိုလည်း တိုင်းနိုင်ငံတစ်ခု ငါထားပါမည်။ အကြောင်းမှာ သူသည် သင့်မျိုးဆက်ဖြစ်သည်။",
   "tokens": [
     {
       "surface": "וגם",
-      "gloss": "အ enslaver ကို"
+      "gloss": "လည်း"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "အ enslaver အ enslaver"
+      "marks": "ကျွန်မယား၏သား"
     },
     {
       "surface": "בן",
-      "gloss": "အ enslaver"
+      "gloss": "သား"
     },
     {
       "surface": "האמה",
-      "gloss": "အ enslaver အ enslaver"
+      "gloss": "ကျွန်မယား၏"
     },
     {
       "surface": "לגוי",
-      "gloss": "အ enslaver အ enslaver အ enslaver"
+      "gloss": "တိုင်းနိုင်ငံအဖြစ်"
     },
     {
       "surface": "אשימנו",
-      "gloss": "အ enslaver အ enslaver အ enslaver"
+      "gloss": "ငါထားပါမည်"
     },
     {
       "surface": "כי",
-      "gloss": "အ enslaver အ enslaver"
+      "gloss": "အကြောင်းမှာ"
     },
     {
-      "surface": "ζράκ",
-      "gloss": "အ enslaver အ enslaver"
+      "surface": "זרעך",
+      "gloss": "သင့်မျိုးဆက်"
     },
     {
       "surface": "הוא",
-      "gloss": "အ enslaver"
+      "gloss": "သူဖြစ်သည်"
     }
   ],
-  "timestamp": "2026-08-23T07:11:25.244065554Z",
+  "timestamp": "2026-08-23T18:51:10.116715140Z",
   "model": "glm-5.3"
 }

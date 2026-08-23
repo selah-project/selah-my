@@ -5,85 +5,85 @@
   "book": "exodus",
   "lang": "my",
   "chapter": 11,
-  "translation": "But against all the children of Yisrael no dog will sharpen its tongue — against man and even against beast — so that you may know that YHWH distinguishes between Mitsrayim and between Yisrael.",
+  "translation": "သို့ရာတွင် ဣဇရေလ်သားများအားလုံးအား ခွဲခြားရန် ခွေးသည် လူမှ သတ္တဝါတိုင်အောင် သူ၏အသံကို မည်သည့်အခါမျှ မည်သို့မျှ မတတ်စေရ။ ယာဝေသည် အီဂျစ်နှင့် ဣဇရေလ်အကြား ခွဲခြားတော်မူသည်ကို သင်တို့သိလို့ရစေရန် ဖြစ်သည်။",
   "tokens": [
     {
       "surface": "ולכל",
-      "gloss": "and-against-all"
+      "gloss": "အားလုံးအား"
     },
     {
       "surface": "בני",
-      "gloss": "the children of"
+      "gloss": "သားများ"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ဣဇရေလ်"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "မ"
     },
     {
       "surface": "יחרץ",
-      "gloss": "will-sharpen"
+      "gloss": "ပစ်မည်"
     },
     {
       "surface": "כלב",
-      "gloss": "a dog"
+      "gloss": "ခွေး"
     },
     {
       "surface": "לשנו",
-      "gloss": "its tongue"
+      "gloss": "သူ့အသံ"
     },
     {
       "surface": "למאיש",
-      "gloss": "against man"
+      "gloss": "လူအား"
     },
     {
-      "surface": "ועד",
-      "gloss": "and-as-far-as"
+      "surface": "ו עד",
+      "gloss": "နှင့်အထိ"
     },
     {
       "surface": "בהמה",
-      "gloss": "beast"
+      "gloss": "သတ္တဝါ"
     },
     {
       "surface": "למען",
-      "gloss": "so-that"
+      "gloss": "အလို့ငှာ"
     },
     {
       "surface": "תדעון",
-      "gloss": "you-may-know"
+      "gloss": "သိစေရန်"
     },
     {
       "surface": "אשר",
-      "gloss": "that"
+      "gloss": "အကြင်"
     },
     {
       "surface": "יפלה",
-      "gloss": "distinguishes"
+      "gloss": "ခွဲခြားတော်မူသည်"
     },
     {
       "surface": "יהוה",
-      "gloss": "YHWH"
+      "gloss": "ယာဝေ"
     },
     {
       "surface": "בין",
-      "gloss": "between"
+      "gloss": "အကြား"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "အီဂျစ်"
     },
     {
       "surface": "ובין",
-      "gloss": "and-between"
+      "gloss": "နှင့်အကြား"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ဣဇရေလ်"
     }
   ],
-  "timestamp": "2026-08-23T07:40:50.111869416Z",
+  "timestamp": "2026-08-23T20:36:33.034379357Z",
   "model": "glm-5.3"
 }

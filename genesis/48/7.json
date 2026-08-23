@@ -5,27 +5,27 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 48,
-  "translation": "And I, in my coming from Paddan, Rachel died upon me in the land of Canaan on the way, while yet a stretch of land remained to come to Ephrath, and I buried her there on the way to Ephrath — it is Beth-Lechem.",
+  "translation": "အကျွန်ုပ်မှာမူ ပဒ္ဒန်မှ လာစဉ် ရာခေလသည် ကနာန်ပြည်၌ လမ်းခရီးအကြား ဧဖရတ်မြို့သို့ ရောက်ရန် ⟨နည်းငယ်မျှသော⟩ ခရီးကွာသေးသောအခါ ငါ့အထံ၌ သေလေ၏။ ထို့ကြောင့် ငါသည် ထိုအရပ်၌ ဧဖရတ်သို့ သွားသောလမ်း၌ ⟨၎င်းမို့⟩ မြှုပ်နှံဖူး၏။ ထိုနေရာသည် ဗက်လက်ဟမ်ပင် ဖြစ်၏။",
   "tokens": [
     {
       "surface": "ואני",
-      "gloss": "ငါမူ"
+      "gloss": "အကျွန်ုပ်မှာမူ"
     },
     {
       "surface": "בבאי",
-      "gloss": "ငါ့ရောက်လာစဉ်"
+      "gloss": "လာစဉ်"
     },
     {
       "surface": "מפדן",
-      "gloss": "ပဒ္ဒါန်မှ"
+      "gloss": "ပဒ္ဒန်မှ"
     },
     {
       "surface": "מתה",
-      "gloss": "သေဆုံးသည်"
+      "gloss": "သေလေ၏"
     },
     {
       "surface": "עלי",
-      "gloss": "ငံ့၌"
+      "gloss": "ငါ့အထံ၌"
     },
     {
       "surface": "רחל",
@@ -37,23 +37,23 @@
     },
     {
       "surface": "כנען",
-      "gloss": "ကောင်းမှန်း"
+      "gloss": "ကနာန်"
     },
     {
       "surface": "בדרך",
-      "gloss": "လမ်း途中"
+      "gloss": "လမ်းခရီးအကြား"
     },
     {
       "surface": "בעוד",
-      "gloss": "ဣနားထားစဉ်"
+      "gloss": "…သေးသောအခါ"
     },
     {
       "surface": "כברת",
-      "gloss": "တစ်သတ်မျတ်"
+      "gloss": "နည်းငယ်မျှသော ခရီး"
     },
     {
-      "surface": "ארץ",
-      "gloss": "မြေအကွာအဝေး"
+      "surface": "အာ်",
+      "gloss": "အကွာအဝေး"
     },
     {
       "surface": "לבא",
@@ -61,37 +61,37 @@
     },
     {
       "surface": "אפרתה",
-      "gloss": "ဧဖရတ်သို့"
+      "gloss": "ဧဖရတ်မြို့သို့"
     },
     {
       "surface": "ואקברה",
-      "gloss": "ငါမြှုပ်နှံ၏"
+      "gloss": "မြှုပ်နှံဖူး၏"
     },
     {
       "surface": "שם",
-      "gloss": "ထိုနေရာ၌"
+      "gloss": "ထိုအရပ်၌"
     },
     {
       "surface": "בדרך",
-      "gloss": "လမ်း途中"
+      "gloss": "လမ်း၌"
     },
     {
       "surface": "אפרת",
-      "gloss": "ဧဖရတ်၏"
+      "gloss": "ဧဖရတ်"
     },
     {
       "surface": "הוא",
-      "gloss": "အတွေ့"
+      "gloss": "ထိုနေရာသည်"
     },
     {
       "surface": "בית",
-      "gloss": "ဗက်သ်"
+      "gloss": "ဗက်"
     },
     {
       "surface": "לחם",
-      "gloss": "လက်ခেမ်"
+      "gloss": "လက်ဟမ်"
     }
   ],
-  "timestamp": "2026-08-23T17:28:39.625135496Z",
+  "timestamp": "2026-08-23T20:22:15.941956546Z",
   "model": "glm-5.3"
 }

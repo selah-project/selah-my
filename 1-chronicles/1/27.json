@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "my",
   "chapter": 1,
-  "translation": "အဗ်ရာမ် — ⟨he⟩ သည် အဗ်ရာဟမ်။",
+  "translation": "အဗ်ရာမ် — ⟨သူ⟩⟨သည်⟩ အဗ်ရာဟမ်။",
   "tokens": [
     {
       "surface": "אברם",
@@ -13,13 +13,13 @@
     },
     {
       "surface": "הוא",
-      "gloss": "he"
+      "gloss": "⟨သူ⟩"
     },
     {
       "surface": "אברהם",
       "gloss": "အဗ်ရာဟမ်"
     }
   ],
-  "timestamp": "2026-08-23T16:38:25.656181668Z",
+  "timestamp": "2026-08-23T20:14:46.603838833Z",
   "model": "glm-5.3"
 }

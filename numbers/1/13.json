@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "my",
   "chapter": 1,
-  "translation": "အာရှေရ်အား <span>⟩<\/span> ပါဂါအဲလ်၊ ဩခရန်၏သား။",
+  "translation": "အာရှေရ်အား — အောခရန်၏သား ပါဂျိအေလ်။",
   "tokens": [
     {
       "surface": "לאשר",
@@ -13,17 +13,17 @@
     },
     {
       "surface": "פגעיאל",
-      "gloss": "ပါဂါအဲလ်"
+      "gloss": "ပါဂျိအေလ်"
     },
     {
       "surface": "בן",
-      "gloss": "…၏သား"
+      "gloss": "သား"
     },
     {
       "surface": "עכרן",
-      "gloss": "ဩခရန်"
+      "gloss": "အောခရန်"
     }
   ],
-  "timestamp": "2026-08-23T17:33:38.613662990Z",
+  "timestamp": "2026-08-23T19:05:12.836969357Z",
   "model": "glm-5.3"
 }

@@ -5,21 +5,21 @@
   "book": "nehemiah",
   "lang": "my",
   "chapter": 10,
-  "translation": "harim၊ meremoth၊ ovadyah",
+  "translation": "ဟာရိမ်၊ မေရေမောထ်၊ ဩဗဒ်ယာ။",
   "tokens": [
     {
       "surface": "חרם",
-      "gloss": "harim"
+      "gloss": "ဟာရိမ်"
     },
     {
       "surface": "מרמות",
-      "gloss": "meremoth"
+      "gloss": "မေရေမောထ်"
     },
     {
       "surface": "עבדיה",
-      "gloss": "ovadyah"
+      "gloss": "ဩဗဒ်ယာ"
     }
   ],
-  "timestamp": "2026-08-23T16:32:57.169056143Z",
+  "timestamp": "2026-08-23T20:15:02.409611079Z",
   "model": "glm-5.3"
 }

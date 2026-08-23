@@ -5,74 +5,74 @@
   "book": "1-kings",
   "lang": "my",
   "chapter": 18,
-  "translation": "They divided ⟨among themselves⟩ the land ⟨את⟩ to pass through it. Ahab went one way by himself, and Obadyahu went one way by himself.",
+  "translation": "ခရီးပတ်ရန် ထိုသူတို့သည် ⟨အချင်းချင်း⟩ ⟨את⟩ မြေပြည်ကို ပိုင်းခြားကုန်၏။ အာဟပ်သည် တစ်ဦးတည်း လမ်းတစ်ခုဖြင့် သွား၍၊ အောဗဒ်ယာဟုသည် တစ်ဦးတည်း လမ်းတစ်ခုဖြင့် သွား၏။",
   "tokens": [
     {
       "surface": "ויחלקו",
-      "gloss": "they divided"
+      "gloss": "ပိုင်းခြားကုန်၏"
     },
     {
       "surface": "להם",
-      "gloss": "for themselves"
+      "gloss": "ထိုသူတို့အား"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "the land"
+      "marks": "မြေပြည်"
     },
     {
       "surface": "הארץ",
-      "gloss": "the land"
+      "gloss": "မြေပြည်"
     },
     {
       "surface": "לעבר",
-      "gloss": "to pass through"
+      "gloss": "ခရီးပတ်ရန်"
     },
     {
       "surface": "בה",
-      "gloss": "it"
+      "gloss": "၎င်းအလယ်၌"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahab"
+      "gloss": "အာဟပ်"
     },
     {
       "surface": "הלך",
-      "gloss": "went"
+      "gloss": "သွား၍"
     },
     {
       "surface": "בדרך",
-      "gloss": "on the way"
+      "gloss": "လမ်း…ဖြင့်"
     },
     {
       "surface": "אחד",
-      "gloss": "one"
+      "gloss": "တစ်ခု"
     },
     {
       "surface": "לבדו",
-      "gloss": "by himself"
+      "gloss": "တစ်ဦးတည်း"
     },
     {
       "surface": "ועבדיהו",
-      "gloss": "and Obadyahu"
+      "gloss": "အောဗဒ်ယာဟု"
     },
     {
       "surface": "הלך",
-      "gloss": "went"
+      "gloss": "သွား၏"
     },
     {
       "surface": "בדרך",
-      "gloss": "on the way"
+      "gloss": "လမ်း…ဖြင့်"
     },
     {
       "surface": "אחד",
-      "gloss": "one"
+      "gloss": "တစ်ခု"
     },
     {
       "surface": "לבדו",
-      "gloss": "by himself"
+      "gloss": "တစ်ဦးတည်း"
     }
   ],
-  "timestamp": "2026-08-23T10:53:43.894115075Z",
+  "timestamp": "2026-08-23T19:34:20.881351029Z",
   "model": "glm-5.3"
 }

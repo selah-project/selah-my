@@ -5,41 +5,41 @@
   "book": "1-kings",
   "lang": "my",
   "chapter": 18,
-  "translation": "He said to him — I am ⟨he⟩; go, say to your lord — behold, Elijah ⟨is here⟩.",
+  "translation": "သူ့အား «ကျွန်ုပ်ပါ။ သွား၍ သင့်အရှင်အား ‘ကြည့်ရှုလော့၊ ဧလိယာဟု ⟨ရှိ⟩၏’ ဟု ဆိုလော့» ဟု ဖြေဆို၏။",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "said"
+      "gloss": "ဖြေဆို၏"
     },
     {
       "surface": "לו",
-      "gloss": "to him"
+      "gloss": "သူ့အား"
     },
     {
       "surface": "אני",
-      "gloss": "I am"
+      "gloss": "ကျွန်ုပ်ပါ"
     },
     {
       "surface": "לך",
-      "gloss": "go"
+      "gloss": "သွား၍"
     },
     {
       "surface": "אמר",
-      "gloss": "say"
+      "gloss": "ဆိုလော့"
     },
     {
       "surface": "לאדניך",
-      "gloss": "to your lord"
+      "gloss": "သင့်အရှင်အား"
     },
     {
       "surface": "הנה",
-      "gloss": "behold"
+      "gloss": "ကြည့်ရှုလော့"
     },
     {
       "surface": "אליהו",
-      "gloss": "Elijah"
+      "gloss": "ဧလိယာဟု"
     }
   ],
-  "timestamp": "2026-08-23T10:53:43.894367749Z",
+  "timestamp": "2026-08-23T19:34:20.881613764Z",
   "model": "glm-5.3"
 }

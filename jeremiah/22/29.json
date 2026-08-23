@@ -5,33 +5,33 @@
   "book": "jeremiah",
   "lang": "my",
   "chapter": 22,
-  "translation": "ምድር ሆይ፥ ምድር ሆይ፥ ምድር ሆይ፥ የኛም ቃልን ስማ።",
+  "translation": "အေ၊ မြေကြီး၊ မြေကြီး၊ မြေကြီး၊ ယာဝေ၏နှုတ်ကပတ်တော်ကို နာကြားလော့။",
   "tokens": [
     {
-      "surface": "አረጸ",
-      "gloss": "ምድር ሆይ"
+      "surface": "ארץ",
+      "gloss": "မြေကြီး"
     },
     {
-      "surface": "አረጸ",
-      "gloss": "ምድር ሆይ"
+      "surface": "ארץ",
+      "gloss": "မြေကြီး"
     },
     {
-      "surface": "አረጸ",
-      "gloss": "ምድር ሆይ"
+      "surface": "ארץ",
+      "gloss": "မြေကြီး"
     },
     {
-      "surface": "ሰሚዒ",
-      "gloss": "ስማ"
+      "surface": "שמעי",
+      "gloss": "နာကြားလော့"
     },
     {
-      "surface": "ደባር",
-      "gloss": "ቃልን"
+      "surface": "דבר",
+      "gloss": "နှုတ်ကပတ်တော်ကို"
     },
     {
-      "surface": "ያህቮሄ",
-      "gloss": "የኛም"
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
     }
   ],
-  "timestamp": "2026-08-23T12:15:32.099297521Z",
+  "timestamp": "2026-08-23T19:44:05.291724412Z",
   "model": "glm-5.3"
 }

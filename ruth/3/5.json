@@ -5,8 +5,33 @@
   "book": "ruth",
   "lang": "my",
   "chapter": 3,
-  "translation": "<defs skipped>",
-  "tokens": [],
-  "timestamp": "2026-08-23T15:45:40.980614610Z",
+  "translation": "ရုက်သည် သူ့မိထံသို့ ⟨က⟩ — မင်းပြောသမျှ အားလုံးကို ငါပြုမည်ဟု ဆို၏။",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ဆို၏"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "သူ့မိထံသို့"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံးကို"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "မင်းပြောသမျှ"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ပြောသည့်"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ငါပြုမည်"
+    }
+  ],
+  "timestamp": "2026-08-23T20:09:32.211380965Z",
   "model": "glm-5.3"
 }

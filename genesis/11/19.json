@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 11,
-  "translation": "Burmese rendering required: And Peleg lived after he begat Reu nine years and two hundred years, and begat sons and daughters.",
+  "translation": "ပဲလက်သည် ⟨את⟩ ရေအုကို မွေးဖွားပြီးနောက် ကိုးနှစ် နှင့် နှစ်ရာသော နှစ်များကို အသက်ရှင်၍ သားများနှင့် သမီးများကို မွေးဖွား၏။",
   "tokens": [
     {
-      "surface": "ViewItem",
-      "gloss": "ရှင်သန်၏"
+      "surface": "ויחי",
+      "gloss": "အသက်ရှင်၍"
     },
     {
       "surface": "פלג",
-      "gloss": "ပေလက်"
+      "gloss": "ပဲလက်သည်"
     },
     {
       "surface": "אחרי",
@@ -21,16 +21,16 @@
     },
     {
       "surface": "הולידו",
-      "gloss": "ဖွားမြင်သောအခါ"
+      "gloss": "မွေးဖွား"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ရေအူ"
+      "marks": "ရေအုကို"
     },
     {
       "surface": "רעו",
-      "gloss": "ရေအူ"
+      "gloss": "ရေအု"
     },
     {
       "surface": "תשע",
@@ -38,7 +38,7 @@
     },
     {
       "surface": "שנים",
-      "gloss": "နှစ်များ"
+      "gloss": "နှစ်"
     },
     {
       "surface": "ומאתים",
@@ -46,11 +46,11 @@
     },
     {
       "surface": "שנה",
-      "gloss": "နှစ်"
+      "gloss": "နှစ်များ"
     },
     {
       "surface": "ויולד",
-      "gloss": "ဖွားမြင်၏"
+      "gloss": "မွေးဖွား၏"
     },
     {
       "surface": "בנים",
@@ -58,9 +58,9 @@
     },
     {
       "surface": "ובנות",
-      "gloss": "နှင့် သမီးများ"
+      "gloss": "သမီးများ"
     }
   ],
-  "timestamp": "2026-08-23T07:05:52.515760410Z",
+  "timestamp": "2026-08-23T18:50:54.052277295Z",
   "model": "glm-5.3"
 }

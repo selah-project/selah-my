@@ -5,40 +5,40 @@
   "book": "2-chronicles",
   "lang": "my",
   "chapter": 11,
-  "translation": "အထက်တွင်ဖော်ပြခဲ့သည့် များအပြင် ⟨את⟩ ဗက်ဇူရ် (Beitzur) ကို၎င်း၊ ⟨את⟩ ရှိုခို (Shokho) ကို၎င်း၊ ⟨את⟩ အဒုလ္လမ် (Adullam) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "translation": "၎င်းပြင် ⟨את⟩ ဗက်-ဇူရ်နှင့် ⟨את⟩ ဆိုကိုုးနှင့် ⟨את⟩ အဒုလ္လမ်ကို၎",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "ဗက်ဇူရ် (Beitzur)"
+      "gloss": "⟨את⟩",
+      "marks": "ဗက်-ဇူရ်"
     },
     {
       "surface": "בית",
-      "gloss": "ဗက် (Beit) —"
+      "gloss": "ဗက်"
     },
     {
       "surface": "צור",
-      "gloss": "—ဇူရ် (tzur)"
+      "gloss": "ဇူရ်"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "ရှိုခို (Shokho)"
+      "gloss": "⟨את⟩",
+      "marks": "ဆိုကိုုး"
     },
     {
       "surface": "שוכו",
-      "gloss": "ရှိုခို (Shokho)"
+      "gloss": "ဆိုကိုုး"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "အဒုလ္လမ် (Adullam)"
+      "gloss": "⟨את⟩",
+      "marks": "အဒုလ္လမ်"
     },
     {
       "surface": "עדלם",
-      "gloss": "အဒုလ္လမ် (Adullam)"
+      "gloss": "အဒုလ္လမ်"
     }
   ],
-  "timestamp": "2026-08-23T17:04:07.285553610Z",
+  "timestamp": "2026-08-23T20:48:51.645729150Z",
   "model": "glm-5.3"
 }

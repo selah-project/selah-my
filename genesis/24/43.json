@@ -5,13 +5,77 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 24,
-  "translation": "ကြည့်ရှုကာ嘉年华 council council council council council council council council council council council council council council council council council council council council council council council — discarding.",
+  "translation": "ကြည့်စိတ့်၊ ငါသည် ရေစမ်းနှင့် ကင်းစွာရပ်နေ၏၊ ထိုအခါ ရေဆွဲရန် ထွက်လာသော အမျိုးသမီးကို ငါက ⟨ငါ့အား⟩ သင့်မျှော်စည်းမှ ရေအနည်းငယ် သောက်စေပါဟု ဆိုလတ္တံ့၊",
   "tokens": [
     {
-      "surface": "INVALID",
-      "gloss": ""
+      "surface": "הנה",
+      "gloss": "ကြည့်စိတ့်"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ငါ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "ရပ်နေ၏"
+    },
+    {
+      "surface": "על",
+      "gloss": "အပေါ်၌"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ရေစမ်း"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ရေ၏"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ဖြစ်လတ္တံ့"
+    },
+    {
+      "surface": "העלמah",
+      "gloss": "အမျိုးသမီး"
+    },
+    {
+      "surface": "היצאת",
+      "gloss": "ထွက်လာသော"
+    },
+    {
+      "surface": "לשאב",
+      "gloss": "ရေဆွဲရန်"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ငါဆိုလတ္တံ့"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ထိုမအား"
+    },
+    {
+      "surface": "השקיני",
+      "gloss": "သောက်စေပါ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ကျေးဇူးပြု၍"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "အနည်းငယ်"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ရေ"
+    },
+    {
+      "surface": "מכדך",
+      "gloss": "သင့်မျှော်စည်းမှ"
     }
   ],
-  "timestamp": "2026-08-23T07:14:11.751868662Z",
+  "timestamp": "2026-08-23T18:52:05.329294590Z",
   "model": "glm-5.3"
 }

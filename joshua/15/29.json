@@ -5,8 +5,21 @@
   "book": "joshua",
   "lang": "my",
   "chapter": 15,
-  "translation": "ဗာအလာ၊ ဤimmeာပ်များနှင့် အက်ဇေမ်တို့ဖြစ်၏။",
-  "tokens": [],
-  "timestamp": "2026-08-23T09:28:37.909789177Z",
+  "translation": "ဗောလာ၊ ဣဣမ်၊ ဧဇေမ်။",
+  "tokens": [
+    {
+      "surface": "בעלה",
+      "gloss": "ဗောလာ"
+    },
+    {
+      "surface": "ועיים",
+      "gloss": "ဣဣမ်"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ဧဇေမ်"
+    }
+  ],
+  "timestamp": "2026-08-23T20:39:00.410359191Z",
   "model": "glm-5.3"
 }

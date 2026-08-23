@@ -5,45 +5,45 @@
   "book": "2-kings",
   "lang": "my",
   "chapter": 9,
-  "translation": "And Yehoram turned his hands and fled, and said to Ahaziah: 'Treachery, O Ahaziah!'",
+  "translation": "ယာဟောရာမ်သည် ⟨သူ၏⟩ လက်များကို လှည့်ပြီး ထွက်ပြေးလေ၏။ ထို့နောက် အာခဇ်ယားအား — အလိမ်အညာ ဖြစ်သည်၊ အာခဇ်ယား — ဟု ဆိုလေ၏။",
   "tokens": [
     {
       "surface": "ויהפך",
-      "gloss": "and turned"
+      "gloss": "လှည့်လေ၏"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehoram"
+      "gloss": "ယာဟောရာမ်"
     },
     {
       "surface": "ידיו",
-      "gloss": "his hands"
+      "gloss": "လက်များကို"
     },
     {
       "surface": "וינס",
-      "gloss": "and fled"
+      "gloss": "ထွက်ပြေးလေ၏"
     },
     {
       "surface": "ויאמר",
-      "gloss": "and said"
+      "gloss": "ထို့နောက်…ဆိုလေ၏"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "အား"
     },
     {
       "surface": "אחזיהו",
-      "gloss": "Ahaziah"
+      "gloss": "အာခဇ်ယား"
     },
     {
       "surface": "מרמה",
-      "gloss": "treachery"
+      "gloss": "အလိမ်အညာ"
     },
     {
       "surface": "אחזיה",
-      "gloss": "Ahaziah"
+      "gloss": "အာခဇ်ယား"
     }
   ],
-  "timestamp": "2026-08-23T11:05:40.327965225Z",
+  "timestamp": "2026-08-23T20:24:00.680245099Z",
   "model": "glm-5.3"
 }

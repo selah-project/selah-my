@@ -5,8 +5,37 @@
   "book": "1-chronicles",
   "lang": "my",
   "chapter": 25,
-  "translation": "ယှစ်ခုမြောက်အံ့ရှစ်ခုမြောက်မှစ၍ လ္ဘာနာနိ injectorNo— let me produce proper output.]",
-  "tokens": [],
-  "timestamp": "2026-08-23T16:54:32.080420791Z",
+  "translation": "ဆယ့်ရှစ်ခုမြောက်ကား ခါနာနိ — သူ၏သားများနှင့် သူ၏မောင်နှမများသည် တစ်ဆယ့်နှစ်ယောက် ဖြစ်၏။",
+  "tokens": [
+    {
+      "surface": "לשמונה",
+      "gloss": "ဆယ့်ရှစ်ခုမြောက်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ရှစ်"
+    },
+    {
+      "surface": "לחנני",
+      "gloss": "ခါနာနိ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "သူ၏သားများ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "သူ၏မောင်နှမများ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "တစ်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T20:17:15.540993894Z",
   "model": "glm-5.3"
 }

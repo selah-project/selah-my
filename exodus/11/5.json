@@ -5,85 +5,85 @@
   "book": "exodus",
   "lang": "my",
   "chapter": 11,
-  "translation": "and every firstborn in the land of Mitsrayim will die — from the firstborn of Pharaoh, who sits upon his throne, as far as the firstborn of the maidservant, who is behind the millstones — and every firstborn of beasts.",
+  "translation": "မိဖုရားများ၏အရင်ဖွားသားအပါအဝင် အီဂျစ်ပြည်၌ အသက်ရှင်ဖွားမြင်ရခြင်းမှ စ၍ ထီးနန်း၌ထိုင်သော ဖာရောဘုရင်၏ သားဦးမှစ၍ ကြိတ်စက်ရှေ့၌ရှိသော ကျွန်မ၏ သားဦးတိုင်အောင် အကြီးအကျယ်သေဆုံးကြလတံ့။ ထို့ပြင် သတ္တဝါအားလုံးတို့၏ သားဦးများလည်း သေကြလတံ့။",
   "tokens": [
     {
       "surface": "ומת",
-      "gloss": "and-will-die"
+      "gloss": "သေလတံ့"
     },
     {
       "surface": "כל",
-      "gloss": "every"
+      "gloss": "အားလုံးသော"
     },
     {
       "surface": "בכור",
-      "gloss": "firstborn"
+      "gloss": "သားဦး"
     },
     {
       "surface": "בארץ",
-      "gloss": "in the land of"
+      "gloss": "ပြည်၌"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "အီဂျစ်"
     },
     {
       "surface": "מבכור",
-      "gloss": "from the firstborn of"
+      "gloss": "မှ…သားဦး"
     },
     {
       "surface": "פרעה",
-      "gloss": "Pharaoh"
+      "gloss": "ဖာရော"
     },
     {
       "surface": "הישב",
-      "gloss": "who sits"
+      "gloss": "ထိုင်သော"
     },
     {
       "surface": "על",
-      "gloss": "upon"
+      "gloss": "ေပါ်၌"
     },
     {
       "surface": "כסאו",
-      "gloss": "his throne"
+      "gloss": "ထီးနန်း"
     },
     {
       "surface": "עד",
-      "gloss": "as far as"
+      "gloss": "အထိ"
     },
     {
       "surface": "בכור",
-      "gloss": "the firstborn of"
+      "gloss": "သားဦး"
     },
     {
       "surface": "השפחה",
-      "gloss": "the maidservant"
+      "gloss": "ကျွန်မ"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "အကြင်"
     },
     {
       "surface": "אחר",
-      "gloss": "behind"
+      "gloss": "ရှေ့၌"
     },
     {
       "surface": "הרחים",
-      "gloss": "the millstones"
+      "gloss": "ကြိတ်စက်"
     },
     {
       "surface": "וכל",
-      "gloss": "and every"
+      "gloss": "နှင့်အားလုံးသော"
     },
     {
       "surface": "בכור",
-      "gloss": "firstborn"
+      "gloss": "သားဦး"
     },
     {
       "surface": "בהמה",
-      "gloss": "of beasts"
+      "gloss": "သတ္တဝါ"
     }
   ],
-  "timestamp": "2026-08-23T07:40:50.111230504Z",
+  "timestamp": "2026-08-23T20:36:33.033956319Z",
   "model": "glm-5.3"
 }

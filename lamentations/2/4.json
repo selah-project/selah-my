@@ -5,15 +5,15 @@
   "book": "lamentations",
   "lang": "my",
   "chapter": 2,
-  "translation": "မိမိ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ကို ရန်သူကဲ့သို့ ကြိုးတပ်တော်မူ၏၊ မိမိ လက်ယာကို ရန်သူကဲ့သို့ ရပ်တော်မူ၏၊ ဇိအုန်သမီး၏ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၌ မျက်စိချမ်းသာဖွယ်အားလုံးကို သတ်တော်မူ၏၊ မိမိ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ကို မီးကဲ့သို့ လောင်းထုတ်တော်မူ၏။",
+  "translation": "ရန်သူကဲ့သို့ ⟨၎င်းသည်⟩ ⟨၎င်း၏⟩ လေးကို ခြေနှင့်နင်းတပ်၍၊ ရန်သူကဲ့သို့ ⟨၎င်း၏⟩ လက်ယာကို ချဲ့ကားထားတော်မူ၏။ ဇိအုန်သမီး၏ တဲအတွင်း၌ မျက်စိချမ်းသာရာအားလုံးကို သတ်ပစ်တော်မူ၍ ⟨၎င်း၏⟩ အမျက်ဒေါသကို မီးကဲ့သို့ သွန်းလောင်းတော်မူ၏။",
   "tokens": [
     {
       "surface": "דרך",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>တော်မူ၏<caleb-do><caleb-do>"
+      "gloss": "ခြေနှင့်နင်းတပ်၍"
     },
     {
       "surface": "קשתו",
-      "gloss": "<caleb-do><caleb-do>မိမိ<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "⟨၎င်း၏⟩ လေးကို"
     },
     {
       "surface": "כאויב",
@@ -21,11 +21,11 @@
     },
     {
       "surface": "נצב",
-      "gloss": "ရပ်တော်မူ၏<caleb-do><caleb-do>"
+      "gloss": "ချဲ့ကားထားတော်မူ၏"
     },
     {
       "surface": "ימינו",
-      "gloss": "<caleb-do><caleb-do>မိမိလက်ယာ<caleb-do><caleb-do>"
+      "gloss": "⟨၎င်း၏⟩ လက်ယာကို"
     },
     {
       "surface": "כצר",
@@ -33,27 +33,27 @@
     },
     {
       "surface": "ויהרג",
-      "gloss": "<caleb-do><caleb-do>သတ်တော်မူ၏<caleb-do><caleb-do>"
+      "gloss": "ထို့နောက် သတ်ပစ်တော်မူ၍"
     },
     {
       "surface": "כל",
-      "gloss": "<caleb-do><caleb-do>အားလုံး<caleb-do><caleb-do>"
+      "gloss": "အားလုံးကို"
     },
     {
       "surface": "מחמדי",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>ချမ်းသာဖွယ်<caleb-do><caleb-do>"
+      "gloss": "ချမ်းသာရာ"
     },
     {
       "surface": "עין",
-      "gloss": "<caleb-do><caleb-do>မျက်စိ<caleb-do><caleb-do>"
+      "gloss": "မျက်စိ"
     },
     {
       "surface": "באהל",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၌<caleb-do><caleb-do>"
+      "gloss": "တဲအတွင်း၌"
     },
     {
       "surface": "בת",
-      "gloss": "<caleb-do><caleb-do>သမီး<caleb-do><caleb-do>"
+      "gloss": "သမီး၏"
     },
     {
       "surface": "ציון",
@@ -61,7 +61,7 @@
     },
     {
       "surface": "שפך",
-      "gloss": "<caleb-do><caleb-do>လောင်းထုတ်တော်မူ၏<caleb-do><caleb-do>"
+      "gloss": "သွန်းလောင်းတော်မူ၏"
     },
     {
       "surface": "כאש",
@@ -69,9 +69,9 @@
     },
     {
       "surface": "חמתו",
-      "gloss": "<caleb-do><caleb-do>မိမိ<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "⟨၎င်း၏⟩ အမျက်ဒေါသကို"
     }
   ],
-  "timestamp": "2026-08-23T15:52:10.657396029Z",
+  "timestamp": "2026-08-23T20:10:40.656330889Z",
   "model": "glm-5.3"
 }

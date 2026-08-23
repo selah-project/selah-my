@@ -5,69 +5,69 @@
   "book": "1-kings",
   "lang": "my",
   "chapter": 18,
-  "translation": "As Obadyahu was on the way, behold — Elijah ⟨came⟩ to meet him. He recognized him, fell on his face, and said — is it you, my lord Elijah?",
+  "translation": "အောဗဒ်ယာဟု လမ်းခရီး၌ ရှိနေစဉ်၊ ကြည့်ရှုလော့ — ဧလိယာဟု ⟨သည်⟩ သူ့ကိုတွေ့ရန် ⟨လာ⟩၏။ သူ့ကို အသိအမှတ်ပြု၍ မျက်နှာပေါ်သို့ ကျိုးကျ၏။ ထို့နောက် «ဧလိယာဟု ဖြစ်ပါသလော၊ ငါ၏အရှင်» ဟု ဆို၏။",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "it came to pass"
+      "gloss": "ဖြစ်လေ၏"
     },
     {
       "surface": "עבדיהו",
-      "gloss": "Obadyahu"
+      "gloss": "အောဗဒ်ယာဟု"
     },
     {
       "surface": "בדרך",
-      "gloss": "on the way"
+      "gloss": "လမ်းခရီး၌"
     },
     {
       "surface": "והנה",
-      "gloss": "and behold"
+      "gloss": "ကြည့်ရှုလော့"
     },
     {
       "surface": "אליהו",
-      "gloss": "Elijah"
+      "gloss": "ဧလိယာဟု"
     },
     {
       "surface": "לקראתו",
-      "gloss": "to meet him"
+      "gloss": "သူ့ကိုတွေ့ရန်"
     },
     {
       "surface": "ויכרהו",
-      "gloss": "he recognized him"
+      "gloss": "အသိအမှတ်ပြု၍"
     },
     {
       "surface": "ויפל",
-      "gloss": "fell"
+      "gloss": "ကျိုးကျ၏"
     },
     {
       "surface": "על",
-      "gloss": "upon"
+      "gloss": "…ပေါ်သို့"
     },
     {
       "surface": "פניו",
-      "gloss": "his face"
+      "gloss": "မျက်နှာ"
     },
     {
       "surface": "ויאמר",
-      "gloss": "and said"
+      "gloss": "ဆို၏"
     },
     {
       "surface": "האתה",
-      "gloss": "is it you"
+      "gloss": "…ဖြစ်ပါသလော"
     },
     {
       "surface": "זה",
-      "gloss": "this one"
+      "gloss": "ဤသူ"
     },
     {
       "surface": "אדני",
-      "gloss": "my lord"
+      "gloss": "ငါ၏အရှင်"
     },
     {
       "surface": "אליהו",
-      "gloss": "Elijah"
+      "gloss": "ဧလိယာဟု"
     }
   ],
-  "timestamp": "2026-08-23T10:53:43.894257053Z",
+  "timestamp": "2026-08-23T19:34:20.881486805Z",
   "model": "glm-5.3"
 }

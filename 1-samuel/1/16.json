@@ -5,66 +5,66 @@
   "book": "1-samuel",
   "lang": "my",
   "chapter": 1,
-  "translation": "«tjypPm;?tjym;a?ol?udk?awnfh?udk?us?ynm?vkyfief;ygonf\/?tqk?oyf?awG?ygoD;?tjz?udk?vrf;?a&?tjyif?rnfh?jyK?ay?ef?rS?ayonf\/»",
+  "translation": "မင်း၏ကျွန်မကို ⟨את⟩ ဘီလိယာလ်သမီးအဖြစ် ရှေ့မှောက်၌ မမှတ်ပါနှင့် — အဘယ်ကြောင့်ဆိုသော် ကျွန်မ၏တွေးတောမှုပေါများခြင်းကြောင့်၎င်း၊ ကျွန်မ၏စိတ်ဆင်းရဲခြင်းကြောင့်၎င်း ယခုတိုင်အောင် ပြောဆိုပါသည်။",
   "tokens": [
     {
-      "surface": "al",
-      "gloss": "«?ch?"
+      "surface": "אל",
+      "gloss": "မ…ပါနှင့်"
     },
     {
-      "surface": "ttn",
-      "gloss": "tjypPm;?tjym;a?ol?udk?awnfh?udk?us?ynm?vkyfief;ygonf\/?"
+      "surface": "תתן",
+      "gloss": "မမှတ်"
     },
     {
-      "surface": "at",
-      "gloss": "⟨את⟩ «at»",
-      "marks": "tjym;a?ol?udk"
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "မင်း၏ကျွန်မကို"
     },
     {
-      "surface": "amtjk",
-      "gloss": "tjym;a?ol?udk"
+      "surface": "אמתך",
+      "gloss": "မင်း၏ကျွန်မ"
     },
     {
-      "surface": "lpny",
-      "gloss": "txl;vHk;?awmif?awmif;"
+      "surface": "לפני",
+      "gloss": "ရှေ့မှောက်၌"
     },
     {
-      "surface": "bt",
-      "gloss": "awnfh?udk?us"
+      "surface": "בת",
+      "gloss": "…သမီး"
     },
     {
-      "surface": "blya",
-      "gloss": "ynm"
+      "surface": "בליעל",
+      "gloss": "ဘီလိယာလ်"
     },
     {
-      "surface": "ky",
-      "gloss": "tqk?oyf?awG?ygoD;?tjz?udk"
+      "surface": "כי",
+      "gloss": "အဘယ်ကြောင့်ဆိုသော်"
     },
     {
-      "surface": "mrb",
-      "gloss": "vrf;?a&?tjyif?rnfh"
+      "surface": "מרב",
+      "gloss": "ပေါများခြင်းကြောင့်"
     },
     {
-      "surface": "yxy",
-      "gloss": "jyK"
+      "surface": "שיחי",
+      "gloss": "ကျွန်မ၏တွေးတောမှု"
     },
     {
-      "surface": "wkuy",
-      "gloss": "ay?ef"
+      "surface": "וכעסי",
+      "gloss": "ကျွန်မ၏စိတ်ဆင်းရဲခြင်း"
     },
     {
-      "surface": "dbry",
-      "gloss": "rS?ayonf\/»"
+      "surface": "דברתי",
+      "gloss": "ပြောဆိုပါသည်"
     },
     {
-      "surface": "ad",
-      "gloss": "«"
+      "surface": "עד",
+      "gloss": "…အထိ"
     },
     {
-      "surface": "hnh",
-      "gloss": "tjyif"
+      "surface": "הנה",
+      "gloss": "ယခုတိုင်အောင်"
     }
   ],
-  "timestamp": "2026-08-23T09:52:40.609502452Z",
+  "timestamp": "2026-08-23T19:23:13.027028467Z",
   "model": "glm-5.3"
 }

@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "my",
   "chapter": 119,
-  "translation": "Give me understanding, and I keep the Torah, and I observe it with all my heart.",
+  "translation": "ငါ့အား နားလည်မှုပေးပါ၊ ထိုအခါ ငါ သင်၏တောရာဟ်ကို စောင့်ထိန်းမည်၊ ထို့ပြင် ၎င်းကို ကိုယ်တော်ငြိမ်း စိတ်နှလုံး အားဖြင့် ထိန်းသိမ်းမည်။",
   "tokens": [
     {
       "surface": "הבינני",
-      "gloss": "Give me understanding"
+      "gloss": "ငါ့အားနားလည်စေပါ"
     },
     {
       "surface": "ואצרה",
-      "gloss": "and I keep"
+      "gloss": "ငါစောင့်ထိန်းမည်"
     },
     {
       "surface": "תורתך",
-      "gloss": "the Torah"
+      "gloss": "သင်၏တောရာဟ်"
     },
     {
       "surface": "ואשמרנה",
-      "gloss": "and I observe it"
+      "gloss": "ငါထိန်းသိမ်းမည်"
     },
     {
       "surface": "בכל",
-      "gloss": "with all"
+      "gloss": "ကိုယ်တော်ငြိမ်"
     },
     {
-      "surface": "לב",
-      "gloss": "my heart"
+      "surface": "လဗ",
+      "gloss": "စိတ်နှလုံး"
     }
   ],
-  "timestamp": "2026-08-23T14:46:20.781878855Z",
+  "timestamp": "2026-08-23T20:05:20.490520490Z",
   "model": "glm-5.3"
 }

@@ -5,11 +5,11 @@
   "book": "lamentations",
   "lang": "my",
   "chapter": 2,
-  "translation": "<caleb-do><caleb-do>အစဉ်အမြဲ<caleb-do><caleb-do> အဒေါနိုင်သည် <caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>၏ နေရာများအားလုံးကို မျိုချတော်မူ၏၊ သနားခြင်း မပြုတော်မူ၊ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>သမီး၏ ခံတပ်များကို <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>များက ဖျက်ဆီးတော်မူ၏၊ မြေကြီးထိ ဆင်းသက်စေတော်မူ၏၊ နိုင်ငံတော်နှင့် မင်းညီမင်းသားများကို မသန့်ရှင်းစေတော်မူ။",
+  "translation": "အဒေါနိုင်သည် မျိုချတော်မူ၍ ယာကောဗ်၏ ⟨अת⟩ ခြံရံနေရာအားလုံးကို သနားစောင့်ရှောက်တော်မမူ။ ⟨၎င်းသည်⟩ ယုဒသမီး၏ ခံတပ်မြို့များကို ရဲရင့်သောအမျက်ဖြင့် ဖျက်ဆီး၍ မြေကြီးသို့ ရောက်စေတော်မူ၏။ ⟨၎င်းသည်⟩ နိုင်ငံတော်နှင့် ⟨၎င်း၏⟩ မင်းသားများကို မြင့်မြတ်မှုမှ ချထားတော်မူ၏။",
   "tokens": [
     {
       "surface": "בלע",
-      "gloss": "မျိုချ၏<caleb-do><caleb-do>ဖျက်ဆီး၏<caleb-do><caleb-do>"
+      "gloss": "မျိုချတော်မူ၍"
     },
     {
       "surface": "אדני",
@@ -21,66 +21,66 @@
     },
     {
       "surface": "חמל",
-      "gloss": "သနားခြင်း<caleb-do><caleb-do>မပြု<caleb-do><caleb-do>"
+      "gloss": "သနားစောင့်ရှောက်တော်မမူ"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "<caleb-do><caleb-do>နေရာများအားလုံး<caleb-do><caleb-do>"
+      "marks": "ခြံရံနေရာအားလုံး"
     },
     {
       "surface": "כל",
-      "gloss": "<caleb-do><caleb-do>အားလုံး<caleb-do><caleb-do>"
+      "gloss": "အားလုံး"
     },
     {
       "surface": "נאות",
-      "gloss": "<caleb-do><caleb-do>နေရာများ<caleb-do><caleb-do>"
+      "gloss": "ခြံရံနေရာ"
     },
     {
       "surface": "יעקב",
-      "gloss": "<caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>"
+      "gloss": "ယာကောဗ်၏"
     },
     {
       "surface": "הרס",
-      "gloss": "ဖျက်ဆီး၏"
+      "gloss": "ဖျက်ဆီး၍"
     },
     {
       "surface": "בעברתו",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>တွင်<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "ရဲရင့်သောအမျက်ဖြင့်"
     },
     {
       "surface": "מבצרי",
-      "gloss": "ခံတပ်များ"
+      "gloss": "ခံတပ်မြို့များကို"
     },
     {
       "surface": "בת",
-      "gloss": "<caleb-do><caleb-do>သမီး<caleb-do><caleb-do>"
+      "gloss": "သမီး၏"
     },
     {
       "surface": "יהודה",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "ယုဒ"
     },
     {
       "surface": "הגיע",
-      "gloss": "<caleb-do><caleb-do>ရောက်စေ၏<caleb-do><caleb-do>"
+      "gloss": "ရောက်စေတော်မူ၏"
     },
     {
       "surface": "לארץ",
-      "gloss": "<caleb-do><caleb-do>မြေကြီးသို့<caleb-do><caleb-do>"
+      "gloss": "မြေကြီးသို့"
     },
     {
       "surface": "חלל",
-      "gloss": "<caleb-do><caleb-do>မသန့်ရှင်းစေ၏<caleb-do><caleb-do>"
+      "gloss": "မြင့်မြတ်မှုမှ ချထားတော်မူ၏"
     },
     {
       "surface": "ממלכה",
-      "gloss": "<caleb-do><caleb-do>နိုင်ငံ<caleb-do><caleb-do>"
+      "gloss": "နိုင်ငံတော်ကို"
     },
     {
-      "surface": "ושרிஔ",
-      "gloss": "<caleb-do><caleb-do>နှင့် မင်းညီမင်းသားများ<caleb-do><caleb-do>"
+      "surface": "ושריה",
+      "gloss": "ထို့ပြင် ⟨၎င်း၏⟩ မင်းသားများကို"
     }
   ],
-  "timestamp": "2026-08-23T15:52:10.657078257Z",
+  "timestamp": "2026-08-23T20:10:40.655955295Z",
   "model": "glm-5.3"
 }

@@ -5,61 +5,61 @@
   "book": "exodus",
   "lang": "my",
   "chapter": 11,
-  "translation": "And there will be a great outcry in all the land of Mitsrayim, the like of which has never been, and the like of which will never be added again.",
+  "translation": "ထိုအခါ အီဂျစ်ပြည် တစ်ခုလုံး၌ ကြီးစွာသော အော်တွင်းသံကြီး ဖြစ်လတံ့။ ယင်းကဲ့သို့ မဖြစ်ခဲ့သော၊ ယင်းကဲ့သို့ နောက်ထပ်မဖြစ်တော့သော အခြေအနေဖြစ်လတံ့။",
   "tokens": [
     {
       "surface": "והיתה",
-      "gloss": "and-there-will-be"
+      "gloss": "ဖြစ်လတံ့"
     },
     {
       "surface": "צעקה",
-      "gloss": "outcry"
+      "gloss": "အော်တွင်းသံကြီး"
     },
     {
       "surface": "גדלה",
-      "gloss": "great"
+      "gloss": "ကြီးစွာသော"
     },
     {
       "surface": "בכל",
-      "gloss": "in all"
+      "gloss": "တစ်ခုလုံး၌"
     },
     {
       "surface": "ארץ",
-      "gloss": "the land of"
+      "gloss": "ပြည်"
     },
     {
       "surface": "מצרים",
-      "gloss": "Mitsrayim"
+      "gloss": "အီဂျစ်"
     },
     {
       "surface": "אשר",
-      "gloss": "which"
+      "gloss": "အကြင်"
     },
     {
       "surface": "כמהו",
-      "gloss": "like it"
+      "gloss": "ယင်းကဲ့သို့"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "မ"
     },
     {
       "surface": "נהיתה",
-      "gloss": "has-been"
+      "gloss": "ဖြစ်ခဲ့"
     },
     {
       "surface": "וכמהו",
-      "gloss": "and like it"
+      "gloss": "နှင့်ယင်းကဲ့သို့"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "မ"
     },
     {
       "surface": "תסף",
-      "gloss": "will-be-added-again"
+      "gloss": "နောက်ထပ်ဖြစ်တော့"
     }
   ],
-  "timestamp": "2026-08-23T07:40:50.111688201Z",
+  "timestamp": "2026-08-23T20:36:33.034220105Z",
   "model": "glm-5.3"
 }

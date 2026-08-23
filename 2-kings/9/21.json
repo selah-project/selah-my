@@ -5,93 +5,93 @@
   "book": "2-kings",
   "lang": "my",
   "chapter": 9,
-  "translation": "Yehoram said: 'Hitch up (the chariot),' and his chariot was harnessed. And Yehoram king of Israel went out, and Ahaziah king of Judah, each in his own chariot; and they went out to meet Yehu, and found him in the plot of land of Nabot the Yizreelite.",
+  "translation": "ယောရာမ်က \"စစ်ရထားကို ကြိုးဆွဲကုန်အောင်\" ဟု ဆို၏။ သူ၏စစ်ရထားကို ကြိုးဆွဲကုန်၏။ ဣသရေလမင်း ယောရာမ်နှင့် ယောငဒမင်း အာဟဇိယာဟူသော မင်းနှစ်ပါးတို့သည် မိမိတို့စစ်ရထားစီး၍ ထွက်ကုန်၏။ ယေဟူ၏ဆီသို့ ကြိုဆိုရန် ထွက်သွားရာ ယဇရေလလူ နာဗော၏ လယ်ကွက်၌ သူ့ကို တွေ့ကုန်၏။",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "said"
+      "gloss": "ဆို၏"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehoram"
+      "gloss": "ယောရာမ်က"
     },
     {
       "surface": "אסר",
-      "gloss": "hitch up"
+      "gloss": "ကြိုးဆွဲကုန်အောင်"
     },
     {
       "surface": "ויאסר",
-      "gloss": "was harnessed"
+      "gloss": "ကြိုးဆွဲကုန်၏"
     },
     {
       "surface": "רכבו",
-      "gloss": "his chariot"
+      "gloss": "သူ၏စစ်ရထားကို"
     },
     {
       "surface": "ויצא",
-      "gloss": "went out"
+      "gloss": "ထွက်၏"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehoram"
+      "gloss": "ယောရာမ်"
     },
     {
       "surface": "מלך",
-      "gloss": "king"
+      "gloss": "မင်း"
     },
     {
       "surface": "ישראל",
-      "gloss": "Israel"
+      "gloss": "ဣသရေလ"
     },
     {
       "surface": "ואחזיהו",
-      "gloss": "and Ahaziah"
+      "gloss": "နှင့် အာဟဇိယာ"
     },
     {
       "surface": "מלך",
-      "gloss": "king"
+      "gloss": "မင်း"
     },
     {
       "surface": "יהודה",
-      "gloss": "Judah"
+      "gloss": "ယောငဒ"
     },
     {
       "surface": "איש",
-      "gloss": "each one"
+      "gloss": "မိမိတို့စစ်ရထားစီး၍"
     },
     {
       "surface": "ברכבו",
-      "gloss": "in his chariot"
+      "gloss": "စစ်ရထား၌"
     },
     {
       "surface": "ויצאו",
-      "gloss": "and they went out"
+      "gloss": "ထွက်ကုန်၏"
     },
     {
-      "surface": "לקראת",
-      "gloss": "to meet"
+      "surface": "လקראת",
+      "gloss": "ကြိုဆိုရန်"
     },
     {
       "surface": "יהוא",
-      "gloss": "Yehu"
+      "gloss": "ယေဟူ၏ဆီသို့"
     },
     {
       "surface": "וימצאהו",
-      "gloss": "and found him"
+      "gloss": "သူ့ကို တွေ့ကုန်၏"
     },
     {
       "surface": "בחלקת",
-      "gloss": "in the plot of land"
+      "gloss": "လယ်ကွက်၌"
     },
     {
       "surface": "נבות",
-      "gloss": "Nabot"
+      "gloss": "နာဗော၏"
     },
     {
       "surface": "היזרעאלי",
-      "gloss": "the Yizreelite"
+      "gloss": "ယဇရေလလူ"
     }
   ],
-  "timestamp": "2026-08-23T11:05:40.327500445Z",
+  "timestamp": "2026-08-23T20:23:40.882120882Z",
   "model": "glm-5.3"
 }

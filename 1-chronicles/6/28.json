@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "my",
   "chapter": 6,
-  "translation": "ယာခတ်၏သား၊ ဂေရeshom၏သား၊ လေဝိ၏သား။",
+  "translation": "ယခသ်၏သား၊ ဂေရောရှုန်၏သား၊ လေဝိ၏သား။",
   "tokens": [
     {
       "surface": "בן",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "יחת",
-      "gloss": "ယာခတ်"
+      "gloss": "ယခသ်"
     },
     {
       "surface": "בן",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "גרשם",
-      "gloss": "ဂေရeshom"
+      "gloss": "ဂေရောရှုန်"
     },
     {
       "surface": "בן",
@@ -32,6 +32,6 @@
       "gloss": "လေဝိ"
     }
   ],
-  "timestamp": "2026-08-23T16:43:55.410842629Z",
+  "timestamp": "2026-08-23T20:15:58.392840054Z",
   "model": "glm-5.3"
 }

@@ -5,21 +5,21 @@
   "book": "nehemiah",
   "lang": "my",
   "chapter": 10,
-  "translation": "meshullam၊ aviyah၊ miyamin",
+  "translation": "မေရှုလာမ်၊ အဗိယာ၊ မိယာမိန်။",
   "tokens": [
     {
       "surface": "משלם",
-      "gloss": "meshullam"
+      "gloss": "မေရှုလာမ်"
     },
     {
       "surface": "אביה",
-      "gloss": "aviyah"
+      "gloss": "အဗိယာ"
     },
     {
       "surface": "מימן",
-      "gloss": "miyamin"
+      "gloss": "မိယာမိန်"
     }
   ],
-  "timestamp": "2026-08-23T16:32:57.169282074Z",
+  "timestamp": "2026-08-23T20:15:02.410045819Z",
   "model": "glm-5.3"
 }

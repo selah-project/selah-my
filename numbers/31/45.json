@@ -5,8 +5,29 @@
   "book": "numbers",
   "lang": "my",
   "chapter": 31,
-  "translation": "နှင့် မြင်းကုလားအုatorium သုံးသောင်း ငါးရာ",
-  "tokens": [],
-  "timestamp": "2026-08-23T08:49:39.939830958Z",
+  "translation": "လာများကား သုံးသောင်းနှင့် ငါးရာ၊",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "လာများ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "သုံးဆယ်"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ထောင်"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ငါး"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ရာ"
+    }
+  ],
+  "timestamp": "2026-08-23T20:38:23.615297624Z",
   "model": "glm-5.3"
 }

@@ -5,66 +5,66 @@
   "book": "2-kings",
   "lang": "my",
   "chapter": 9,
-  "translation": "And Yehu filled his hand with the bow, and struck ⟨את⟩ Yehoram between his arms; and the arrow came out from his heart, and he sank down in his chariot.",
+  "translation": "ယာဟူအမည်ရှိသူက ၎င်း၏လက်ကို လေးနှင့် ဖြည့်၍ ⟨သေနတ်လေးဖြင့် ပစ်ခတ်လေ၏⟩ ⟨את⟩ ယာဟောရာမ်ကို ၎င်း၏ ပခုံးနှစ်ဖက်အကြား ပစ်ခတ်လေ၏။ မြားသည် ၎င်း၏ နှလုံးမှ ထွက်သွားလေ၏။ ထို့နောက် ၎င်းသည် ၎င်း၏ ရထားထဲ၌ တုန်လှုပ်စွာကျဆင်းလေ၏။",
   "tokens": [
     {
       "surface": "ויהוא",
-      "gloss": "and Yehu"
+      "gloss": "ယာဟူအမည်ရှိသူ"
     },
     {
       "surface": "מלא",
-      "gloss": "filled"
+      "gloss": "ဖြည့်၍"
     },
     {
       "surface": "ידו",
-      "gloss": "his hand"
+      "gloss": "၎င်း၏လက်ကို"
     },
     {
       "surface": "בקשת",
-      "gloss": "with the bow"
+      "gloss": "လေးနှင့်"
     },
     {
       "surface": "ויך",
-      "gloss": "and struck"
+      "gloss": "ပစ်ခတ်လေ၏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehoram"
+      "marks": "ယာဟောရာမ်"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehoram"
+      "gloss": "ယာဟောရာမ်"
     },
     {
       "surface": "בין",
-      "gloss": "between"
+      "gloss": "အကြား"
     },
     {
-      "surface": "זרעיו",
-      "gloss": "his arms"
+      "surface": "זרעיuvo",
+      "gloss": "၎င်း၏ ပခုံးနှစ်ဖက်"
     },
     {
       "surface": "ויצא",
-      "gloss": "and came out"
+      "gloss": "ထွက်သွားလေ၏"
     },
     {
       "surface": "החצי",
-      "gloss": "the arrow"
+      "gloss": "မြားသည်"
     },
     {
       "surface": "מלבו",
-      "gloss": "from his heart"
+      "gloss": "၎င်း၏ နှလုံးမှ"
     },
     {
       "surface": "ויכרע",
-      "gloss": "and sank down"
+      "gloss": "တုန်လှုပ်စွာကျဆင်းလေ၏"
     },
     {
       "surface": "ברכבו",
-      "gloss": "in his chariot"
+      "gloss": "၎င်း၏ ရထားထဲ၌"
     }
   ],
-  "timestamp": "2026-08-23T11:05:40.328126681Z",
+  "timestamp": "2026-08-23T20:24:00.680602739Z",
   "model": "glm-5.3"
 }

@@ -5,36 +5,36 @@
   "book": "2-chronicles",
   "lang": "my",
   "chapter": 11,
-  "translation": "ထို့အပြင် ⟨את⟩ ဂသ် (Gath) ကို၎င်း၊ ⟨את⟩ မာရေရှာ (Maresha) ကို၎င်း၊ ⟨את⟩ ဇိပ် (Ziph) ကို၎င်း ဆောက်လုပ်လေ၏။",
+  "translation": "၎င်းပြင် ⟨את⟩ ဂက်နှင့် ⟨את⟩ မာရေရှာနှင့် ⟨את⟩ ဇိဖ်ကို၎",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "ဂသ် (Gath)"
+      "gloss": "⟨את⟩",
+      "marks": "ဂက်"
     },
     {
       "surface": "גת",
-      "gloss": "ဂသ် (Gath)"
+      "gloss": "ဂက်"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "မာရေရှာ (Maresha)"
+      "gloss": "⟨את⟩",
+      "marks": "မာရေရှာ"
     },
     {
       "surface": "מרשה",
-      "gloss": "မာရေရှာ (Maresha)"
+      "gloss": "မာရေရှာ"
     },
     {
       "surface": "ואת",
-      "gloss": "⟨את⟩ … ကို၎င်း",
-      "marks": "ဇိပ် (Ziph)"
+      "gloss": "⟨את⟩",
+      "marks": "ဇိဖ်"
     },
     {
       "surface": "זיף",
-      "gloss": "ဇိပ် (Ziph)"
+      "gloss": "ဇိဖ်"
     }
   ],
-  "timestamp": "2026-08-23T17:04:07.285707883Z",
+  "timestamp": "2026-08-23T20:48:51.645958749Z",
   "model": "glm-5.3"
 }

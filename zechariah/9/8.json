@@ -5,65 +5,65 @@
   "book": "zechariah",
   "lang": "my",
   "chapter": 9,
-  "translation": "And I shall encamp as a guard for my house, from him who passes by and from him who returns; and a taskmaster shall not pass over them again; for now I have seen with my eyes.",
+  "translation": "ကျွန်ုပ်သည် ကျွန်ုပ်အိမ်အတွက် စစ်စခန်း ချထားမည်၊ ကူးသွားသူကိုလည်းကောင်း၊ ပြန်လာသူကိုလည်းကောင်း ⟨တားဆီး၍⟩၊ နှိပ်စက်ချုပ်ချာသူသည် ထိုသူတို့အပေါ် နောက်တစ်ဖန် မလွန်လောက်တော့၊ အကြောင်းမူကား ယခု ၌ ကျွန်ုပ်သည် ကျွန်ုပ်မျက်စိဖြင့် မြင်ပြီးသည်။",
   "tokens": [
     {
       "surface": "וחניתי",
-      "gloss": "and I shall encamp"
+      "gloss": "စခန်းချထားမည် (ကျွန်ုပ်)"
     },
     {
       "surface": "לביתי",
-      "gloss": "for my house"
+      "gloss": "ကျွန်ုပ်အိမ်အတွက်"
     },
     {
       "surface": "מצבה",
-      "gloss": "as a guard"
+      "gloss": "စစ်စခန်း"
     },
     {
       "surface": "מעבר",
-      "gloss": "from him who passes by"
+      "gloss": "ကူးသွားသူကို"
     },
     {
       "surface": "ומשב",
-      "gloss": "and from him who returns"
+      "gloss": "ပြန်လာသူကို"
     },
     {
       "surface": "ולא",
-      "gloss": "and not"
+      "gloss": "မ...တော့"
     },
     {
       "surface": "יעבר",
-      "gloss": "he shall pass"
+      "gloss": "လွန်လောက်တော့"
     },
     {
-      "surface": "עליהם",
-      "gloss": "over them"
+      "surface": "עליהμ",
+      "gloss": "ထိုသူတို့အပေါ်"
     },
     {
       "surface": "עוד",
-      "gloss": "again"
+      "gloss": "နောက်တစ်ဖန်"
     },
     {
       "surface": "נגש",
-      "gloss": "a taskmaster"
+      "gloss": "နှိပ်စက်ချုပ်ချာသူ"
     },
     {
       "surface": "כי",
-      "gloss": "for"
+      "gloss": "အကြောင်းမူကား"
     },
     {
       "surface": "עתה",
-      "gloss": "now"
+      "gloss": "ယခု ၌"
     },
     {
       "surface": "ראיתי",
-      "gloss": "I have seen"
+      "gloss": "မြင်ပြီးသည် (ကျွန်ုပ်)"
     },
     {
       "surface": "בעיני",
-      "gloss": "with my eyes"
+      "gloss": "ကျွန်ုပ်မျက်စိဖြင့်"
     }
   ],
-  "timestamp": "2026-08-23T18:05:32.812061312Z",
+  "timestamp": "2026-08-23T20:00:25.066036221Z",
   "model": "glm-5.3"
 }

@@ -5,42 +5,42 @@
   "book": "genesis",
   "lang": "my",
   "chapter": 11,
-  "translation": "Burmese rendering required: And Reu lived two and thirty years, and begat Serug.",
+  "translation": "ရေအုသည် နှစ်ဆယ့်သုံးဆယ်သော နှစ်များကို အသက်ရှင်၍ ⟨את⟩ ဆေရုဂ်ကို မွေးဖွား၏။",
   "tokens": [
     {
       "surface": "ויחי",
-      "gloss": "ရှင်သန်၏"
+      "gloss": "အသက်ရှင်၍"
     },
     {
       "surface": "רעו",
-      "gloss": "ရေအူ"
+      "gloss": "ရေအုသည်"
     },
     {
       "surface": "שתים",
-      "gloss": "နှစ်"
+      "gloss": "နှစ်ဆယ်"
     },
     {
       "surface": "ושלשים",
-      "gloss": "နှင့် သုံးဆယ်"
+      "gloss": "သုံးဆယ်"
     },
     {
       "surface": "שנה",
-      "gloss": "နှစ်"
+      "gloss": "နှစ်များ"
     },
     {
-      "surface": "ויולဒ်",
-      "gloss": "ဖွားမြင်၏"
+      "surface": "ויולד",
+      "gloss": "မွေးဖွား၏"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "ဆေရုဂ်"
+      "marks": "ဆေရုဂ်ကို"
     },
     {
       "surface": "שרוג",
       "gloss": "ဆေရုဂ်"
     }
   ],
-  "timestamp": "2026-08-23T07:05:52.515895465Z",
+  "timestamp": "2026-08-23T18:50:54.052414502Z",
   "model": "glm-5.3"
 }

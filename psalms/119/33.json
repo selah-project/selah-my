@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "my",
   "chapter": 119,
-  "translation": " teaches me the way of statutes, and I keep it to the end.",
+  "translation": "အသက်ရှင်တော်မူသော ယာဝေ၊ ဆွေးနွေးပါ၏ — သင်၏ပြဋ္ဌာန်းချက်များ၏လမ်းကို အကျွန်ုပ်အား သင်ကြားပါ၊ ကျွန်ုပ်၏တစ်သက်လုံး အဆုံးတိုင် ထိုလမ်းကို စောင့်ရှောက်ပါမည်။",
   "tokens": [
     {
       "surface": "הורני",
-      "gloss": " teaches me"
+      "gloss": "အကျွန်ုပ်အား သင်ကြားပါ"
     },
     {
       "surface": "יהוה",
-      "gloss": ""
+      "gloss": "ယာဝေ"
     },
     {
       "surface": "דרך",
-      "gloss": "the way of"
+      "gloss": "လမ်း"
     },
     {
       "surface": "חקיך",
-      "gloss": "statutes"
+      "gloss": "သင်၏ပြဋ္ဌာန်းချက်များ၏"
     },
     {
       "surface": "ואצרנה",
-      "gloss": "and I keep it"
+      "gloss": "ထို့နောက် စောင့်ရှောက်ပါမည်"
     },
     {
       "surface": "עקב",
-      "gloss": "to the end"
+      "gloss": "အဆုံးတိုင်"
     }
   ],
-  "timestamp": "2026-08-23T14:46:20.781494622Z",
+  "timestamp": "2026-08-23T20:46:16.070617966Z",
   "model": "glm-5.3"
 }

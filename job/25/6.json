@@ -5,37 +5,37 @@
   "book": "job",
   "lang": "my",
   "chapter": 25,
-  "translation": "ထိုမျှမက လူသားသည် ကောင်းကောင်းကိုက်၊ အ dam descended ဒါ့.",
+  "translation": "ထိုမျှမက လူသားသည် သန်းကောင်ပင်၊ လူသားသားသည် ကျူးကျွဲကောင်သာ ဖြစ်၏။",
   "tokens": [
     {
-      "surface": "אף",
+      "surface": "אַ֭ף",
       "gloss": "ထိုမျှမက"
     },
     {
-      "surface": "כי",
-      "gloss": "ဒါ့"
+      "surface": "כִּֽי",
+      "gloss": "စင်စစ်"
     },
     {
-      "surface": "אנוש",
-      "gloss": "ဒါ့"
+      "surface": "אֱנ֣וֹשׁ",
+      "gloss": "လူသား"
     },
     {
-      "surface": "רמה",
-      "gloss": "ဒါ့"
+      "surface": "רִמָּ֑ה",
+      "gloss": "သန်းကောင်"
     },
     {
-      "surface": "ובן",
-      "gloss": "ဒါ့"
+      "surface": "וּבֶן",
+      "gloss": "နှင့် ... သား"
     },
     {
-      "surface": "אדם",
-      "gloss": "ဒါ့"
+      "surface": "אָ֝דָ֗ם",
+      "gloss": "လူသား"
     },
     {
-      "surface": "תולעה",
-      "gloss": "ဒါ့"
+      "surface": "תּוֹלֵעָֽה",
+      "gloss": "ကျူးကျွဲကောင်"
     }
   ],
-  "timestamp": "2026-08-23T15:30:42.971554746Z",
+  "timestamp": "2026-08-23T20:07:52.492991928Z",
   "model": "glm-5.3"
 }

@@ -5,21 +5,21 @@
   "book": "nehemiah",
   "lang": "my",
   "chapter": 10,
-  "translation": "pashchur၊ amarayah၊ malkiyah။",
+  "translation": "ပါရှ်ဟုရ်၊ အမာရာယာ၊ မာလ်ကိယာ၊",
   "tokens": [
     {
       "surface": "פשחור",
-      "gloss": "pashchur"
+      "gloss": "ပါရှ်ဟုရ်"
     },
     {
       "surface": "אמריה",
-      "gloss": "amarayah"
+      "gloss": "အမာရာယာ"
     },
     {
       "surface": "מלכיה",
-      "gloss": "malkiyah"
+      "gloss": "မာလ်ကိယာ"
     }
   ],
-  "timestamp": "2026-08-23T16:34:21.146596296Z",
+  "timestamp": "2026-08-23T20:15:25.189389840Z",
   "model": "glm-5.3"
 }

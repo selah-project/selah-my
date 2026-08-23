@@ -5,78 +5,78 @@
   "book": "2-kings",
   "lang": "my",
   "chapter": 9,
-  "translation": "When Yehoram saw ⟨את⟩ Yehu, he said: 'Is it peace, Yehu?' And he said: 'What peace? — while the adulteries of Jezebel your mother and her many sorceries abound.'",
+  "translation": "ယောရာမ်သည် ⟨את⟩ ယေဟူကို မြင်သောအခါ \"ယေဟူ၊ ချမ်းသာရေးရှိသလော\" ဟု မေး၏။ ယေဟူက \"မိခင်အီဇေဗေလ၏ စွန့်ပစ်ကာမဝတ်မှုများနှင့် သူမ၏ များပြားလှသော ဝိဇ္ဇာပညာတို့ ရှိနေသ၍ ချမ်းသာရေး အဘယ်မျှ ရှိအံ့နည်း\" ဟု ပြန်ဆို၏။",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "it came to pass"
+      "gloss": "ဖြစ်၏"
     },
     {
       "surface": "כראות",
-      "gloss": "when he saw"
+      "gloss": "မြင်သောအခါ"
     },
     {
       "surface": "יהורם",
-      "gloss": "Yehoram"
+      "gloss": "ယောရာမ်သည်"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "Yehu"
+      "marks": "ယေဟူကို"
     },
     {
       "surface": "יהוא",
-      "gloss": "Yehu"
+      "gloss": "ယေဟူကို"
     },
     {
       "surface": "ויאמר",
-      "gloss": "and he said"
+      "gloss": "မေး၏"
     },
     {
       "surface": "השלום",
-      "gloss": "is it peace"
+      "gloss": "ချမ်းသာရေးရှိသလော"
     },
     {
       "surface": "יהוא",
-      "gloss": "Yehu"
+      "gloss": "ယေဟူ"
     },
     {
       "surface": "ויאמר",
-      "gloss": "and he said"
+      "gloss": "ပြန်ဆို၏"
     },
     {
       "surface": "מה",
-      "gloss": "what"
+      "gloss": "အဘယ်မျှ"
     },
     {
       "surface": "השלום",
-      "gloss": "peace"
+      "gloss": "ချမ်းသာရေး"
     },
     {
       "surface": "עד",
-      "gloss": "while"
+      "gloss": "ရှိနေသ၍"
     },
     {
       "surface": "זנוני",
-      "gloss": "adulteries"
+      "gloss": "စွန့်ပစ်ကာမဝတ်မှုများ"
     },
     {
       "surface": "איזבל",
-      "gloss": "Jezebel"
+      "gloss": "အီဇေဗေလ၏"
     },
     {
       "surface": "אמך",
-      "gloss": "your mother"
+      "gloss": "မိခင်သင်၏"
     },
     {
       "surface": "וכשפיה",
-      "gloss": "and her sorceries"
+      "gloss": "နှင့် သူမ၏ဝိဇ္ဇာပညာ"
     },
     {
       "surface": "הרבים",
-      "gloss": "the many"
+      "gloss": "များပြားလှသော"
     }
   ],
-  "timestamp": "2026-08-23T11:05:40.327806153Z",
+  "timestamp": "2026-08-23T20:23:40.882573988Z",
   "model": "glm-5.3"
 }

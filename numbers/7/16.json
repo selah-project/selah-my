@@ -5,25 +5,25 @@
   "book": "numbers",
   "lang": "my",
   "chapter": 7,
-  "translation": "ဆိတ်ပြိမ်တစ်ကောင်၊ sin offering ⟨အစားထိုး⟩ အဖြစ်ဖြင့်။",
+  "translation": "ဆိတ်ပြိုတစ်ကောင်၊ အပြစ်ဖြေပူဇော်ခြင်းအတွက်။",
   "tokens": [
     {
       "surface": "שעיר",
-      "gloss": "ဆိတ်ပြိမ်"
+      "gloss": "ဆိတ်ပြို"
     },
     {
       "surface": "עזים",
-      "gloss": "ဆိတ်များ"
+      "gloss": "ဆိတ်များ၏"
     },
     {
       "surface": "אחד",
-      "gloss": "တစ်ကောင်"
+      "gloss": "တစ်"
     },
     {
       "surface": "לחטאת",
-      "gloss": "sin offering ⟨အစားထိုး⟩"
+      "gloss": "အပြစ်ဖြေပူဇော်ခြင်းအတွက်"
     }
   ],
-  "timestamp": "2026-08-23T17:35:04.050259506Z",
+  "timestamp": "2026-08-23T19:06:54.283228631Z",
   "model": "glm-5.3"
 }

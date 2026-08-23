@@ -5,27 +5,27 @@
   "book": "lamentations",
   "lang": "my",
   "chapter": 2,
-  "translation": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>၏ <caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>များ၌ ဣသရေလ၏ ချိုအားလုံးကို ဖြတ်တော်မူ၏၊ ရန်သူ့ရှေ့တွင် မိမိလက်ယာကို နောက်ဆုတ်စေတော်မူ၏၊ <caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>၌ မီးလျှံကဲ့သို့ ပူလောင်စေတော်မူ၍ တစ်ခွင်လုံးကို စားသောက်စေ၏။",
+  "translation": "တပြင်လုံးအမျက်ကြမ်း၏ စူးရှမှ်၌ ⟨၎င်းသည်⟩ ဣသရေလ၏ ချိုအားလုံးကို ဖြတ်ချတော်မူ၏။ ရန်သူမျက်နှာဝ၌ ⟨၎င်း၏⟩ လက်ယာကို နောက်ပြန်လှည့်တော်မူ၏။ ထို့နောက် ယာကောဗ်အလယ်၌ မီးလျှံကဲ့သို့ မီးရှို့တော်မူ၍ ပတ်ပတ်လည်ကို စားသောက်ပျောက်ပျက်စေ၏။",
   "tokens": [
     {
       "surface": "גדע",
-      "gloss": "ဖြတ်၏<caleb-do><caleb-do>ချို့၏<caleb-do><caleb-do>"
+      "gloss": "ဖြတ်ချတော်မူ၏"
     },
     {
       "surface": "בחרי",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "…၏ စူးရှမှ်၌"
     },
     {
       "surface": "אף",
-      "gloss": "<caleb-do><caleb-do>ဣုဒါ<caleb-do><caleb-do>"
+      "gloss": "တပြင်လုံးအမျက်ကြမ်း"
     },
     {
       "surface": "כל",
-      "gloss": "<caleb-do><caleb-do>အားလုံး<caleb-do><caleb-do>"
+      "gloss": "အားလုံး"
     },
     {
       "surface": "קרן",
-      "gloss": "ချို<caleb-do><caleb-do>"
+      "gloss": "ချို"
     },
     {
       "surface": "ישראל",
@@ -33,7 +33,7 @@
     },
     {
       "surface": "השיב",
-      "gloss": "<caleb-do><caleb-do>ဆုတ်စေ၏<caleb-do><caleb-do>"
+      "gloss": "နောက်ပြန်လှည့်တော်မူ၏"
     },
     {
       "surface": "אחור",
@@ -41,11 +41,11 @@
     },
     {
       "surface": "ימינו",
-      "gloss": "<caleb-do><caleb-do>မိမိလက်ယာ<caleb-do><caleb-do>"
+      "gloss": "⟨၎င်း၏⟩ လက်ယာ"
     },
     {
       "surface": "מפני",
-      "gloss": "<caleb-do><caleb-do>ရှေ့တွင်<caleb-do><caleb-do>"
+      "gloss": "…မျက်နှာဝ၌"
     },
     {
       "surface": "אויב",
@@ -53,11 +53,11 @@
     },
     {
       "surface": "ויבער",
-      "gloss": "<caleb-do><caleb-do>ပူလောင်စေ၏<caleb-do><caleb-do>"
+      "gloss": "ထို့နောက် မီးရှို့တော်မူ၍"
     },
     {
       "surface": "ביעקב",
-      "gloss": "<caleb-do><caleb-do>ဂျကုပ်<caleb-do><caleb-do>၌<caleb-do><caleb-do>"
+      "gloss": "ယာကောဗ်အလယ်၌"
     },
     {
       "surface": "כאש",
@@ -65,17 +65,17 @@
     },
     {
       "surface": "להבה",
-      "gloss": "လျှံ<caleb-do><caleb-do>"
+      "gloss": "မီးလျှံ"
     },
     {
       "surface": "אכלה",
-      "gloss": "စားသောက်၏<caleb-do><caleb-do>"
+      "gloss": "စားသောက်ပျောက်ပျက်စေ၏"
     },
     {
       "surface": "סביב",
-      "gloss": "တစ်ခွင်လုံး"
+      "gloss": "ပတ်ပတ်လည်ကို"
     }
   ],
-  "timestamp": "2026-08-23T15:52:10.657244011Z",
+  "timestamp": "2026-08-23T20:10:40.656155286Z",
   "model": "glm-5.3"
 }

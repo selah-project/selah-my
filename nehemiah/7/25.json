@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "my",
   "chapter": 7,
-  "translation": "ဂိဗ်အုန်သားများ — 九十五။",
+  "translation": "ဂိဗ်အုန်၏သားများ — ကိုးဆယ့်ငါးယောက်။",
   "tokens": [
     {
       "surface": "בני",
@@ -16,14 +16,14 @@
       "gloss": "ဂိဗ်အုန်"
     },
     {
-      "surface": "תשעိם",
-      "gloss": "九十五"
+      "surface": "תשעים",
+      "gloss": "ကိုးဆယ့်"
     },
     {
       "surface": "וחמשה",
-      "gloss": "九十五"
+      "gloss": "ငါး"
     }
   ],
-  "timestamp": "2026-08-23T16:32:42.038059619Z",
+  "timestamp": "2026-08-23T20:14:54.202077842Z",
   "model": "glm-5.3"
 }

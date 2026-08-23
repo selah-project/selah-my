@@ -5,33 +5,33 @@
   "book": "psalms",
   "lang": "my",
   "chapter": 119,
-  "translation": "Cause me to walk in the path of commandments, for in it is my delight.",
+  "translation": "မင်္ဂလာရှိသော ခရီးလမ်း၌ သင့်ပညာရှိစေတော်မူ၊ အကြောင်းမူကား ကျမ်းစာလာဝတ်ပြုခြင်းကို ငါမှီဝဲလိုသော စိတ်ရှိပါသည်။",
   "tokens": [
     {
       "surface": "הדריכני",
-      "gloss": "Cause me to walk"
+      "gloss": "ငါ့ကို လမ်းပြပါ"
     },
     {
       "surface": "בנתיב",
-      "gloss": "in the path of"
+      "gloss": "လမ်းခရီး၌"
     },
     {
       "surface": "מצותיך",
-      "gloss": "commandments"
+      "gloss": "သင့်ပညာရှိများ"
     },
     {
       "surface": "כי",
-      "gloss": "for"
+      "gloss": "အကြောင်းမူကား"
     },
     {
       "surface": "בו",
-      "gloss": "in it"
+      "gloss": "ထိုအထဲ၌"
     },
     {
       "surface": "חפצתי",
-      "gloss": "is my delight"
+      "gloss": "ငါနှစ်သက်သည်"
     }
   ],
-  "timestamp": "2026-08-23T14:46:20.782022987Z",
+  "timestamp": "2026-08-23T20:45:57.598773858Z",
   "model": "glm-5.3"
 }

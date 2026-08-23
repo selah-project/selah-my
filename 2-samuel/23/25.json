@@ -5,25 +5,25 @@
   "book": "2-samuel",
   "lang": "my",
   "chapter": 23,
-  "translation": "ရှမ္မာ ⟨the⟩ ဟာရောဒိုက်သား၊ ဧလီကာ ⟨the⟩ ဟာရောဒိုက်သား၊",
+  "translation": "ရှမ်မာ ⟨the⟩ ဟာရောဒိုင်၊ ဧလိကာ ⟨the⟩ ဟာရောဒိုင်၊",
   "tokens": [
     {
       "surface": "שמה",
-      "gloss": "ရှမ္မာ"
+      "gloss": "ရှမ်မာ"
     },
     {
       "surface": "החרדי",
-      "gloss": "ဟာရောဒိုက်သား"
+      "gloss": "⟨the⟩ ဟာရောဒိုင်"
     },
     {
       "surface": "אליקא",
-      "gloss": "ဧလီကာ"
+      "gloss": "ဧလိကာ"
     },
     {
       "surface": "החרדי",
-      "gloss": "ဟာရောဒိုက်သား"
+      "gloss": "⟨the⟩ ဟာရောဒိုင်"
     }
   ],
-  "timestamp": "2026-08-23T17:48:15.611976312Z",
+  "timestamp": "2026-08-23T20:41:09.537989873Z",
   "model": "glm-5.3"
 }

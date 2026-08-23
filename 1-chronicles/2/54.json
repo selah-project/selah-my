@@ -5,53 +5,53 @@
   "book": "1-chronicles",
   "lang": "my",
   "chapter": 2,
-  "translation": "<value not translated>",
+  "translation": "ဆလ်မာ၏ သားများ — ဗက်လက်ဟမ်၊ နေတိုဖာတီများ၊ အာတရော့သ် ဗက် ယိုအာဘ်၊ မာနာဟတ်တီတို့၏ တစ်ဝက်၊ ဇောရိုက်တည်း။",
   "tokens": [
     {
       "surface": "בני",
-      "gloss": "သားများမှာ"
+      "gloss": "သားများ"
     },
     {
-      "surface": "שלမא",
-      "gloss": "ဆလ်မာ၏"
+      "surface": "סלמא",
+      "gloss": "ဆလ်မာ"
     },
     {
       "surface": "בית",
-      "gloss": "ဗက်လက်-"
+      "gloss": "ဗက်"
     },
     {
       "surface": "לחם",
-      "gloss": "လက်ဟက်မ် ၊"
+      "gloss": "လက်ဟမ်"
     },
     {
       "surface": "ונטופתי",
-      "gloss": "နေတိုဖာတိီများ ၊"
+      "gloss": "နှင့် နေတိုဖာတီများ"
     },
     {
       "surface": "עטרות",
-      "gloss": "အတ်ရို့သ်-"
+      "gloss": "အာတရော့သ်"
     },
     {
       "surface": "בית",
-      "gloss": "ဗက်-"
+      "gloss": "ဗက်"
     },
     {
       "surface": "יואב",
-      "gloss": "ယောအာဗ် ၊"
+      "gloss": "ယိုအာဘ်"
     },
     {
-      "surface": "初ک္ CHK χει م်ာ",
-      "gloss": ""
+      "surface": "וחצי",
+      "gloss": "နှင့် တစ်ဝက်"
     },
     {
-      "surface": "茶ीं္်််ေှ်ာ််",
-      "gloss": ""
+      "surface": "המנחתי",
+      "gloss": "မာနာဟတ်တီ"
     },
     {
-      "surface": "ာ်ှ်ာ််််ာ််််ာ",
-      "gloss": ""
+      "surface": "הצרעי",
+      "gloss": "ဇောရိုက်"
     }
   ],
-  "timestamp": "2026-08-23T16:41:04.426257255Z",
+  "timestamp": "2026-08-23T20:15:53.219419355Z",
   "model": "glm-5.3"
 }

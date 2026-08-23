@@ -5,97 +5,97 @@
   "book": "1-kings",
   "lang": "my",
   "chapter": 18,
-  "translation": "Ahab said to Obadyahu — go through the land, to all the springs of water, and to all the streams; perhaps grass will be found, and we will keep alive horse and mule, and we will not cut off ⟨any⟩ from the beasts.",
+  "translation": "အာဟပ်က အောဗဒ်ယာဟုအား «မြေပြည်အလယ် ရေစမြက်အားလုံးနှင့် ချောင်းများအားလုံးထံ သွားလော့။ မျှော်လင့်ချက်အားဖြင့် မြက်သစ်စများ တွေ့ရှိ၍ မြင်းများနှင့် လားများကို အသက်ရှင်စေကုန်အံ့၊ တိရစ္ဆာန်တို့အနက် ⟨တစ်ကောင်မျှ⟩ မဖြတ်ဆစ်ရစေသား» ဟု မိန့်တော်မူ၏။",
   "tokens": [
     {
       "surface": "ויאמר",
-      "gloss": "Ahab said"
+      "gloss": "မိန့်တော်မူ၏"
     },
     {
       "surface": "אחאב",
-      "gloss": "Ahab"
+      "gloss": "အာဟပ်"
     },
     {
       "surface": "אל",
-      "gloss": "to"
+      "gloss": "…အား"
     },
     {
       "surface": "עבדיהו",
-      "gloss": "Obadyahu"
+      "gloss": "အောဗဒ်ယာဟု"
     },
     {
       "surface": "לך",
-      "gloss": "go"
+      "gloss": "သွားလော့"
     },
     {
       "surface": "בארץ",
-      "gloss": "through the land"
+      "gloss": "မြေပြည်အလယ်"
     },
     {
       "surface": "אל",
-      "gloss": "to"
-    },
-    {
-      "surface": "κλ",
-      "gloss": "all"
-    },
-    {
-      "surface": "מעיני",
-      "gloss": "the springs of water"
-    },
-    {
-      "surface": "המים",
-      "gloss": "of water"
-    },
-    {
-      "surface": "ואל",
-      "gloss": "and to"
+      "gloss": "…ထံ"
     },
     {
       "surface": "כל",
-      "gloss": "all"
+      "gloss": "အားလုံး"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "ရေစမြက်"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ရေ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "နှင့်…ထံ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "အားလုံး"
     },
     {
       "surface": "הנחלים",
-      "gloss": "the streams"
+      "gloss": "ချောင်းများ"
     },
     {
       "surface": "אולי",
-      "gloss": "perhaps"
+      "gloss": "မျှော်လင့်ချက်အားဖြင့်"
     },
     {
       "surface": "נמצא",
-      "gloss": "will be found"
+      "gloss": "တွေ့ရှိ၍"
     },
     {
       "surface": "חציר",
-      "gloss": "grass"
+      "gloss": "မြက်သစ်စများ"
     },
     {
       "surface": "ונחיה",
-      "gloss": "and we will keep alive"
+      "gloss": "အသက်ရှင်စေကုန်အံ့"
     },
     {
       "surface": "סוס",
-      "gloss": "horse"
+      "gloss": "မြင်းများ"
     },
     {
       "surface": "ופרד",
-      "gloss": "and mule"
+      "gloss": "လားများ"
     },
     {
-      "surface": "ולא",
-      "gloss": "and not"
+      "surface": "ולוא",
+      "gloss": "မ…ရစေသား"
     },
     {
       "surface": "נכרית",
-      "gloss": "we will cut off"
+      "gloss": "ဖြတ်ဆစ်"
     },
     {
       "surface": "מהבהמה",
-      "gloss": "from the beasts"
+      "gloss": "တိရစ္ဆာန်တို့အနက်"
     }
   ],
-  "timestamp": "2026-08-23T10:53:43.893773186Z",
+  "timestamp": "2026-08-23T19:34:20.881080690Z",
   "model": "glm-5.3"
 }

@@ -5,25 +5,25 @@
   "book": "2-samuel",
   "lang": "my",
   "chapter": 23,
-  "translation": "ဣရအာ ⟨the⟩ ဣသရိလူမျိုး၊ ဂါရက်ဗ် ⟨the⟩ ဣသရိလူမျိုး။",
+  "translation": "ယိသရိလူ ဣရာ၊ ယိသရိလူ ဂါရက်။",
   "tokens": [
     {
       "surface": "עירא",
-      "gloss": "ဣရအာ"
+      "gloss": "ဣရာ"
     },
     {
       "surface": "היתרי",
-      "gloss": "ဣသရိလူမျိုး"
+      "gloss": "ယိသရိလူ"
     },
     {
       "surface": "גרב",
-      "gloss": "ဂါရက်ဗ်"
+      "gloss": "ဂါရက်"
     },
     {
       "surface": "היתרי",
-      "gloss": "ဣသရိလူမျိုး"
+      "gloss": "ယိသရိလူ"
     }
   ],
-  "timestamp": "2026-08-23T10:34:41.520427355Z",
+  "timestamp": "2026-08-23T19:28:57.080934565Z",
   "model": "glm-5.3"
 }

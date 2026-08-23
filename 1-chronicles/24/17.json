@@ -5,8 +5,33 @@
   "book": "1-chronicles",
   "lang": "my",
   "chapter": 24,
-  "translation": "ရbabelingvik",
-  "tokens": [],
-  "timestamp": "2026-08-23T16:54:45.915451662Z",
+  "translation": "၂၁ ခုမြောက်မှာ ယာခိန်အတွက်၊ ၂၂ ခုမြောက်မှာ ဂါမူလ်အတွက်။",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ယာခိန်အတွက်"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "တစ်"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "နှင့်နှစ်ဆယ်"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ဂါမူလ်အတွက်"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "နှစ်"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "နှင့်နှစ်ဆယ်"
+    }
+  ],
+  "timestamp": "2026-08-23T20:17:10.866102735Z",
   "model": "glm-5.3"
 }
