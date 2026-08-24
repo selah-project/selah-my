@@ -5,8 +5,29 @@
   "book": "ezekiel",
   "lang": "my",
   "chapter": 13,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-23T20:50:08.119103890Z",
+  "translation": "ယာဝေ၏ ⟨ဒဿန⟩ ငါထံသို့ ရောက်လာ၍ ⟨ပြောသည်မှာ⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ဖြစ်လာ၏"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ဒဿန⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ယာဝေ၏"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ငါထံသို့"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨ပြောသည်မှာ⟩"
+    }
+  ],
+  "timestamp": "2026-08-24T19:30:38.061838570Z",
   "model": "glm-5.3"
 }
