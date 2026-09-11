@@ -70,3 +70,8 @@
 စစ်ဆေးသည် — လက်ခံနိုင်သည်၊ သင်နှင့်အတူ ပြင်ဆင်နိုင်သည်၊
 အထောက်အထားထပ်စောင့်နိုင်သည်၊ သို့မဟုတ် အကြောင်းပြချက်ဖြင့်
 ငြင်းပယ်နိုင်သည်။ အကဲဖြတ်ခံရသည်မှာ စကားလုံးဖြစ်သည်၊ လူမဟုတ်။
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
